@@ -47,4 +47,5 @@ WHERE is_returned = 'Y'
 ORDER BY total_amount DESC;
 ```
 
+![query results](Nexus_query_11-14.png)
 
