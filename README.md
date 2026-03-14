@@ -1,12 +1,9 @@
 # SQL Financial Analysis — Nexus Commerce
 
 ## Project Overview
-Retail sales analysis for Nexus Commerce, a fictional large-scale 
-U.S. e-commerce retailer. This project demonstrates SQL querying 
-skills using a multi-table relational dataset.
+Retail sales analysis for Nexus Commerce, a fictional large-scale U.S. e-commerce retailer. This project demonstrates SQL querying skills using a multi-table relational dataset.
 
-## Practice Project
-This is a self-study project using fictional data, created for the purpose of learning and demonstrating SQL skills.
+> ⚠️ **Practice Project** — Self-study project using fictional data for learning and demonstrating SQL and Excel skills.
 
 ## Dataset
 - nexus_orders.csv — 1,500 transactions (2022–2024)
