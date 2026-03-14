@@ -1,0 +1,201 @@
+customer_id,first_name,last_name,email,age,gender,city,state,customer_segment,signup_date
+1,Charles,Smith,charles.smith1@email.com,35,M,Boston,MA,Prime Member,2019-07-29
+2,Nicole,Williams,nicole.williams2@email.com,45,M,Atlanta,GA,Prime Member,2020-03-23
+3,Barbara,Thompson,barbara.thompson3@email.com,19,F,Atlanta,GA,Standard,2020-03-27
+4,Kenneth,Allen,kenneth.allen4@email.com,69,M,Phoenix,AZ,Business Account,2022-11-30
+5,Andrew,Anderson,andrew.anderson5@email.com,27,F,Phoenix,AZ,Prime Member,2019-07-29
+6,David,Jackson,david.jackson6@email.com,40,F,Los Angeles,CA,Business Account,2019-03-30
+7,Joshua,Young,joshua.young7@email.com,42,F,Los Angeles,CA,Prime Member,2022-07-11
+8,Megan,Roberts,megan.roberts8@email.com,41,M,Nashville,TN,Standard,2019-04-04
+9,Barbara,Nelson,barbara.nelson9@email.com,23,M,Phoenix,AZ,Business Account,2021-02-17
+10,Jessica,Harris,jessica.harris10@email.com,71,F,Seattle,WA,Standard,2020-12-28
+11,Linda,Green,linda.green11@email.com,62,M,Phoenix,AZ,Student,2022-06-01
+12,Mary,Young,mary.young12@email.com,33,F,Boston,MA,Prime Member,2020-07-06
+13,Emily,Davis,emily.davis13@email.com,38,M,Seattle,WA,Business Account,2020-04-14
+14,Robert,Carter,robert.carter14@email.com,43,M,Philadelphia,PA,Prime Member,2022-03-07
+15,Christopher,Miller,christopher.miller15@email.com,49,F,Seattle,WA,Standard,2019-10-20
+16,Susan,Jones,susan.jones16@email.com,65,F,Houston,TX,Standard,2022-04-12
+17,Andrew,Roberts,andrew.roberts17@email.com,43,M,Atlanta,GA,Standard,2021-11-09
+18,Amanda,Williams,amanda.williams18@email.com,21,M,Denver,CO,Business Account,2022-07-09
+19,Mary,Carter,mary.carter19@email.com,45,F,Seattle,WA,Standard,2021-02-20
+20,Hannah,Harris,hannah.harris20@email.com,34,M,Dallas,TX,Student,2022-10-25
+21,Charles,Green,charles.green21@email.com,52,F,Portland,OR,Business Account,2019-08-17
+22,Sarah,White,sarah.white22@email.com,47,F,Chicago,IL,Prime Member,2021-10-22
+23,Patricia,Thompson,patricia.thompson23@email.com,24,F,Portland,OR,Business Account,2022-08-01
+24,Stephanie,King,stephanie.king24@email.com,27,M,Houston,TX,Standard,2022-01-09
+25,Melissa,Turner,melissa.turner25@email.com,56,M,New York,NY,Prime Member,2019-08-18
+26,Mark,Roberts,mark.roberts26@email.com,69,M,Nashville,TN,Prime Member,2020-05-08
+27,Emma,Williams,emma.williams27@email.com,64,M,Los Angeles,CA,Standard,2021-12-26
+28,Thomas,Jones,thomas.jones28@email.com,48,M,Seattle,WA,Student,2020-06-26
+29,Melissa,Perez,melissa.perez29@email.com,45,M,Atlanta,GA,Student,2022-12-31
+30,Karen,Jackson,karen.jackson30@email.com,59,F,Seattle,WA,Standard,2019-09-05
+31,Elizabeth,Davis,elizabeth.davis31@email.com,39,M,Los Angeles,CA,Prime Member,2022-04-20
+32,Barbara,Smith,barbara.smith32@email.com,63,M,Los Angeles,CA,Standard,2019-05-19
+33,Robert,Perez,robert.perez33@email.com,22,F,Philadelphia,PA,Standard,2022-10-02
+34,Amanda,Miller,amanda.miller34@email.com,26,F,Dallas,TX,Standard,2020-05-12
+35,Ashley,Carter,ashley.carter35@email.com,30,F,San Antonio,TX,Prime Member,2020-12-26
+36,Andrew,White,andrew.white36@email.com,64,M,San Diego,CA,Prime Member,2019-05-05
+37,Steven,Adams,steven.adams37@email.com,69,M,Philadelphia,PA,Business Account,2020-01-28
+38,Jennifer,Young,jennifer.young38@email.com,26,F,San Diego,CA,Standard,2021-08-05
+39,Elizabeth,Perez,elizabeth.perez39@email.com,22,M,Portland,OR,Standard,2019-04-14
+40,Nicole,Mitchell,nicole.mitchell40@email.com,23,M,New York,NY,Student,2019-12-07
+41,Paul,Martin,paul.martin41@email.com,31,M,San Diego,CA,Business Account,2019-12-04
+42,Donald,Smith,donald.smith42@email.com,34,F,San Antonio,TX,Student,2020-08-07
+43,Andrew,Baker,andrew.baker43@email.com,68,F,Boston,MA,Standard,2019-11-14
+44,Jennifer,Taylor,jennifer.taylor44@email.com,21,M,Houston,TX,Standard,2020-10-04
+45,Michael,Johnson,michael.johnson45@email.com,48,M,Atlanta,GA,Standard,2019-04-27
+46,Stephanie,Williams,stephanie.williams46@email.com,29,M,Nashville,TN,Prime Member,2022-10-14
+47,Elizabeth,Jackson,elizabeth.jackson47@email.com,54,M,Los Angeles,CA,Prime Member,2022-06-22
+48,David,White,david.white48@email.com,55,F,Seattle,WA,Standard,2020-06-18
+49,Linda,Green,linda.green49@email.com,38,F,Boston,MA,Prime Member,2019-09-26
+50,Karen,Harris,karen.harris50@email.com,66,M,Philadelphia,PA,Student,2021-07-27
+51,Megan,Allen,megan.allen51@email.com,22,F,Los Angeles,CA,Standard,2019-09-29
+52,Anthony,Roberts,anthony.roberts52@email.com,33,M,Los Angeles,CA,Standard,2021-06-16
+53,Nicole,Baker,nicole.baker53@email.com,57,M,Phoenix,AZ,Student,2022-09-29
+54,Emily,Taylor,emily.taylor54@email.com,60,M,Portland,OR,Prime Member,2020-06-25
+55,Charles,Roberts,charles.roberts55@email.com,65,F,Los Angeles,CA,Standard,2020-07-31
+56,Hannah,Miller,hannah.miller56@email.com,39,F,Boston,MA,Prime Member,2021-11-01
+57,Amanda,Wilson,amanda.wilson57@email.com,72,F,Portland,OR,Prime Member,2020-07-20
+58,Robert,Smith,robert.smith58@email.com,67,F,Philadelphia,PA,Prime Member,2019-11-27
+59,Kenneth,Young,kenneth.young59@email.com,45,M,Boston,MA,Standard,2019-06-04
+60,Daniel,Young,daniel.young60@email.com,71,M,New York,NY,Standard,2021-05-30
+61,Thomas,Johnson,thomas.johnson61@email.com,41,M,Phoenix,AZ,Business Account,2021-01-02
+62,Linda,Green,linda.green62@email.com,60,F,Houston,TX,Prime Member,2022-06-25
+63,Daniel,Turner,daniel.turner63@email.com,33,M,Portland,OR,Business Account,2021-04-24
+64,John,Garcia,john.garcia64@email.com,39,F,Boston,MA,Business Account,2022-10-03
+65,Elizabeth,Wilson,elizabeth.wilson65@email.com,68,F,Chicago,IL,Standard,2019-03-21
+66,Ashley,Davis,ashley.davis66@email.com,70,F,Houston,TX,Student,2020-09-17
+67,Barbara,Davis,barbara.davis67@email.com,60,F,New York,NY,Prime Member,2020-07-24
+68,William,Nelson,william.nelson68@email.com,40,F,Phoenix,AZ,Standard,2022-10-23
+69,Nicole,Anderson,nicole.anderson69@email.com,25,F,New York,NY,Business Account,2020-01-01
+70,Olivia,Wilson,olivia.wilson70@email.com,24,F,New York,NY,Standard,2020-10-04
+71,Andrew,King,andrew.king71@email.com,25,M,Dallas,TX,Standard,2020-06-05
+72,Robert,Baker,robert.baker72@email.com,18,M,San Antonio,TX,Standard,2021-01-15
+73,Andrew,Williams,andrew.williams73@email.com,39,M,Seattle,WA,Standard,2020-09-07
+74,Stephanie,Taylor,stephanie.taylor74@email.com,44,F,Seattle,WA,Prime Member,2022-02-09
+75,Thomas,Miller,thomas.miller75@email.com,60,M,San Antonio,TX,Student,2022-06-14
+76,Emma,Taylor,emma.taylor76@email.com,53,F,San Antonio,TX,Business Account,2020-08-10
+77,Linda,White,linda.white77@email.com,55,F,Denver,CO,Standard,2021-08-10
+78,Kenneth,Harris,kenneth.harris78@email.com,31,M,Seattle,WA,Standard,2022-09-11
+79,David,Taylor,david.taylor79@email.com,60,F,Dallas,TX,Standard,2019-07-11
+80,Elizabeth,Green,elizabeth.green80@email.com,32,M,Phoenix,AZ,Business Account,2019-02-20
+81,Robert,Davis,robert.davis81@email.com,57,M,San Diego,CA,Business Account,2021-07-21
+82,Paul,Roberts,paul.roberts82@email.com,54,F,Seattle,WA,Prime Member,2021-10-09
+83,Steven,Davis,steven.davis83@email.com,59,M,Chicago,IL,Standard,2021-05-20
+84,Barbara,Garcia,barbara.garcia84@email.com,62,M,Denver,CO,Standard,2022-02-15
+85,Elizabeth,Turner,elizabeth.turner85@email.com,25,F,Nashville,TN,Standard,2022-09-29
+86,Melissa,Young,melissa.young86@email.com,38,F,Atlanta,GA,Student,2022-06-08
+87,Stephanie,White,stephanie.white87@email.com,53,M,Nashville,TN,Standard,2021-08-30
+88,Kenneth,Wilson,kenneth.wilson88@email.com,33,F,Denver,CO,Business Account,2021-12-03
+89,Amanda,Scott,amanda.scott89@email.com,35,F,Houston,TX,Standard,2020-04-25
+90,Jessica,Anderson,jessica.anderson90@email.com,52,M,Philadelphia,PA,Prime Member,2020-04-18
+91,Donald,Baker,donald.baker91@email.com,63,F,Chicago,IL,Prime Member,2021-04-14
+92,Matthew,Young,matthew.young92@email.com,44,F,San Diego,CA,Prime Member,2021-03-08
+93,Olivia,Baker,olivia.baker93@email.com,72,F,New York,NY,Business Account,2021-09-03
+94,James,Thomas,james.thomas94@email.com,66,F,Phoenix,AZ,Standard,2022-01-07
+95,Nicole,Carter,nicole.carter95@email.com,32,F,Atlanta,GA,Standard,2021-06-11
+96,Amanda,Smith,amanda.smith96@email.com,39,F,San Antonio,TX,Standard,2019-12-05
+97,Joshua,Turner,joshua.turner97@email.com,57,F,Chicago,IL,Standard,2022-04-27
+98,Emma,Green,emma.green98@email.com,23,M,New York,NY,Standard,2021-08-03
+99,Patricia,Johnson,patricia.johnson99@email.com,42,F,Phoenix,AZ,Prime Member,2020-10-31
+100,Matthew,Nelson,matthew.nelson100@email.com,42,F,Portland,OR,Prime Member,2020-05-31
+101,David,Martin,david.martin101@email.com,65,F,New York,NY,Standard,2020-04-04
+102,William,Nelson,william.nelson102@email.com,20,M,Seattle,WA,Business Account,2020-02-13
+103,John,King,john.king103@email.com,33,M,Chicago,IL,Prime Member,2022-03-01
+104,Linda,Harris,linda.harris104@email.com,34,M,Boston,MA,Business Account,2022-05-25
+105,Hannah,Adams,hannah.adams105@email.com,25,M,Boston,MA,Business Account,2020-09-29
+106,Joseph,Allen,joseph.allen106@email.com,37,F,New York,NY,Standard,2021-03-23
+107,Jennifer,Williams,jennifer.williams107@email.com,62,M,Atlanta,GA,Business Account,2019-07-28
+108,Karen,Perez,karen.perez108@email.com,56,M,Seattle,WA,Business Account,2020-12-12
+109,Nicole,White,nicole.white109@email.com,41,F,Seattle,WA,Prime Member,2019-01-26
+110,Paul,Mitchell,paul.mitchell110@email.com,24,F,San Diego,CA,Standard,2022-07-25
+111,Joshua,Baker,joshua.baker111@email.com,45,F,Chicago,IL,Prime Member,2022-06-15
+112,Nicole,Nelson,nicole.nelson112@email.com,47,F,San Diego,CA,Standard,2020-10-22
+113,Elizabeth,Mitchell,elizabeth.mitchell113@email.com,23,F,Portland,OR,Prime Member,2020-05-14
+114,Joshua,Allen,joshua.allen114@email.com,60,M,Atlanta,GA,Standard,2021-10-09
+115,Christopher,Garcia,christopher.garcia115@email.com,31,F,San Diego,CA,Standard,2020-11-28
+116,Jessica,Roberts,jessica.roberts116@email.com,62,M,Atlanta,GA,Business Account,2021-11-24
+117,Jennifer,Williams,jennifer.williams117@email.com,64,M,Houston,TX,Standard,2022-11-15
+118,Ashley,Scott,ashley.scott118@email.com,49,M,Boston,MA,Standard,2019-07-10
+119,Sarah,Davis,sarah.davis119@email.com,62,F,San Antonio,TX,Prime Member,2021-08-27
+120,Emily,Thompson,emily.thompson120@email.com,45,F,Philadelphia,PA,Student,2020-12-21
+121,Joshua,Wilson,joshua.wilson121@email.com,34,M,Phoenix,AZ,Prime Member,2020-10-08
+122,Charles,Adams,charles.adams122@email.com,66,M,Dallas,TX,Standard,2020-03-19
+123,Ashley,Wilson,ashley.wilson123@email.com,55,F,Boston,MA,Student,2019-07-25
+124,Jennifer,Taylor,jennifer.taylor124@email.com,41,M,Houston,TX,Prime Member,2022-12-21
+125,Nicole,Jones,nicole.jones125@email.com,20,F,Phoenix,AZ,Student,2022-11-29
+126,Thomas,Scott,thomas.scott126@email.com,66,M,Nashville,TN,Standard,2022-03-21
+127,Sarah,Martin,sarah.martin127@email.com,46,M,San Diego,CA,Prime Member,2020-06-01
+128,Ashley,Brown,ashley.brown128@email.com,22,M,Nashville,TN,Standard,2022-03-27
+129,Michael,Jones,michael.jones129@email.com,69,F,Chicago,IL,Standard,2019-06-24
+130,Elizabeth,Brown,elizabeth.brown130@email.com,66,M,Dallas,TX,Standard,2021-12-06
+131,Donald,Harris,donald.harris131@email.com,46,F,Portland,OR,Prime Member,2020-09-17
+132,Emma,King,emma.king132@email.com,57,M,New York,NY,Student,2020-03-01
+133,Linda,Wilson,linda.wilson133@email.com,23,M,Seattle,WA,Prime Member,2022-02-04
+134,William,Garcia,william.garcia134@email.com,44,F,New York,NY,Standard,2020-08-19
+135,Robert,Davis,robert.davis135@email.com,63,F,Phoenix,AZ,Prime Member,2019-05-26
+136,Barbara,Turner,barbara.turner136@email.com,68,M,Phoenix,AZ,Business Account,2021-05-20
+137,Charles,Young,charles.young137@email.com,59,F,Houston,TX,Prime Member,2019-10-19
+138,William,Johnson,william.johnson138@email.com,68,F,Chicago,IL,Prime Member,2021-06-18
+139,Charles,Harris,charles.harris139@email.com,37,F,Boston,MA,Standard,2021-10-21
+140,Nicole,Martin,nicole.martin140@email.com,23,F,San Diego,CA,Standard,2020-10-22
+141,Hannah,Wilson,hannah.wilson141@email.com,23,M,New York,NY,Prime Member,2022-10-08
+142,Jessica,Allen,jessica.allen142@email.com,66,F,New York,NY,Business Account,2021-11-28
+143,Kenneth,Turner,kenneth.turner143@email.com,29,F,Phoenix,AZ,Student,2022-07-24
+144,Amanda,Williams,amanda.williams144@email.com,40,F,San Diego,CA,Standard,2022-10-04
+145,Joseph,Perez,joseph.perez145@email.com,39,F,Chicago,IL,Standard,2020-08-13
+146,Steven,Mitchell,steven.mitchell146@email.com,53,M,Denver,CO,Prime Member,2020-10-06
+147,Susan,Anderson,susan.anderson147@email.com,67,M,Los Angeles,CA,Standard,2022-09-08
+148,Nicole,Harris,nicole.harris148@email.com,21,F,San Antonio,TX,Prime Member,2022-06-29
+149,Amanda,Scott,amanda.scott149@email.com,66,F,San Diego,CA,Prime Member,2022-01-29
+150,Thomas,Turner,thomas.turner150@email.com,46,F,Phoenix,AZ,Business Account,2019-09-06
+151,John,Scott,john.scott151@email.com,69,M,Atlanta,GA,Prime Member,2020-09-28
+152,Emily,Smith,emily.smith152@email.com,44,M,Dallas,TX,Prime Member,2021-08-03
+153,Charles,Scott,charles.scott153@email.com,27,F,Nashville,TN,Standard,2021-11-08
+154,Jessica,White,jessica.white154@email.com,48,M,Nashville,TN,Student,2021-07-24
+155,Emily,Jones,emily.jones155@email.com,30,M,San Antonio,TX,Student,2019-05-23
+156,Jessica,Nelson,jessica.nelson156@email.com,72,F,Denver,CO,Standard,2019-01-06
+157,Sarah,Adams,sarah.adams157@email.com,71,F,Phoenix,AZ,Standard,2019-11-01
+158,Kenneth,Young,kenneth.young158@email.com,40,F,San Diego,CA,Prime Member,2021-07-21
+159,Christopher,Perez,christopher.perez159@email.com,62,F,Houston,TX,Prime Member,2020-04-23
+160,Paul,Johnson,paul.johnson160@email.com,65,F,Philadelphia,PA,Standard,2021-03-01
+161,Daniel,Martin,daniel.martin161@email.com,26,F,New York,NY,Standard,2019-07-25
+162,Kenneth,Brown,kenneth.brown162@email.com,47,M,Dallas,TX,Prime Member,2021-04-19
+163,Daniel,Williams,daniel.williams163@email.com,68,F,San Diego,CA,Student,2022-06-30
+164,Steven,Scott,steven.scott164@email.com,72,F,Los Angeles,CA,Prime Member,2020-10-10
+165,Amanda,Perez,amanda.perez165@email.com,20,M,Dallas,TX,Standard,2022-07-16
+166,Sarah,Davis,sarah.davis166@email.com,23,M,Boston,MA,Standard,2022-07-21
+167,Joseph,Harris,joseph.harris167@email.com,62,M,Chicago,IL,Prime Member,2019-04-05
+168,Christopher,Carter,christopher.carter168@email.com,36,F,New York,NY,Standard,2019-10-26
+169,Elizabeth,Thompson,elizabeth.thompson169@email.com,54,M,San Antonio,TX,Standard,2019-12-15
+170,Patricia,Williams,patricia.williams170@email.com,42,M,Atlanta,GA,Standard,2021-10-16
+171,Olivia,Jones,olivia.jones171@email.com,47,F,Houston,TX,Standard,2020-06-06
+172,James,Roberts,james.roberts172@email.com,47,M,Denver,CO,Student,2019-06-01
+173,Kenneth,Thomas,kenneth.thomas173@email.com,37,F,Atlanta,GA,Standard,2022-11-14
+174,Susan,Harris,susan.harris174@email.com,37,F,Nashville,TN,Prime Member,2021-09-16
+175,Joseph,Davis,joseph.davis175@email.com,54,F,San Antonio,TX,Standard,2022-12-03
+176,Sarah,Smith,sarah.smith176@email.com,60,M,Nashville,TN,Standard,2022-03-05
+177,Michael,Turner,michael.turner177@email.com,65,F,Atlanta,GA,Standard,2020-04-16
+178,Hannah,Carter,hannah.carter178@email.com,32,F,Philadelphia,PA,Standard,2022-10-20
+179,Thomas,Scott,thomas.scott179@email.com,58,F,Los Angeles,CA,Standard,2021-06-21
+180,Robert,Allen,robert.allen180@email.com,64,F,Philadelphia,PA,Prime Member,2020-10-31
+181,Paul,Garcia,paul.garcia181@email.com,26,F,Houston,TX,Business Account,2021-12-23
+182,Stephanie,Turner,stephanie.turner182@email.com,71,F,Phoenix,AZ,Prime Member,2020-08-27
+183,Matthew,Carter,matthew.carter183@email.com,47,M,Los Angeles,CA,Student,2020-04-07
+184,Steven,Perez,steven.perez184@email.com,53,F,Denver,CO,Standard,2019-01-29
+185,Susan,Young,susan.young185@email.com,47,F,Los Angeles,CA,Standard,2022-04-12
+186,Donald,Mitchell,donald.mitchell186@email.com,41,M,Seattle,WA,Prime Member,2021-08-23
+187,John,King,john.king187@email.com,53,M,Portland,OR,Prime Member,2022-08-19
+188,William,Scott,william.scott188@email.com,47,F,Nashville,TN,Student,2022-08-22
+189,Paul,Brown,paul.brown189@email.com,20,F,Chicago,IL,Student,2021-10-05
+190,Charles,Brown,charles.brown190@email.com,52,F,Houston,TX,Prime Member,2021-01-29
+191,Nicole,White,nicole.white191@email.com,65,F,Atlanta,GA,Standard,2022-09-03
+192,Joseph,Mitchell,joseph.mitchell192@email.com,57,F,San Diego,CA,Standard,2019-03-09
+193,Mark,Miller,mark.miller193@email.com,46,F,San Diego,CA,Student,2019-07-23
+194,Mark,Young,mark.young194@email.com,59,F,Portland,OR,Standard,2020-07-19
+195,Jennifer,Brown,jennifer.brown195@email.com,70,M,Nashville,TN,Standard,2022-08-07
+196,Hannah,Smith,hannah.smith196@email.com,68,M,New York,NY,Prime Member,2022-03-02
+197,Linda,Williams,linda.williams197@email.com,66,M,Nashville,TN,Standard,2020-04-22
+198,Matthew,Nelson,matthew.nelson198@email.com,68,M,Chicago,IL,Student,2020-07-21
+199,Daniel,Jones,daniel.jones199@email.com,34,M,Dallas,TX,Business Account,2022-09-15
+200,John,Jones,john.jones200@email.com,40,M,New York,NY,Business Account,2022-04-20

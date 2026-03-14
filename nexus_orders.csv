@@ -1,0 +1,1501 @@
+order_id,customer_id,product_id,order_date,quantity,unit_price,discount_rate,discount_amount,final_unit_price,total_amount,total_cost,gross_profit,payment_method,order_status,sales_channel,warehouse,is_returned
+1,152,8,2024-08-03,1,49,0,0.0,49.0,49.0,31.84,17.16,Credit Card,Shipped,Alexa,ONT8 - Ontario CA,N
+2,166,12,2024-08-05,2,699,0,0.0,699.0,1398.0,706.0,692.0,Gift Card,Processing,Mobile App,ONT8 - Ontario CA,N
+3,116,74,2024-09-01,2,25,0,0.0,25.0,50.0,30.1,19.9,Gift Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+4,183,11,2023-05-23,2,1399,0,0.0,1399.0,2798.0,1599.5,1198.5,Buy Now Pay Later,Processing,Mobile App,ATL6 - Atlanta GA,N
+5,41,47,2024-04-17,1,199,0,0.0,199.0,199.0,100.42,98.58,Amazon Pay,Returned,Website,SEA6 - Seattle WA,Y
+6,166,43,2024-03-02,1,49,0,0.0,49.0,49.0,30.71,18.29,Amazon Pay,Delivered,Mobile App,ATL6 - Atlanta GA,N
+7,39,43,2023-12-18,1,49,5,2.45,46.55,46.55,30.71,15.84,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+8,153,11,2023-11-04,1,1399,0,0.0,1399.0,1399.0,799.75,599.25,Amazon Pay,Returned,Mobile App,SEA6 - Seattle WA,Y
+9,176,68,2024-11-07,1,10,5,0.5,9.5,9.5,4.94,4.56,Credit Card,Delivered,Website,JFK8 - New York NY,N
+10,88,63,2022-11-14,1,15,20,3.0,12.0,12.0,9.65,2.35,PayPal,Delivered,Website,ATL6 - Atlanta GA,N
+11,190,68,2022-09-26,1,10,5,0.5,9.5,9.5,4.94,4.56,Credit Card,Processing,Website,SEA6 - Seattle WA,N
+12,198,80,2024-06-15,3,18,0,0.0,18.0,54.0,29.07,24.93,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+13,157,37,2023-04-25,3,59,10,5.9,53.1,159.3,86.07,73.23,Credit Card,Shipped,Mobile App,DAL7 - Dallas TX,N
+14,50,48,2024-06-21,2,19,5,0.95,18.05,36.1,19.72,16.38,Credit Card,Shipped,Website,ATL6 - Atlanta GA,N
+15,108,21,2022-10-11,3,99,10,9.9,89.1,267.3,155.88,111.42,Credit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+16,142,14,2022-09-13,2,129,0,0.0,129.0,258.0,139.52,118.48,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+17,38,56,2024-07-12,1,17,15,2.55,14.45,14.45,8.94,5.51,Gift Card,Cancelled,Website,DAL7 - Dallas TX,N
+18,129,48,2024-02-07,1,19,20,3.8,15.2,15.2,9.86,5.34,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+19,167,43,2023-08-11,3,49,0,0.0,49.0,147.0,92.13,54.87,Debit Card,Cancelled,Alexa,SEA6 - Seattle WA,N
+20,121,58,2022-02-08,2,22,20,4.4,17.6,35.2,20.44,14.76,PayPal,Delivered,Mobile App,SEA6 - Seattle WA,N
+21,156,68,2023-05-02,1,10,10,1.0,9.0,9.0,4.94,4.06,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+22,118,9,2022-02-03,1,99,15,14.85,84.15,84.15,58.13,26.02,Debit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+23,110,1,2024-05-03,2,999,0,0.0,999.0,1998.0,1028.48,969.52,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+24,18,68,2024-11-05,2,10,10,1.0,9.0,18.0,9.88,8.12,Credit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+25,100,48,2022-05-19,1,19,0,0.0,19.0,19.0,9.86,9.14,Amazon Pay,Delivered,Mobile App,ATL6 - Atlanta GA,N
+26,189,43,2023-11-25,1,49,0,0.0,49.0,49.0,30.71,18.29,Credit Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+27,179,62,2022-05-10,2,195,10,19.5,175.5,351.0,198.08,152.92,Gift Card,Returned,Website,JFK8 - New York NY,Y
+28,12,26,2023-09-28,4,449,5,22.45,426.55,1706.2,1048.88,657.32,Buy Now Pay Later,Shipped,Mobile App,MDW2 - Chicago IL,N
+29,10,25,2022-04-08,1,499,10,49.9,449.1,449.1,283.08,166.02,Credit Card,Cancelled,Website,MDW2 - Chicago IL,N
+30,112,52,2024-03-02,2,17,10,1.7,15.3,30.6,15.36,15.24,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+31,133,35,2022-06-11,3,149,10,14.9,134.1,402.3,203.73,198.57,Buy Now Pay Later,Shipped,Website,MDW2 - Chicago IL,N
+32,83,14,2023-09-20,1,129,5,6.45,122.55,122.55,69.76,52.79,Amazon Pay,Shipped,Website,DAL7 - Dallas TX,N
+33,90,58,2023-12-24,1,22,15,3.3,18.7,18.7,10.22,8.48,Debit Card,Processing,Mobile App,ONT8 - Ontario CA,N
+34,20,52,2022-11-24,1,17,10,1.7,15.3,15.3,7.68,7.62,Credit Card,Cancelled,Mobile App,DAL7 - Dallas TX,N
+35,9,17,2024-01-21,1,89,10,8.9,80.1,80.1,47.71,32.39,Gift Card,Delivered,Website,JFK8 - New York NY,N
+36,174,58,2022-06-07,5,22,5,1.1,20.9,104.5,51.1,53.4,Debit Card,Processing,Website,SEA6 - Seattle WA,N
+37,72,32,2023-01-17,5,69,0,0.0,69.0,345.0,163.2,181.8,Credit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+38,199,34,2023-08-08,2,35,0,0.0,35.0,70.0,40.02,29.98,Buy Now Pay Later,Processing,Website,JFK8 - New York NY,N
+39,19,58,2022-06-29,1,22,5,1.1,20.9,20.9,10.22,10.68,Buy Now Pay Later,Returned,Third-Party Marketplace,SEA6 - Seattle WA,Y
+40,89,9,2023-09-07,2,99,0,0.0,99.0,198.0,116.26,81.74,Amazon Pay,Returned,Third-Party Marketplace,SEA6 - Seattle WA,Y
+41,45,47,2023-02-16,2,199,0,0.0,199.0,398.0,200.84,197.16,Credit Card,Returned,Mobile App,MDW2 - Chicago IL,Y
+42,142,74,2022-09-23,1,25,10,2.5,22.5,22.5,15.05,7.45,Credit Card,Processing,Website,SEA6 - Seattle WA,N
+43,185,62,2022-06-01,2,195,10,19.5,175.5,351.0,198.08,152.92,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+44,175,67,2023-01-08,1,54,10,5.4,48.6,48.6,28.57,20.03,Credit Card,Returned,Mobile App,ONT8 - Ontario CA,Y
+45,32,67,2023-10-23,1,54,0,0.0,54.0,54.0,28.57,25.43,Credit Card,Cancelled,Third-Party Marketplace,ATL6 - Atlanta GA,N
+46,73,11,2023-07-17,1,1399,5,69.95,1329.05,1329.05,799.75,529.3,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+47,165,22,2022-12-17,2,129,5,6.45,122.55,245.1,119.56,125.54,Amazon Pay,Processing,Mobile App,ATL6 - Atlanta GA,N
+48,11,4,2023-06-27,1,1099,15,164.85,934.15,934.15,599.23,334.92,Amazon Pay,Processing,Website,SEA6 - Seattle WA,N
+49,8,64,2023-09-11,4,12,0,0.0,12.0,48.0,29.6,18.4,PayPal,Shipped,Mobile App,MDW2 - Chicago IL,N
+50,117,10,2024-05-01,2,149,0,0.0,149.0,298.0,138.48,159.52,Credit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+51,184,41,2024-03-27,2,39,10,3.9,35.1,70.2,37.56,32.64,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+52,62,60,2022-10-16,1,17,5,0.85,16.15,16.15,10.58,5.57,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+53,108,32,2023-11-02,5,69,15,10.35,58.65,293.25,163.2,130.05,Amazon Pay,Cancelled,Website,JFK8 - New York NY,N
+54,128,66,2024-10-15,1,38,10,3.8,34.2,34.2,20.41,13.79,Gift Card,Delivered,Mobile App,JFK8 - New York NY,N
+55,56,75,2024-10-10,1,12,0,0.0,12.0,12.0,5.83,6.17,PayPal,Processing,Mobile App,MDW2 - Chicago IL,N
+56,138,2,2023-06-26,3,849,5,42.45,806.55,2419.65,1172.85,1246.8,Amazon Pay,Returned,Website,DAL7 - Dallas TX,Y
+57,14,73,2023-08-15,2,14,5,0.7,13.3,26.6,13.7,12.9,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+58,160,79,2024-03-17,1,9,20,1.8,7.2,7.2,4.32,2.88,Buy Now Pay Later,Delivered,Mobile App,MDW2 - Chicago IL,N
+59,194,19,2024-10-21,1,249,0,0.0,249.0,249.0,132.77,116.23,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+60,133,59,2022-10-14,1,18,15,2.7,15.3,15.3,9.67,5.63,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+61,190,39,2024-11-09,2,45,10,4.5,40.5,81.0,42.16,38.84,Amazon Pay,Shipped,Website,ONT8 - Ontario CA,N
+62,95,43,2023-09-23,2,49,20,9.8,39.2,78.4,61.42,16.98,Amazon Pay,Returned,Mobile App,ONT8 - Ontario CA,Y
+63,153,61,2023-04-12,1,599,5,29.95,569.05,569.05,338.24,230.81,Debit Card,Returned,Website,SEA6 - Seattle WA,Y
+64,185,80,2023-05-12,3,18,0,0.0,18.0,54.0,29.07,24.93,Gift Card,Delivered,Website,ONT8 - Ontario CA,N
+65,113,41,2023-02-22,1,39,5,1.95,37.05,37.05,18.78,18.27,Amazon Pay,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+66,187,8,2023-10-28,2,49,10,4.9,44.1,88.2,63.68,24.52,Debit Card,Cancelled,Website,JFK8 - New York NY,N
+67,118,69,2023-06-26,1,9,0,0.0,9.0,9.0,4.97,4.03,Credit Card,Processing,Website,ATL6 - Atlanta GA,N
+68,77,29,2023-08-15,5,449,20,89.8,359.2,1796.0,1168.15,627.85,Amazon Pay,Processing,Mobile App,DAL7 - Dallas TX,N
+69,90,72,2023-07-15,4,18,15,2.7,15.3,61.2,35.8,25.4,Debit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+70,89,19,2022-06-11,1,249,0,0.0,249.0,249.0,132.77,116.23,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+71,55,26,2023-07-11,3,449,0,0.0,449.0,1347.0,786.66,560.34,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+72,13,68,2022-07-25,1,10,0,0.0,10.0,10.0,4.94,5.06,Amazon Pay,Delivered,Website,JFK8 - New York NY,N
+73,2,71,2024-09-01,5,22,0,0.0,22.0,110.0,65.5,44.5,Credit Card,Shipped,Third-Party Marketplace,MDW2 - Chicago IL,N
+74,74,8,2023-04-21,4,49,0,0.0,49.0,196.0,127.36,68.64,Amazon Pay,Shipped,Third-Party Marketplace,JFK8 - New York NY,N
+75,107,23,2024-03-24,4,149,0,0.0,149.0,596.0,319.68,276.32,Credit Card,Returned,Mobile App,MDW2 - Chicago IL,Y
+76,10,2,2023-11-18,1,849,5,42.45,806.55,806.55,390.95,415.6,Buy Now Pay Later,Delivered,Mobile App,DAL7 - Dallas TX,N
+77,35,65,2022-08-19,1,30,0,0.0,30.0,30.0,16.12,13.88,Amazon Pay,Delivered,Mobile App,SEA6 - Seattle WA,N
+78,48,2,2023-01-31,2,849,10,84.9,764.1,1528.2,781.9,746.3,PayPal,Delivered,Alexa,DAL7 - Dallas TX,N
+79,132,42,2023-01-14,1,29,5,1.45,27.55,27.55,17.56,9.99,Debit Card,Cancelled,Third-Party Marketplace,ONT8 - Ontario CA,N
+80,67,50,2023-11-07,1,39,15,5.85,33.15,33.15,21.66,11.49,Amazon Pay,Delivered,Website,SEA6 - Seattle WA,N
+81,93,31,2023-09-21,1,150,0,0.0,150.0,150.0,92.92,57.08,Amazon Pay,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+82,198,40,2023-08-28,2,19,5,0.95,18.05,36.1,19.96,16.14,Credit Card,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+83,40,59,2024-05-01,2,18,5,0.9,17.1,34.2,19.34,14.86,Gift Card,Processing,Mobile App,SEA6 - Seattle WA,N
+84,56,32,2022-06-17,2,69,10,6.9,62.1,124.2,65.28,58.92,Debit Card,Shipped,Website,ATL6 - Atlanta GA,N
+85,29,8,2023-02-19,3,49,15,7.35,41.65,124.95,95.52,29.43,Credit Card,Processing,Website,ATL6 - Atlanta GA,N
+86,114,15,2024-09-28,2,449,5,22.45,426.55,853.1,421.92,431.18,Debit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+87,34,66,2024-08-04,1,38,5,1.9,36.1,36.1,20.41,15.69,Credit Card,Processing,Website,MDW2 - Chicago IL,N
+88,1,28,2023-12-07,2,349,0,0.0,349.0,698.0,449.28,248.72,Debit Card,Processing,Website,ONT8 - Ontario CA,N
+89,121,5,2022-10-05,1,349,0,0.0,349.0,349.0,188.6,160.4,Buy Now Pay Later,Returned,Mobile App,DAL7 - Dallas TX,Y
+90,96,49,2024-02-13,1,29,15,4.35,24.65,24.65,16.98,7.67,Amazon Pay,Delivered,Mobile App,ATL6 - Atlanta GA,N
+91,35,45,2024-03-15,1,44,20,8.8,35.2,35.2,22.19,13.01,Amazon Pay,Shipped,Website,ONT8 - Ontario CA,N
+92,194,3,2024-05-18,5,1299,0,0.0,1299.0,6495.0,3606.15,2888.85,PayPal,Shipped,Website,MDW2 - Chicago IL,N
+93,40,36,2022-08-20,1,180,10,18.0,162.0,162.0,114.18,47.82,Amazon Pay,Delivered,Mobile App,ONT8 - Ontario CA,N
+94,62,27,2024-07-03,1,199,10,19.9,179.1,179.1,124.32,54.78,Amazon Pay,Processing,Website,SEA6 - Seattle WA,N
+95,12,52,2022-04-26,1,17,10,1.7,15.3,15.3,7.68,7.62,Buy Now Pay Later,Delivered,Website,SEA6 - Seattle WA,N
+96,148,41,2023-10-19,2,39,15,5.85,33.15,66.3,37.56,28.74,PayPal,Delivered,Third-Party Marketplace,ATL6 - Atlanta GA,N
+97,57,53,2022-12-25,1,16,0,0.0,16.0,16.0,9.66,6.34,Debit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+98,165,49,2024-05-02,3,29,0,0.0,29.0,87.0,50.94,36.06,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+99,122,31,2022-10-23,3,150,0,0.0,150.0,450.0,278.76,171.24,Gift Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+100,143,68,2023-02-21,1,10,0,0.0,10.0,10.0,4.94,5.06,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+101,24,69,2023-07-04,2,9,0,0.0,9.0,18.0,9.94,8.06,Amazon Pay,Delivered,Website,ONT8 - Ontario CA,N
+102,49,76,2024-09-08,2,19,10,1.9,17.1,34.2,20.62,13.58,Gift Card,Delivered,Website,ONT8 - Ontario CA,N
+103,55,25,2024-09-07,5,499,0,0.0,499.0,2495.0,1415.4,1079.6,Amazon Pay,Cancelled,Mobile App,DAL7 - Dallas TX,N
+104,62,71,2024-08-12,1,22,0,0.0,22.0,22.0,13.1,8.9,Credit Card,Shipped,Website,ATL6 - Atlanta GA,N
+105,128,60,2024-08-19,1,17,20,3.4,13.6,13.6,10.58,3.02,Credit Card,Returned,Website,MDW2 - Chicago IL,Y
+106,106,6,2022-10-26,2,399,0,0.0,399.0,798.0,475.16,322.84,Debit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+107,107,38,2024-02-17,1,119,0,0.0,119.0,119.0,55.21,63.79,Credit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+108,87,33,2024-10-01,3,179,0,0.0,179.0,537.0,328.35,208.65,Amazon Pay,Shipped,Website,JFK8 - New York NY,N
+109,185,70,2022-05-01,1,38,15,5.7,32.3,32.3,23.99,8.31,PayPal,Shipped,Website,SEA6 - Seattle WA,N
+110,13,1,2023-04-19,1,999,10,99.9,899.1,899.1,514.24,384.86,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+111,96,8,2024-09-16,2,49,5,2.45,46.55,93.1,63.68,29.42,Credit Card,Processing,Mobile App,DAL7 - Dallas TX,N
+112,4,3,2023-08-11,2,1299,0,0.0,1299.0,2598.0,1442.46,1155.54,PayPal,Delivered,Mobile App,JFK8 - New York NY,N
+113,28,13,2024-12-14,2,99,0,0.0,99.0,198.0,104.18,93.82,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+114,96,52,2023-04-08,1,17,0,0.0,17.0,17.0,7.68,9.32,PayPal,Delivered,Website,SEA6 - Seattle WA,N
+115,195,5,2024-09-01,1,349,0,0.0,349.0,349.0,188.6,160.4,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+116,112,43,2022-07-15,2,49,10,4.9,44.1,88.2,61.42,26.78,Gift Card,Cancelled,Website,SEA6 - Seattle WA,N
+117,146,61,2023-07-29,1,599,20,119.8,479.2,479.2,338.24,140.96,Debit Card,Cancelled,Website,MDW2 - Chicago IL,N
+118,5,27,2024-03-26,2,199,15,29.85,169.15,338.3,248.64,89.66,Credit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+119,100,70,2022-10-14,1,38,15,5.7,32.3,32.3,23.99,8.31,Amazon Pay,Returned,Website,SEA6 - Seattle WA,Y
+120,89,7,2022-06-05,1,139,0,0.0,139.0,139.0,75.28,63.72,Amazon Pay,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+121,199,42,2024-07-11,1,29,0,0.0,29.0,29.0,17.56,11.44,Credit Card,Shipped,Third-Party Marketplace,DAL7 - Dallas TX,N
+122,48,75,2023-08-28,2,12,0,0.0,12.0,24.0,11.66,12.34,Amazon Pay,Returned,Website,JFK8 - New York NY,Y
+123,98,20,2022-08-07,2,399,0,0.0,399.0,798.0,427.22,370.78,Gift Card,Delivered,Website,MDW2 - Chicago IL,N
+124,27,17,2024-11-15,1,89,0,0.0,89.0,89.0,47.71,41.29,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+125,153,77,2022-01-26,3,19,10,1.9,17.1,51.3,33.42,17.88,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+126,63,74,2022-12-14,2,25,5,1.25,23.75,47.5,30.1,17.4,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+127,43,56,2022-06-07,1,17,0,0.0,17.0,17.0,8.94,8.06,Gift Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+128,153,79,2023-09-16,1,9,0,0.0,9.0,9.0,4.32,4.68,Credit Card,Delivered,Alexa,DAL7 - Dallas TX,N
+129,85,57,2022-10-06,1,14,10,1.4,12.6,12.6,7.7,4.9,Amazon Pay,Delivered,Mobile App,DAL7 - Dallas TX,N
+130,81,23,2023-08-20,5,149,15,22.35,126.65,633.25,399.6,233.65,Amazon Pay,Returned,Third-Party Marketplace,JFK8 - New York NY,Y
+131,84,49,2024-01-18,1,29,10,2.9,26.1,26.1,16.98,9.12,Debit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+132,47,71,2023-03-06,1,22,10,2.2,19.8,19.8,13.1,6.7,Credit Card,Shipped,Mobile App,DAL7 - Dallas TX,N
+133,173,64,2023-06-02,1,12,0,0.0,12.0,12.0,7.4,4.6,Amazon Pay,Processing,Mobile App,ONT8 - Ontario CA,N
+134,115,77,2024-11-03,1,19,0,0.0,19.0,19.0,11.14,7.86,PayPal,Cancelled,Website,ONT8 - Ontario CA,N
+135,93,69,2022-08-12,2,9,15,1.35,7.65,15.3,9.94,5.36,Amazon Pay,Returned,Website,SEA6 - Seattle WA,Y
+136,157,6,2024-03-29,2,399,5,19.95,379.05,758.1,475.16,282.94,Credit Card,Cancelled,Mobile App,ONT8 - Ontario CA,N
+137,3,13,2024-11-28,1,99,0,0.0,99.0,99.0,52.09,46.91,Amazon Pay,Shipped,Website,MDW2 - Chicago IL,N
+138,101,60,2024-10-21,3,17,5,0.85,16.15,48.45,31.74,16.71,Buy Now Pay Later,Delivered,Mobile App,MDW2 - Chicago IL,N
+139,107,11,2022-10-18,1,1399,15,209.85,1189.15,1189.15,799.75,389.4,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+140,124,45,2024-07-15,1,44,5,2.2,41.8,41.8,22.19,19.61,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+141,6,44,2022-12-03,2,299,5,14.95,284.05,568.1,359.34,208.76,Amazon Pay,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+142,41,43,2023-04-20,2,49,15,7.35,41.65,83.3,61.42,21.88,Amazon Pay,Returned,Website,SEA6 - Seattle WA,Y
+143,111,51,2023-02-09,1,18,10,1.8,16.2,16.2,8.89,7.31,Debit Card,Shipped,Website,JFK8 - New York NY,N
+144,53,36,2022-05-09,3,180,10,18.0,162.0,486.0,342.54,143.46,PayPal,Processing,Mobile App,MDW2 - Chicago IL,N
+145,84,26,2024-09-29,1,449,0,0.0,449.0,449.0,262.22,186.78,Amazon Pay,Shipped,Mobile App,ATL6 - Atlanta GA,N
+146,101,76,2024-07-26,1,19,0,0.0,19.0,19.0,10.31,8.69,PayPal,Processing,Mobile App,MDW2 - Chicago IL,N
+147,158,76,2022-08-30,1,19,0,0.0,19.0,19.0,10.31,8.69,Credit Card,Delivered,Website,JFK8 - New York NY,N
+148,131,50,2024-02-25,1,39,0,0.0,39.0,39.0,21.66,17.34,Debit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+149,45,72,2023-01-19,1,18,0,0.0,18.0,18.0,8.95,9.05,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+150,3,63,2024-11-01,1,15,10,1.5,13.5,13.5,9.65,3.85,Debit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+151,114,63,2023-03-28,1,15,5,0.75,14.25,14.25,9.65,4.6,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+152,200,59,2024-10-11,2,18,10,1.8,16.2,32.4,19.34,13.06,Credit Card,Shipped,Website,ATL6 - Atlanta GA,N
+153,94,70,2024-06-22,3,38,0,0.0,38.0,114.0,71.97,42.03,Buy Now Pay Later,Shipped,Website,SEA6 - Seattle WA,N
+154,193,32,2024-07-10,1,69,20,13.8,55.2,55.2,32.64,22.56,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+155,199,31,2023-12-20,1,150,5,7.5,142.5,142.5,92.92,49.58,Amazon Pay,Cancelled,Website,ATL6 - Atlanta GA,N
+156,36,27,2023-12-20,3,199,15,29.85,169.15,507.45,372.96,134.49,Debit Card,Shipped,Website,SEA6 - Seattle WA,N
+157,75,38,2024-11-19,2,119,15,17.85,101.15,202.3,110.42,91.88,Amazon Pay,Cancelled,Website,DAL7 - Dallas TX,N
+158,16,36,2022-09-29,3,180,0,0.0,180.0,540.0,342.54,197.46,Amazon Pay,Delivered,Mobile App,SEA6 - Seattle WA,N
+159,101,63,2024-04-28,1,15,5,0.75,14.25,14.25,9.65,4.6,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+160,104,66,2024-01-26,2,38,5,1.9,36.1,72.2,40.82,31.38,Debit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+161,24,59,2022-05-10,2,18,5,0.9,17.1,34.2,19.34,14.86,Credit Card,Returned,Third-Party Marketplace,JFK8 - New York NY,Y
+162,127,35,2022-09-25,1,149,0,0.0,149.0,149.0,67.91,81.09,Debit Card,Shipped,Website,SEA6 - Seattle WA,N
+163,196,7,2024-07-30,1,139,10,13.9,125.1,125.1,75.28,49.82,Gift Card,Delivered,Website,DAL7 - Dallas TX,N
+164,1,55,2022-09-28,1,19,10,1.9,17.1,17.1,11.39,5.71,Credit Card,Cancelled,Alexa,MDW2 - Chicago IL,N
+165,24,47,2022-12-05,1,199,0,0.0,199.0,199.0,100.42,98.58,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+166,110,12,2024-09-03,2,699,0,0.0,699.0,1398.0,706.0,692.0,Debit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+167,3,2,2024-05-14,2,849,10,84.9,764.1,1528.2,781.9,746.3,Debit Card,Processing,Website,ONT8 - Ontario CA,N
+168,188,14,2023-09-05,1,129,0,0.0,129.0,129.0,69.76,59.24,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+169,165,19,2022-12-03,1,249,5,12.45,236.55,236.55,132.77,103.78,Amazon Pay,Shipped,Mobile App,JFK8 - New York NY,N
+170,106,79,2022-06-27,2,9,10,0.9,8.1,16.2,8.64,7.56,Credit Card,Cancelled,Website,SEA6 - Seattle WA,N
+171,99,45,2022-10-14,5,44,5,2.2,41.8,209.0,110.95,98.05,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+172,154,78,2022-02-24,1,23,15,3.45,19.55,19.55,14.33,5.22,Amazon Pay,Returned,Website,ATL6 - Atlanta GA,Y
+173,156,66,2022-04-22,1,38,0,0.0,38.0,38.0,20.41,17.59,PayPal,Returned,Website,DAL7 - Dallas TX,Y
+174,29,31,2024-12-17,1,150,5,7.5,142.5,142.5,92.92,49.58,Credit Card,Cancelled,Website,MDW2 - Chicago IL,N
+175,34,50,2024-01-19,3,39,5,1.95,37.05,111.15,64.98,46.17,Credit Card,Shipped,Mobile App,ONT8 - Ontario CA,N
+176,5,76,2022-03-23,1,19,0,0.0,19.0,19.0,10.31,8.69,Gift Card,Cancelled,Website,MDW2 - Chicago IL,N
+177,161,65,2024-04-03,3,30,0,0.0,30.0,90.0,48.36,41.64,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+178,22,40,2022-11-15,1,19,20,3.8,15.2,15.2,9.98,5.22,Credit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+179,175,9,2023-05-04,1,99,0,0.0,99.0,99.0,58.13,40.87,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+180,157,78,2022-12-26,1,23,5,1.15,21.85,21.85,14.33,7.52,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+181,128,45,2023-06-15,2,44,10,4.4,39.6,79.2,44.38,34.82,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+182,188,16,2024-05-29,3,49,0,0.0,49.0,147.0,91.23,55.77,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+183,161,10,2022-04-24,1,149,0,0.0,149.0,149.0,69.24,79.76,Debit Card,Shipped,Website,MDW2 - Chicago IL,N
+184,198,14,2022-08-25,4,129,5,6.45,122.55,490.2,279.04,211.16,Debit Card,Delivered,Website,ONT8 - Ontario CA,N
+185,63,6,2022-11-04,1,399,0,0.0,399.0,399.0,237.58,161.42,Buy Now Pay Later,Delivered,Website,SEA6 - Seattle WA,N
+186,190,54,2023-10-18,1,16,0,0.0,16.0,16.0,8.25,7.75,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+187,173,7,2022-04-05,1,139,10,13.9,125.1,125.1,75.28,49.82,Credit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+188,199,40,2022-01-17,1,19,5,0.95,18.05,18.05,9.98,8.07,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+189,160,32,2024-10-07,1,69,5,3.45,65.55,65.55,32.64,32.91,Amazon Pay,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+190,195,32,2022-02-18,1,69,15,10.35,58.65,58.65,32.64,26.01,Credit Card,Delivered,Alexa,ONT8 - Ontario CA,N
+191,86,1,2023-09-22,3,999,0,0.0,999.0,2997.0,1542.72,1454.28,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+192,16,19,2023-04-20,2,249,0,0.0,249.0,498.0,265.54,232.46,Debit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+193,118,11,2024-03-18,2,1399,0,0.0,1399.0,2798.0,1599.5,1198.5,Debit Card,Delivered,Website,JFK8 - New York NY,N
+194,61,38,2024-03-15,1,119,0,0.0,119.0,119.0,55.21,63.79,Amazon Pay,Processing,Website,MDW2 - Chicago IL,N
+195,60,10,2022-08-12,5,149,0,0.0,149.0,745.0,346.2,398.8,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+196,31,69,2024-07-14,1,9,15,1.35,7.65,7.65,4.97,2.68,Credit Card,Delivered,Website,JFK8 - New York NY,N
+197,176,39,2022-03-24,3,45,5,2.25,42.75,128.25,63.24,65.01,PayPal,Delivered,Website,SEA6 - Seattle WA,N
+198,64,46,2023-09-05,1,349,0,0.0,349.0,349.0,190.95,158.05,Buy Now Pay Later,Delivered,Website,DAL7 - Dallas TX,N
+199,116,72,2024-08-04,2,18,0,0.0,18.0,36.0,17.9,18.1,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+200,200,29,2024-02-02,1,449,10,44.9,404.1,404.1,233.63,170.47,Gift Card,Processing,Website,ATL6 - Atlanta GA,N
+201,67,10,2024-06-27,1,149,0,0.0,149.0,149.0,69.24,79.76,Credit Card,Returned,Alexa,MDW2 - Chicago IL,Y
+202,32,6,2024-06-06,5,399,0,0.0,399.0,1995.0,1187.9,807.1,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+203,110,23,2023-07-18,1,149,15,22.35,126.65,126.65,79.92,46.73,PayPal,Delivered,Website,ATL6 - Atlanta GA,N
+204,158,32,2024-09-08,2,69,5,3.45,65.55,131.1,65.28,65.82,Credit Card,Delivered,Website,JFK8 - New York NY,N
+205,165,68,2022-02-09,1,10,20,2.0,8.0,8.0,4.94,3.06,PayPal,Cancelled,Website,ATL6 - Atlanta GA,N
+206,125,45,2024-03-06,4,44,0,0.0,44.0,176.0,88.76,87.24,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+207,200,36,2024-12-20,1,180,20,36.0,144.0,144.0,114.18,29.82,Debit Card,Delivered,Website,JFK8 - New York NY,N
+208,26,32,2022-04-25,2,69,0,0.0,69.0,138.0,65.28,72.72,Gift Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+209,91,23,2024-01-05,1,149,10,14.9,134.1,134.1,79.92,54.18,Credit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+210,145,19,2024-10-05,2,249,0,0.0,249.0,498.0,265.54,232.46,Credit Card,Shipped,Website,ONT8 - Ontario CA,N
+211,60,78,2022-01-02,1,23,0,0.0,23.0,23.0,14.33,8.67,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+212,184,23,2023-10-25,4,149,10,14.9,134.1,536.4,319.68,216.72,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+213,199,15,2022-05-29,3,449,10,44.9,404.1,1212.3,632.88,579.42,Gift Card,Delivered,Website,ONT8 - Ontario CA,N
+214,87,39,2024-06-13,1,45,20,9.0,36.0,36.0,21.08,14.92,Buy Now Pay Later,Returned,Mobile App,JFK8 - New York NY,Y
+215,182,72,2024-01-01,2,18,20,3.6,14.4,28.8,17.9,10.9,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+216,188,38,2024-03-12,1,119,5,5.95,113.05,113.05,55.21,57.84,Amazon Pay,Returned,Mobile App,JFK8 - New York NY,Y
+217,155,41,2023-03-29,4,39,15,5.85,33.15,132.6,75.12,57.48,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+218,191,10,2022-12-10,1,149,20,29.8,119.2,119.2,69.24,49.96,Buy Now Pay Later,Processing,Mobile App,SEA6 - Seattle WA,N
+219,164,43,2023-05-27,1,49,0,0.0,49.0,49.0,30.71,18.29,Credit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+220,1,7,2022-12-07,1,139,10,13.9,125.1,125.1,75.28,49.82,Debit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+221,97,13,2023-04-07,3,99,10,9.9,89.1,267.3,156.27,111.03,Credit Card,Delivered,Alexa,MDW2 - Chicago IL,N
+222,6,41,2023-12-02,1,39,0,0.0,39.0,39.0,18.78,20.22,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+223,24,44,2024-09-15,2,299,5,14.95,284.05,568.1,359.34,208.76,Debit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+224,112,21,2023-01-25,1,99,0,0.0,99.0,99.0,51.96,47.04,Debit Card,Delivered,Third-Party Marketplace,ATL6 - Atlanta GA,N
+225,68,37,2024-03-15,1,59,0,0.0,59.0,59.0,28.69,30.31,PayPal,Processing,Website,MDW2 - Chicago IL,N
+226,1,55,2024-09-10,1,19,15,2.85,16.15,16.15,11.39,4.76,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+227,21,61,2024-03-25,3,599,0,0.0,599.0,1797.0,1014.72,782.28,PayPal,Shipped,Website,SEA6 - Seattle WA,N
+228,140,50,2024-01-27,1,39,10,3.9,35.1,35.1,21.66,13.44,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+229,58,35,2022-07-18,2,149,0,0.0,149.0,298.0,135.82,162.18,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+230,59,71,2024-12-06,1,22,0,0.0,22.0,22.0,13.1,8.9,Debit Card,Delivered,Alexa,DAL7 - Dallas TX,N
+231,147,31,2022-03-13,1,150,0,0.0,150.0,150.0,92.92,57.08,Gift Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+232,159,19,2022-12-21,1,249,15,37.35,211.65,211.65,132.77,78.88,Credit Card,Cancelled,Website,JFK8 - New York NY,N
+233,33,6,2024-06-10,1,399,20,79.8,319.2,319.2,237.58,81.62,PayPal,Delivered,Website,ATL6 - Atlanta GA,N
+234,67,41,2022-05-18,4,39,20,7.8,31.2,124.8,75.12,49.68,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+235,134,59,2024-12-06,4,18,0,0.0,18.0,72.0,38.68,33.32,Credit Card,Returned,Website,ATL6 - Atlanta GA,Y
+236,151,75,2022-08-05,3,12,20,2.4,9.6,28.8,17.49,11.31,Credit Card,Shipped,Website,ATL6 - Atlanta GA,N
+237,89,53,2024-08-26,1,16,5,0.8,15.2,15.2,9.66,5.54,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+238,175,52,2023-11-10,1,17,10,1.7,15.3,15.3,7.68,7.62,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+239,96,3,2023-09-29,1,1299,10,129.9,1169.1,1169.1,721.23,447.87,Debit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+240,59,18,2023-10-20,1,79,5,3.95,75.05,75.05,40.91,34.14,Debit Card,Delivered,Mobile App,JFK8 - New York NY,N
+241,114,28,2024-09-19,4,349,0,0.0,349.0,1396.0,898.56,497.44,PayPal,Returned,Mobile App,ATL6 - Atlanta GA,Y
+242,41,9,2022-10-05,1,99,0,0.0,99.0,99.0,58.13,40.87,Debit Card,Returned,Mobile App,JFK8 - New York NY,Y
+243,50,26,2024-07-23,3,449,0,0.0,449.0,1347.0,786.66,560.34,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+244,119,65,2022-03-04,1,30,20,6.0,24.0,24.0,16.12,7.88,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+245,151,71,2023-06-14,1,22,0,0.0,22.0,22.0,13.1,8.9,Amazon Pay,Returned,Website,DAL7 - Dallas TX,Y
+246,13,21,2023-03-15,3,99,10,9.9,89.1,267.3,155.88,111.42,Amazon Pay,Returned,Mobile App,MDW2 - Chicago IL,Y
+247,167,53,2022-01-19,2,16,15,2.4,13.6,27.2,19.32,7.88,Credit Card,Shipped,Website,ONT8 - Ontario CA,N
+248,58,33,2023-07-18,2,179,20,35.8,143.2,286.4,218.9,67.5,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+249,56,60,2024-03-24,1,17,10,1.7,15.3,15.3,10.58,4.72,Credit Card,Processing,Third-Party Marketplace,MDW2 - Chicago IL,N
+250,144,77,2022-08-10,2,19,0,0.0,19.0,38.0,22.28,15.72,Credit Card,Shipped,Website,MDW2 - Chicago IL,N
+251,71,34,2023-09-04,2,35,15,5.25,29.75,59.5,40.02,19.48,Debit Card,Delivered,Website,ONT8 - Ontario CA,N
+252,154,52,2022-02-22,2,17,5,0.85,16.15,32.3,15.36,16.94,Buy Now Pay Later,Processing,Website,DAL7 - Dallas TX,N
+253,104,50,2023-01-24,2,39,5,1.95,37.05,74.1,43.32,30.78,Amazon Pay,Delivered,Mobile App,SEA6 - Seattle WA,N
+254,122,46,2023-01-06,2,349,10,34.9,314.1,628.2,381.9,246.3,Debit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+255,144,24,2022-07-02,5,649,10,64.9,584.1,2920.5,1987.1,933.4,Credit Card,Delivered,Alexa,DAL7 - Dallas TX,N
+256,85,48,2022-08-30,1,19,0,0.0,19.0,19.0,9.86,9.14,PayPal,Shipped,Mobile App,ATL6 - Atlanta GA,N
+257,19,61,2024-02-21,4,599,0,0.0,599.0,2396.0,1352.96,1043.04,Debit Card,Shipped,Alexa,JFK8 - New York NY,N
+258,36,26,2024-07-26,1,449,20,89.8,359.2,359.2,262.22,96.98,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+259,125,43,2022-04-29,2,49,0,0.0,49.0,98.0,61.42,36.58,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+260,148,21,2022-06-30,1,99,15,14.85,84.15,84.15,51.96,32.19,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+261,123,50,2024-02-04,1,39,0,0.0,39.0,39.0,21.66,17.34,PayPal,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+262,49,3,2023-05-25,2,1299,10,129.9,1169.1,2338.2,1442.46,895.74,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+263,99,65,2022-04-04,2,30,0,0.0,30.0,60.0,32.24,27.76,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+264,135,44,2022-10-02,1,299,10,29.9,269.1,269.1,179.67,89.43,Gift Card,Delivered,Website,JFK8 - New York NY,N
+265,43,52,2022-09-26,1,17,0,0.0,17.0,17.0,7.68,9.32,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+266,94,5,2024-12-31,1,349,5,17.45,331.55,331.55,188.6,142.95,Debit Card,Processing,Website,ONT8 - Ontario CA,N
+267,168,3,2024-06-28,1,1299,0,0.0,1299.0,1299.0,721.23,577.77,Debit Card,Delivered,Mobile App,JFK8 - New York NY,N
+268,53,2,2024-12-01,1,849,5,42.45,806.55,806.55,390.95,415.6,Amazon Pay,Delivered,Website,ONT8 - Ontario CA,N
+269,131,80,2022-08-06,1,18,0,0.0,18.0,18.0,9.69,8.31,Amazon Pay,Shipped,Mobile App,ATL6 - Atlanta GA,N
+270,52,46,2022-03-22,2,349,0,0.0,349.0,698.0,381.9,316.1,Gift Card,Shipped,Mobile App,DAL7 - Dallas TX,N
+271,85,31,2022-08-15,1,150,5,7.5,142.5,142.5,92.92,49.58,Amazon Pay,Returned,Website,ONT8 - Ontario CA,Y
+272,200,66,2023-06-09,1,38,5,1.9,36.1,36.1,20.41,15.69,Debit Card,Processing,Third-Party Marketplace,MDW2 - Chicago IL,N
+273,119,7,2022-03-22,1,139,0,0.0,139.0,139.0,75.28,63.72,Credit Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+274,190,15,2022-04-04,1,449,15,67.35,381.65,381.65,210.96,170.69,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+275,92,57,2022-07-10,5,14,0,0.0,14.0,70.0,38.5,31.5,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+276,117,35,2024-09-06,3,149,5,7.45,141.55,424.65,203.73,220.92,Amazon Pay,Returned,Mobile App,ONT8 - Ontario CA,Y
+277,34,8,2022-08-01,10,49,10,4.9,44.1,441.0,318.4,122.6,Debit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+278,113,24,2022-03-01,2,649,15,97.35,551.65,1103.3,794.84,308.46,PayPal,Cancelled,Mobile App,JFK8 - New York NY,N
+279,124,63,2022-04-05,1,15,5,0.75,14.25,14.25,9.65,4.6,Amazon Pay,Delivered,Website,SEA6 - Seattle WA,N
+280,135,74,2023-11-24,2,25,0,0.0,25.0,50.0,30.1,19.9,Amazon Pay,Shipped,Mobile App,DAL7 - Dallas TX,N
+281,170,32,2024-02-28,1,69,5,3.45,65.55,65.55,32.64,32.91,PayPal,Delivered,Alexa,ATL6 - Atlanta GA,N
+282,14,2,2024-08-19,2,849,0,0.0,849.0,1698.0,781.9,916.1,PayPal,Returned,Website,DAL7 - Dallas TX,Y
+283,83,31,2024-11-04,1,150,0,0.0,150.0,150.0,92.92,57.08,Amazon Pay,Delivered,Website,JFK8 - New York NY,N
+284,21,59,2022-06-30,1,18,5,0.9,17.1,17.1,9.67,7.43,Debit Card,Returned,Website,DAL7 - Dallas TX,Y
+285,191,3,2022-01-01,1,1299,0,0.0,1299.0,1299.0,721.23,577.77,PayPal,Returned,Third-Party Marketplace,SEA6 - Seattle WA,Y
+286,78,66,2024-07-23,2,38,5,1.9,36.1,72.2,40.82,31.38,Credit Card,Cancelled,Website,JFK8 - New York NY,N
+287,117,43,2024-08-26,2,49,5,2.45,46.55,93.1,61.42,31.68,Credit Card,Returned,Mobile App,ONT8 - Ontario CA,Y
+288,195,29,2023-08-21,1,449,0,0.0,449.0,449.0,233.63,215.37,Credit Card,Shipped,Website,JFK8 - New York NY,N
+289,127,18,2024-04-18,3,79,10,7.9,71.1,213.3,122.73,90.57,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+290,56,59,2023-11-24,3,18,0,0.0,18.0,54.0,29.01,24.99,Debit Card,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+291,151,16,2024-10-29,3,49,5,2.45,46.55,139.65,91.23,48.42,Debit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+292,142,56,2024-11-07,3,17,0,0.0,17.0,51.0,26.82,24.18,Gift Card,Returned,Mobile App,JFK8 - New York NY,Y
+293,188,17,2023-10-22,1,89,5,4.45,84.55,84.55,47.71,36.84,Credit Card,Shipped,Third-Party Marketplace,SEA6 - Seattle WA,N
+294,196,32,2023-08-26,1,69,20,13.8,55.2,55.2,32.64,22.56,Credit Card,Shipped,Website,SEA6 - Seattle WA,N
+295,192,66,2023-10-05,1,38,5,1.9,36.1,36.1,20.41,15.69,Gift Card,Processing,Mobile App,JFK8 - New York NY,N
+296,54,80,2022-09-29,2,18,10,1.8,16.2,32.4,19.38,13.02,Amazon Pay,Cancelled,Third-Party Marketplace,ATL6 - Atlanta GA,N
+297,139,42,2024-09-10,2,29,10,2.9,26.1,52.2,35.12,17.08,Gift Card,Processing,Mobile App,SEA6 - Seattle WA,N
+298,192,69,2022-01-27,1,9,10,0.9,8.1,8.1,4.97,3.13,Credit Card,Shipped,Website,SEA6 - Seattle WA,N
+299,15,26,2023-08-10,1,449,10,44.9,404.1,404.1,262.22,141.88,Credit Card,Processing,Website,MDW2 - Chicago IL,N
+300,53,70,2022-07-29,1,38,10,3.8,34.2,34.2,23.99,10.21,Amazon Pay,Processing,Mobile App,JFK8 - New York NY,N
+301,191,72,2023-08-13,1,18,0,0.0,18.0,18.0,8.95,9.05,Credit Card,Processing,Website,DAL7 - Dallas TX,N
+302,176,41,2023-05-30,5,39,0,0.0,39.0,195.0,93.9,101.1,PayPal,Delivered,Alexa,DAL7 - Dallas TX,N
+303,58,48,2023-02-07,3,19,10,1.9,17.1,51.3,29.58,21.72,Buy Now Pay Later,Returned,Website,JFK8 - New York NY,Y
+304,175,10,2024-11-18,1,149,0,0.0,149.0,149.0,69.24,79.76,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+305,34,21,2023-11-08,2,99,0,0.0,99.0,198.0,103.92,94.08,Gift Card,Shipped,Website,MDW2 - Chicago IL,N
+306,153,7,2023-09-09,3,139,5,6.95,132.05,396.15,225.84,170.31,Debit Card,Shipped,Website,SEA6 - Seattle WA,N
+307,82,68,2022-05-20,1,10,0,0.0,10.0,10.0,4.94,5.06,Credit Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+308,24,45,2023-11-11,1,44,0,0.0,44.0,44.0,22.19,21.81,Credit Card,Delivered,Third-Party Marketplace,ATL6 - Atlanta GA,N
+309,136,61,2022-01-19,10,599,10,59.9,539.1,5391.0,3382.4,2008.6,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+310,158,80,2023-10-20,1,18,0,0.0,18.0,18.0,9.69,8.31,PayPal,Delivered,Website,MDW2 - Chicago IL,N
+311,139,37,2024-02-07,1,59,0,0.0,59.0,59.0,28.69,30.31,Debit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+312,167,25,2022-07-16,1,499,0,0.0,499.0,499.0,283.08,215.92,Gift Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+313,161,9,2023-03-13,1,99,5,4.95,94.05,94.05,58.13,35.92,Debit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+314,180,56,2022-11-11,2,17,20,3.4,13.6,27.2,17.88,9.32,Amazon Pay,Delivered,Website,ONT8 - Ontario CA,N
+315,14,23,2023-04-12,3,149,10,14.9,134.1,402.3,239.76,162.54,Debit Card,Cancelled,Mobile App,DAL7 - Dallas TX,N
+316,111,41,2024-12-31,1,39,10,3.9,35.1,35.1,18.78,16.32,Amazon Pay,Delivered,Website,SEA6 - Seattle WA,N
+317,150,6,2024-10-26,2,399,0,0.0,399.0,798.0,475.16,322.84,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+318,73,57,2022-03-05,1,14,10,1.4,12.6,12.6,7.7,4.9,Debit Card,Shipped,Website,DAL7 - Dallas TX,N
+319,140,38,2024-02-04,5,119,0,0.0,119.0,595.0,276.05,318.95,Credit Card,Cancelled,Alexa,JFK8 - New York NY,N
+320,32,6,2022-06-24,1,399,5,19.95,379.05,379.05,237.58,141.47,Amazon Pay,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+321,55,53,2022-10-19,4,16,10,1.6,14.4,57.6,38.64,18.96,Credit Card,Delivered,Alexa,JFK8 - New York NY,N
+322,30,24,2022-04-22,2,649,5,32.45,616.55,1233.1,794.84,438.26,Gift Card,Returned,Third-Party Marketplace,DAL7 - Dallas TX,Y
+323,166,71,2023-05-29,1,22,5,1.1,20.9,20.9,13.1,7.8,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+324,92,17,2023-08-07,2,89,0,0.0,89.0,178.0,95.42,82.58,Gift Card,Processing,Website,DAL7 - Dallas TX,N
+325,85,79,2022-11-09,2,9,5,0.45,8.55,17.1,8.64,8.46,Credit Card,Shipped,Website,DAL7 - Dallas TX,N
+326,44,1,2024-06-12,1,999,10,99.9,899.1,899.1,514.24,384.86,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+327,123,60,2024-09-24,1,17,10,1.7,15.3,15.3,10.58,4.72,Credit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+328,36,69,2022-06-06,1,9,10,0.9,8.1,8.1,4.97,3.13,PayPal,Returned,Alexa,SEA6 - Seattle WA,Y
+329,8,75,2023-03-12,2,12,10,1.2,10.8,21.6,11.66,9.94,Debit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+330,121,20,2023-08-19,1,399,0,0.0,399.0,399.0,213.61,185.39,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+331,129,2,2022-12-06,2,849,10,84.9,764.1,1528.2,781.9,746.3,Credit Card,Returned,Website,ATL6 - Atlanta GA,Y
+332,145,19,2024-01-05,2,249,0,0.0,249.0,498.0,265.54,232.46,Amazon Pay,Delivered,Website,MDW2 - Chicago IL,N
+333,95,30,2024-01-10,1,149,0,0.0,149.0,149.0,71.66,77.34,Gift Card,Delivered,Alexa,ONT8 - Ontario CA,N
+334,167,42,2023-07-15,1,29,20,5.8,23.2,23.2,17.56,5.64,Credit Card,Returned,Mobile App,JFK8 - New York NY,Y
+335,97,49,2022-06-09,1,29,5,1.45,27.55,27.55,16.98,10.57,Credit Card,Shipped,Third-Party Marketplace,ATL6 - Atlanta GA,N
+336,104,46,2024-09-14,3,349,0,0.0,349.0,1047.0,572.85,474.15,Credit Card,Cancelled,Alexa,DAL7 - Dallas TX,N
+337,43,30,2023-03-10,1,149,5,7.45,141.55,141.55,71.66,69.89,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+338,170,30,2022-08-21,1,149,0,0.0,149.0,149.0,71.66,77.34,Debit Card,Shipped,Website,JFK8 - New York NY,N
+339,166,53,2022-11-26,1,16,0,0.0,16.0,16.0,9.66,6.34,Debit Card,Delivered,Alexa,JFK8 - New York NY,N
+340,15,22,2024-04-10,1,129,0,0.0,129.0,129.0,59.78,69.22,Debit Card,Processing,Website,SEA6 - Seattle WA,N
+341,187,37,2024-08-23,5,59,0,0.0,59.0,295.0,143.45,151.55,Credit Card,Cancelled,Alexa,ATL6 - Atlanta GA,N
+342,37,75,2024-11-12,3,12,0,0.0,12.0,36.0,17.49,18.51,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+343,153,76,2022-09-28,1,19,0,0.0,19.0,19.0,10.31,8.69,Credit Card,Delivered,Alexa,ATL6 - Atlanta GA,N
+344,176,54,2022-12-30,3,16,5,0.8,15.2,45.6,24.75,20.85,Amazon Pay,Shipped,Website,ATL6 - Atlanta GA,N
+345,129,16,2022-01-03,1,49,5,2.45,46.55,46.55,30.41,16.14,Amazon Pay,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+346,108,48,2024-05-28,4,19,5,0.95,18.05,72.2,39.44,32.76,PayPal,Delivered,Mobile App,DAL7 - Dallas TX,N
+347,90,76,2022-07-20,3,19,20,3.8,15.2,45.6,30.93,14.67,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+348,73,77,2023-01-23,4,19,0,0.0,19.0,76.0,44.56,31.44,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+349,31,67,2023-10-09,1,54,10,5.4,48.6,48.6,28.57,20.03,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+350,65,34,2024-01-19,3,35,0,0.0,35.0,105.0,60.03,44.97,Buy Now Pay Later,Processing,Website,JFK8 - New York NY,N
+351,106,71,2024-01-29,3,22,0,0.0,22.0,66.0,39.3,26.7,Debit Card,Shipped,Third-Party Marketplace,ATL6 - Atlanta GA,N
+352,89,51,2022-09-01,2,18,10,1.8,16.2,32.4,17.78,14.62,Debit Card,Returned,Mobile App,JFK8 - New York NY,Y
+353,26,28,2022-04-17,2,349,15,52.35,296.65,593.3,449.28,144.02,Buy Now Pay Later,Delivered,Website,ONT8 - Ontario CA,N
+354,38,61,2022-05-12,4,599,0,0.0,599.0,2396.0,1352.96,1043.04,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+355,99,52,2022-04-28,2,17,10,1.7,15.3,30.6,15.36,15.24,PayPal,Cancelled,Mobile App,DAL7 - Dallas TX,N
+356,3,26,2024-11-27,3,449,15,67.35,381.65,1144.95,786.66,358.29,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+357,179,30,2024-01-07,2,149,5,7.45,141.55,283.1,143.32,139.78,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+358,200,52,2023-02-15,1,17,0,0.0,17.0,17.0,7.68,9.32,Amazon Pay,Shipped,Website,ONT8 - Ontario CA,N
+359,141,37,2023-12-14,2,59,10,5.9,53.1,106.2,57.38,48.82,PayPal,Delivered,Website,JFK8 - New York NY,N
+360,117,52,2024-04-13,2,17,0,0.0,17.0,34.0,15.36,18.64,Debit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+361,30,66,2023-05-28,5,38,10,3.8,34.2,171.0,102.05,68.95,Buy Now Pay Later,Processing,Mobile App,JFK8 - New York NY,N
+362,194,44,2024-08-01,5,299,0,0.0,299.0,1495.0,898.35,596.65,PayPal,Cancelled,Mobile App,MDW2 - Chicago IL,N
+363,18,49,2023-04-16,2,29,20,5.8,23.2,46.4,33.96,12.44,Debit Card,Returned,Website,ATL6 - Atlanta GA,Y
+364,3,34,2023-12-02,1,35,0,0.0,35.0,35.0,20.01,14.99,Gift Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+365,56,74,2023-01-25,1,25,20,5.0,20.0,20.0,15.05,4.95,Credit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+366,53,30,2023-12-31,1,149,0,0.0,149.0,149.0,71.66,77.34,Credit Card,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+367,170,64,2022-03-28,2,12,10,1.2,10.8,21.6,14.8,6.8,Credit Card,Returned,Website,ATL6 - Atlanta GA,Y
+368,71,63,2024-11-12,1,15,10,1.5,13.5,13.5,9.65,3.85,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+369,135,55,2024-10-26,1,19,10,1.9,17.1,17.1,11.39,5.71,PayPal,Delivered,Mobile App,DAL7 - Dallas TX,N
+370,31,67,2022-01-25,1,54,10,5.4,48.6,48.6,28.57,20.03,Credit Card,Processing,Website,MDW2 - Chicago IL,N
+371,157,34,2023-07-06,1,35,0,0.0,35.0,35.0,20.01,14.99,Amazon Pay,Shipped,Website,DAL7 - Dallas TX,N
+372,109,27,2024-01-18,1,199,15,29.85,169.15,169.15,124.32,44.83,Credit Card,Returned,Website,JFK8 - New York NY,Y
+373,148,30,2023-04-28,3,149,10,14.9,134.1,402.3,214.98,187.32,PayPal,Shipped,Website,SEA6 - Seattle WA,N
+374,39,61,2024-10-20,3,599,0,0.0,599.0,1797.0,1014.72,782.28,PayPal,Delivered,Mobile App,ATL6 - Atlanta GA,N
+375,185,41,2022-04-08,3,39,0,0.0,39.0,117.0,56.34,60.66,Amazon Pay,Delivered,Website,MDW2 - Chicago IL,N
+376,122,13,2024-01-10,1,99,0,0.0,99.0,99.0,52.09,46.91,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+377,6,53,2023-02-12,1,16,10,1.6,14.4,14.4,9.66,4.74,Amazon Pay,Processing,Mobile App,MDW2 - Chicago IL,N
+378,91,42,2024-07-04,2,29,5,1.45,27.55,55.1,35.12,19.98,Credit Card,Cancelled,Website,SEA6 - Seattle WA,N
+379,38,22,2024-05-13,2,129,15,19.35,109.65,219.3,119.56,99.74,Debit Card,Processing,Alexa,ONT8 - Ontario CA,N
+380,21,21,2023-08-20,1,99,0,0.0,99.0,99.0,51.96,47.04,Amazon Pay,Processing,Website,DAL7 - Dallas TX,N
+381,200,47,2024-07-11,2,199,0,0.0,199.0,398.0,200.84,197.16,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+382,61,33,2022-06-13,5,179,5,8.95,170.05,850.25,547.25,303.0,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+383,141,7,2022-06-20,1,139,5,6.95,132.05,132.05,75.28,56.77,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+384,80,30,2022-09-16,1,149,0,0.0,149.0,149.0,71.66,77.34,PayPal,Delivered,Website,SEA6 - Seattle WA,N
+385,92,42,2023-07-12,3,29,5,1.45,27.55,82.65,52.68,29.97,Credit Card,Shipped,Third-Party Marketplace,ATL6 - Atlanta GA,N
+386,46,76,2024-06-09,2,19,10,1.9,17.1,34.2,20.62,13.58,Amazon Pay,Shipped,Website,MDW2 - Chicago IL,N
+387,124,70,2023-09-23,1,38,0,0.0,38.0,38.0,23.99,14.01,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+388,134,18,2022-01-18,1,79,0,0.0,79.0,79.0,40.91,38.09,Debit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+389,3,56,2022-01-15,3,17,5,0.85,16.15,48.45,26.82,21.63,Credit Card,Shipped,Alexa,DAL7 - Dallas TX,N
+390,102,32,2024-03-09,1,69,5,3.45,65.55,65.55,32.64,32.91,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+391,62,67,2023-07-11,3,54,20,10.8,43.2,129.6,85.71,43.89,Amazon Pay,Delivered,Mobile App,DAL7 - Dallas TX,N
+392,49,9,2024-07-21,1,99,0,0.0,99.0,99.0,58.13,40.87,Credit Card,Processing,Mobile App,JFK8 - New York NY,N
+393,83,3,2022-02-15,1,1299,15,194.85,1104.15,1104.15,721.23,382.92,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+394,113,2,2024-10-07,1,849,0,0.0,849.0,849.0,390.95,458.05,Debit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+395,96,60,2022-06-14,2,17,0,0.0,17.0,34.0,21.16,12.84,Gift Card,Returned,Website,DAL7 - Dallas TX,Y
+396,19,70,2023-05-28,1,38,0,0.0,38.0,38.0,23.99,14.01,PayPal,Returned,Website,SEA6 - Seattle WA,Y
+397,64,50,2022-03-10,3,39,0,0.0,39.0,117.0,64.98,52.02,Amazon Pay,Delivered,Website,SEA6 - Seattle WA,N
+398,54,61,2023-10-24,1,599,20,119.8,479.2,479.2,338.24,140.96,Amazon Pay,Delivered,Mobile App,ATL6 - Atlanta GA,N
+399,134,16,2023-02-11,1,49,5,2.45,46.55,46.55,30.41,16.14,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+400,61,56,2023-07-20,1,17,0,0.0,17.0,17.0,8.94,8.06,Credit Card,Processing,Website,ONT8 - Ontario CA,N
+401,149,61,2022-07-03,2,599,0,0.0,599.0,1198.0,676.48,521.52,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+402,195,8,2022-08-08,1,49,5,2.45,46.55,46.55,31.84,14.71,Credit Card,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+403,194,45,2023-01-31,3,44,0,0.0,44.0,132.0,66.57,65.43,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+404,11,63,2024-09-30,2,15,5,0.75,14.25,28.5,19.3,9.2,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+405,120,36,2022-11-25,3,180,5,9.0,171.0,513.0,342.54,170.46,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+406,139,47,2024-11-02,1,199,10,19.9,179.1,179.1,100.42,78.68,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+407,199,80,2024-03-04,1,18,5,0.9,17.1,17.1,9.69,7.41,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+408,157,37,2022-08-15,1,59,5,2.95,56.05,56.05,28.69,27.36,Amazon Pay,Delivered,Website,JFK8 - New York NY,N
+409,46,5,2022-07-22,1,349,5,17.45,331.55,331.55,188.6,142.95,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+410,135,80,2024-01-21,2,18,0,0.0,18.0,36.0,19.38,16.62,Amazon Pay,Delivered,Website,JFK8 - New York NY,N
+411,168,63,2024-08-16,4,15,10,1.5,13.5,54.0,38.6,15.4,Credit Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+412,95,8,2022-03-25,3,49,0,0.0,49.0,147.0,95.52,51.48,PayPal,Returned,Website,JFK8 - New York NY,Y
+413,133,13,2024-02-29,1,99,0,0.0,99.0,99.0,52.09,46.91,Debit Card,Delivered,Website,SEA6 - Seattle WA,N
+414,46,72,2022-08-05,2,18,5,0.9,17.1,34.2,17.9,16.3,Debit Card,Returned,Mobile App,SEA6 - Seattle WA,Y
+415,171,55,2023-01-05,4,19,0,0.0,19.0,76.0,45.56,30.44,Debit Card,Shipped,Mobile App,ATL6 - Atlanta GA,N
+416,154,57,2023-10-27,4,14,15,2.1,11.9,47.6,30.8,16.8,Debit Card,Returned,Mobile App,SEA6 - Seattle WA,Y
+417,83,78,2024-02-08,1,23,0,0.0,23.0,23.0,14.33,8.67,Gift Card,Returned,Website,DAL7 - Dallas TX,Y
+418,115,51,2023-08-06,1,18,0,0.0,18.0,18.0,8.89,9.11,Debit Card,Processing,Third-Party Marketplace,MDW2 - Chicago IL,N
+419,2,39,2023-10-07,10,45,0,0.0,45.0,450.0,210.8,239.2,PayPal,Delivered,Mobile App,MDW2 - Chicago IL,N
+420,142,66,2022-11-13,2,38,15,5.7,32.3,64.6,40.82,23.78,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+421,94,75,2023-09-08,1,12,0,0.0,12.0,12.0,5.83,6.17,Credit Card,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+422,20,42,2022-07-15,3,29,0,0.0,29.0,87.0,52.68,34.32,Credit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+423,98,11,2023-11-16,3,1399,15,209.85,1189.15,3567.45,2399.25,1168.2,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+424,198,30,2022-01-24,2,149,10,14.9,134.1,268.2,143.32,124.88,Amazon Pay,Processing,Website,ATL6 - Atlanta GA,N
+425,11,41,2024-10-25,2,39,0,0.0,39.0,78.0,37.56,40.44,Credit Card,Processing,Mobile App,DAL7 - Dallas TX,N
+426,115,77,2024-06-03,2,19,0,0.0,19.0,38.0,22.28,15.72,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+427,122,74,2023-06-22,2,25,0,0.0,25.0,50.0,30.1,19.9,Debit Card,Delivered,Mobile App,JFK8 - New York NY,N
+428,196,18,2024-03-20,1,79,0,0.0,79.0,79.0,40.91,38.09,Credit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+429,135,32,2024-05-30,1,69,0,0.0,69.0,69.0,32.64,36.36,Gift Card,Delivered,Website,SEA6 - Seattle WA,N
+430,106,55,2023-12-07,1,19,0,0.0,19.0,19.0,11.39,7.61,Credit Card,Processing,Website,MDW2 - Chicago IL,N
+431,158,57,2023-04-24,2,14,5,0.7,13.3,26.6,15.4,11.2,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+432,29,7,2022-10-30,1,139,5,6.95,132.05,132.05,75.28,56.77,PayPal,Cancelled,Website,SEA6 - Seattle WA,N
+433,29,40,2023-03-05,1,19,0,0.0,19.0,19.0,9.98,9.02,Credit Card,Returned,Mobile App,MDW2 - Chicago IL,Y
+434,141,62,2022-02-07,2,195,20,39.0,156.0,312.0,198.08,113.92,Gift Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+435,44,8,2023-07-10,1,49,10,4.9,44.1,44.1,31.84,12.26,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+436,170,35,2024-01-08,2,149,15,22.35,126.65,253.3,135.82,117.48,Credit Card,Cancelled,Alexa,SEA6 - Seattle WA,N
+437,99,30,2022-07-23,5,149,10,14.9,134.1,670.5,358.3,312.2,Debit Card,Cancelled,Mobile App,ONT8 - Ontario CA,N
+438,48,26,2022-02-14,2,449,0,0.0,449.0,898.0,524.44,373.56,Gift Card,Delivered,Website,DAL7 - Dallas TX,N
+439,101,21,2023-12-29,1,99,5,4.95,94.05,94.05,51.96,42.09,Credit Card,Processing,Third-Party Marketplace,ATL6 - Atlanta GA,N
+440,71,8,2022-03-02,2,49,10,4.9,44.1,88.2,63.68,24.52,Gift Card,Cancelled,Website,MDW2 - Chicago IL,N
+441,101,18,2023-04-11,1,79,0,0.0,79.0,79.0,40.91,38.09,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+442,155,43,2022-10-11,1,49,0,0.0,49.0,49.0,30.71,18.29,Amazon Pay,Processing,Website,JFK8 - New York NY,N
+443,80,68,2022-10-25,4,10,0,0.0,10.0,40.0,19.76,20.24,Debit Card,Processing,Website,ONT8 - Ontario CA,N
+444,143,69,2023-10-13,5,9,0,0.0,9.0,45.0,24.85,20.15,Credit Card,Returned,Website,MDW2 - Chicago IL,Y
+445,106,53,2023-07-15,1,16,5,0.8,15.2,15.2,9.66,5.54,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+446,196,79,2023-04-18,2,9,10,0.9,8.1,16.2,8.64,7.56,Credit Card,Processing,Website,ONT8 - Ontario CA,N
+447,177,62,2024-08-18,1,195,10,19.5,175.5,175.5,99.04,76.46,Credit Card,Processing,Alexa,DAL7 - Dallas TX,N
+448,122,18,2024-04-16,1,79,0,0.0,79.0,79.0,40.91,38.09,Credit Card,Returned,Website,DAL7 - Dallas TX,Y
+449,57,26,2024-06-18,3,449,0,0.0,449.0,1347.0,786.66,560.34,Debit Card,Cancelled,Website,DAL7 - Dallas TX,N
+450,64,55,2024-02-19,1,19,0,0.0,19.0,19.0,11.39,7.61,Credit Card,Returned,Third-Party Marketplace,ATL6 - Atlanta GA,Y
+451,153,69,2022-03-20,2,9,10,0.9,8.1,16.2,9.94,6.26,Debit Card,Shipped,Mobile App,ONT8 - Ontario CA,N
+452,63,67,2022-03-22,2,54,20,10.8,43.2,86.4,57.14,29.26,Debit Card,Shipped,Mobile App,ONT8 - Ontario CA,N
+453,49,38,2023-08-09,1,119,15,17.85,101.15,101.15,55.21,45.94,Debit Card,Shipped,Mobile App,ONT8 - Ontario CA,N
+454,177,67,2024-07-14,4,54,0,0.0,54.0,216.0,114.28,101.72,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+455,179,70,2024-07-12,1,38,0,0.0,38.0,38.0,23.99,14.01,Debit Card,Delivered,Alexa,JFK8 - New York NY,N
+456,117,12,2022-12-02,1,699,5,34.95,664.05,664.05,353.0,311.05,Credit Card,Returned,Website,DAL7 - Dallas TX,Y
+457,163,47,2024-11-13,1,199,5,9.95,189.05,189.05,100.42,88.63,Credit Card,Processing,Mobile App,ONT8 - Ontario CA,N
+458,197,22,2022-11-04,4,129,5,6.45,122.55,490.2,239.12,251.08,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+459,108,40,2024-07-02,1,19,10,1.9,17.1,17.1,9.98,7.12,Credit Card,Delivered,Alexa,JFK8 - New York NY,N
+460,1,80,2024-10-16,3,18,0,0.0,18.0,54.0,29.07,24.93,Debit Card,Returned,Website,DAL7 - Dallas TX,Y
+461,61,28,2024-04-19,2,349,0,0.0,349.0,698.0,449.28,248.72,Amazon Pay,Shipped,Website,ATL6 - Atlanta GA,N
+462,72,80,2023-03-02,2,18,10,1.8,16.2,32.4,19.38,13.02,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+463,38,5,2023-09-04,2,349,10,34.9,314.1,628.2,377.2,251.0,Credit Card,Delivered,Website,JFK8 - New York NY,N
+464,42,37,2022-12-30,2,59,5,2.95,56.05,112.1,57.38,54.72,Amazon Pay,Cancelled,Website,ONT8 - Ontario CA,N
+465,24,39,2022-05-19,1,45,10,4.5,40.5,40.5,21.08,19.42,PayPal,Returned,Website,DAL7 - Dallas TX,Y
+466,35,16,2024-12-15,2,49,0,0.0,49.0,98.0,60.82,37.18,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+467,28,74,2022-06-29,2,25,5,1.25,23.75,47.5,30.1,17.4,Amazon Pay,Shipped,Third-Party Marketplace,SEA6 - Seattle WA,N
+468,74,55,2024-12-12,2,19,5,0.95,18.05,36.1,22.78,13.32,Amazon Pay,Processing,Third-Party Marketplace,ATL6 - Atlanta GA,N
+469,145,64,2024-10-05,2,12,5,0.6,11.4,22.8,14.8,8.0,PayPal,Returned,Website,MDW2 - Chicago IL,Y
+470,50,1,2022-08-30,1,999,0,0.0,999.0,999.0,514.24,484.76,Credit Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+471,106,6,2023-03-11,1,399,5,19.95,379.05,379.05,237.58,141.47,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+472,79,39,2022-01-13,2,45,0,0.0,45.0,90.0,42.16,47.84,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+473,158,4,2023-11-24,3,1099,0,0.0,1099.0,3297.0,1797.69,1499.31,Debit Card,Cancelled,Mobile App,ONT8 - Ontario CA,N
+474,166,18,2023-11-18,1,79,5,3.95,75.05,75.05,40.91,34.14,PayPal,Shipped,Third-Party Marketplace,ONT8 - Ontario CA,N
+475,134,39,2022-02-08,2,45,5,2.25,42.75,85.5,42.16,43.34,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+476,17,20,2024-02-08,1,399,0,0.0,399.0,399.0,213.61,185.39,PayPal,Processing,Mobile App,DAL7 - Dallas TX,N
+477,48,77,2023-09-24,1,19,10,1.9,17.1,17.1,11.14,5.96,Credit Card,Processing,Website,DAL7 - Dallas TX,N
+478,23,64,2023-09-12,4,12,0,0.0,12.0,48.0,29.6,18.4,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+479,200,26,2022-02-21,4,449,0,0.0,449.0,1796.0,1048.88,747.12,Gift Card,Returned,Website,MDW2 - Chicago IL,Y
+480,124,68,2022-07-21,1,10,5,0.5,9.5,9.5,4.94,4.56,Gift Card,Returned,Mobile App,JFK8 - New York NY,Y
+481,53,5,2024-12-05,1,349,5,17.45,331.55,331.55,188.6,142.95,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+482,23,43,2024-12-02,1,49,0,0.0,49.0,49.0,30.71,18.29,Amazon Pay,Returned,Website,MDW2 - Chicago IL,Y
+483,164,27,2023-07-21,1,199,0,0.0,199.0,199.0,124.32,74.68,Amazon Pay,Shipped,Mobile App,MDW2 - Chicago IL,N
+484,39,21,2024-11-18,1,99,0,0.0,99.0,99.0,51.96,47.04,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+485,37,37,2023-09-30,2,59,0,0.0,59.0,118.0,57.38,60.62,Credit Card,Processing,Website,JFK8 - New York NY,N
+486,8,61,2024-02-25,4,599,0,0.0,599.0,2396.0,1352.96,1043.04,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+487,152,58,2023-02-10,2,22,5,1.1,20.9,41.8,20.44,21.36,Amazon Pay,Processing,Mobile App,DAL7 - Dallas TX,N
+488,146,17,2024-08-17,1,89,15,13.35,75.65,75.65,47.71,27.94,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+489,121,30,2023-06-13,5,149,0,0.0,149.0,745.0,358.3,386.7,Credit Card,Cancelled,Mobile App,SEA6 - Seattle WA,N
+490,85,42,2024-08-31,1,29,0,0.0,29.0,29.0,17.56,11.44,Debit Card,Delivered,Alexa,MDW2 - Chicago IL,N
+491,197,45,2022-07-30,2,44,0,0.0,44.0,88.0,44.38,43.62,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+492,167,10,2024-03-31,3,149,10,14.9,134.1,402.3,207.72,194.58,Credit Card,Processing,Website,JFK8 - New York NY,N
+493,124,50,2024-06-01,1,39,0,0.0,39.0,39.0,21.66,17.34,Debit Card,Returned,Mobile App,ATL6 - Atlanta GA,Y
+494,178,31,2024-09-23,1,150,5,7.5,142.5,142.5,92.92,49.58,Debit Card,Delivered,Website,ONT8 - Ontario CA,N
+495,114,23,2022-08-11,1,149,0,0.0,149.0,149.0,79.92,69.08,Debit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+496,127,8,2022-01-01,1,49,15,7.35,41.65,41.65,31.84,9.81,Amazon Pay,Returned,Mobile App,MDW2 - Chicago IL,Y
+497,100,79,2023-10-11,2,9,0,0.0,9.0,18.0,8.64,9.36,PayPal,Delivered,Mobile App,DAL7 - Dallas TX,N
+498,184,45,2024-11-11,10,44,5,2.2,41.8,418.0,221.9,196.1,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+499,141,7,2024-01-06,1,139,10,13.9,125.1,125.1,75.28,49.82,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+500,180,76,2024-02-23,1,19,5,0.95,18.05,18.05,10.31,7.74,Debit Card,Delivered,Website,JFK8 - New York NY,N
+501,122,18,2024-01-08,1,79,0,0.0,79.0,79.0,40.91,38.09,Credit Card,Returned,Third-Party Marketplace,SEA6 - Seattle WA,Y
+502,33,18,2022-10-22,1,79,5,3.95,75.05,75.05,40.91,34.14,Debit Card,Returned,Website,JFK8 - New York NY,Y
+503,22,18,2024-07-22,2,79,5,3.95,75.05,150.1,81.82,68.28,Amazon Pay,Cancelled,Third-Party Marketplace,ATL6 - Atlanta GA,N
+504,47,59,2024-07-10,2,18,10,1.8,16.2,32.4,19.34,13.06,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+505,148,64,2024-10-24,3,12,0,0.0,12.0,36.0,22.2,13.8,Gift Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+506,10,73,2024-09-13,1,14,0,0.0,14.0,14.0,6.85,7.15,Credit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+507,193,36,2022-07-01,1,180,0,0.0,180.0,180.0,114.18,65.82,Amazon Pay,Delivered,Mobile App,SEA6 - Seattle WA,N
+508,20,70,2022-04-19,3,38,0,0.0,38.0,114.0,71.97,42.03,Debit Card,Cancelled,Website,DAL7 - Dallas TX,N
+509,132,61,2023-12-24,2,599,0,0.0,599.0,1198.0,676.48,521.52,PayPal,Cancelled,Website,ONT8 - Ontario CA,N
+510,178,77,2023-06-18,2,19,5,0.95,18.05,36.1,22.28,13.82,Debit Card,Delivered,Website,ONT8 - Ontario CA,N
+511,169,38,2023-08-11,3,119,5,5.95,113.05,339.15,165.63,173.52,Credit Card,Shipped,Website,MDW2 - Chicago IL,N
+512,65,17,2023-06-11,2,89,0,0.0,89.0,178.0,95.42,82.58,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+513,190,20,2022-12-26,2,399,5,19.95,379.05,758.1,427.22,330.88,Amazon Pay,Delivered,Mobile App,ATL6 - Atlanta GA,N
+514,9,44,2022-11-12,10,299,15,44.85,254.15,2541.5,1796.7,744.8,Amazon Pay,Returned,Website,DAL7 - Dallas TX,Y
+515,61,57,2023-12-08,2,14,0,0.0,14.0,28.0,15.4,12.6,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+516,43,60,2024-12-26,1,17,0,0.0,17.0,17.0,10.58,6.42,Amazon Pay,Delivered,Website,MDW2 - Chicago IL,N
+517,38,68,2024-07-08,4,10,0,0.0,10.0,40.0,19.76,20.24,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+518,25,69,2024-06-03,2,9,20,1.8,7.2,14.4,9.94,4.46,Amazon Pay,Processing,Website,MDW2 - Chicago IL,N
+519,69,13,2024-08-02,1,99,5,4.95,94.05,94.05,52.09,41.96,Amazon Pay,Returned,Mobile App,ATL6 - Atlanta GA,Y
+520,198,25,2023-01-04,2,499,5,24.95,474.05,948.1,566.16,381.94,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+521,4,53,2024-07-02,1,16,0,0.0,16.0,16.0,9.66,6.34,Amazon Pay,Delivered,Website,ONT8 - Ontario CA,N
+522,7,80,2023-03-21,1,18,20,3.6,14.4,14.4,9.69,4.71,Amazon Pay,Cancelled,Mobile App,ONT8 - Ontario CA,N
+523,23,78,2023-01-14,1,23,5,1.15,21.85,21.85,14.33,7.52,Amazon Pay,Cancelled,Website,DAL7 - Dallas TX,N
+524,170,10,2023-07-21,2,149,15,22.35,126.65,253.3,138.48,114.82,Amazon Pay,Returned,Mobile App,MDW2 - Chicago IL,Y
+525,66,21,2022-05-08,3,99,0,0.0,99.0,297.0,155.88,141.12,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+526,46,57,2023-02-15,1,14,20,2.8,11.2,11.2,7.7,3.5,Credit Card,Processing,Mobile App,JFK8 - New York NY,N
+527,139,56,2024-06-23,1,17,5,0.85,16.15,16.15,8.94,7.21,Credit Card,Returned,Website,ATL6 - Atlanta GA,Y
+528,187,33,2024-10-16,3,179,0,0.0,179.0,537.0,328.35,208.65,Amazon Pay,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+529,100,35,2024-03-12,1,149,5,7.45,141.55,141.55,67.91,73.64,Debit Card,Processing,Third-Party Marketplace,DAL7 - Dallas TX,N
+530,123,56,2022-05-24,1,17,5,0.85,16.15,16.15,8.94,7.21,Credit Card,Shipped,Third-Party Marketplace,DAL7 - Dallas TX,N
+531,32,73,2023-11-14,2,14,20,2.8,11.2,22.4,13.7,8.7,Debit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+532,24,47,2022-06-14,2,199,15,29.85,169.15,338.3,200.84,137.46,Amazon Pay,Returned,Website,JFK8 - New York NY,Y
+533,46,71,2023-01-27,1,22,5,1.1,20.9,20.9,13.1,7.8,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+534,92,63,2023-01-24,1,15,10,1.5,13.5,13.5,9.65,3.85,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+535,62,63,2023-09-23,1,15,15,2.25,12.75,12.75,9.65,3.1,Buy Now Pay Later,Shipped,Mobile App,ONT8 - Ontario CA,N
+536,10,44,2022-03-29,1,299,10,29.9,269.1,269.1,179.67,89.43,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+537,118,69,2022-05-28,1,9,5,0.45,8.55,8.55,4.97,3.58,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+538,159,6,2022-01-30,1,399,10,39.9,359.1,359.1,237.58,121.52,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+539,117,79,2022-08-06,1,9,5,0.45,8.55,8.55,4.32,4.23,Debit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+540,52,55,2024-04-03,1,19,10,1.9,17.1,17.1,11.39,5.71,Buy Now Pay Later,Delivered,Mobile App,JFK8 - New York NY,N
+541,83,28,2023-11-19,3,349,5,17.45,331.55,994.65,673.92,320.73,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+542,179,48,2022-03-25,2,19,0,0.0,19.0,38.0,19.72,18.28,PayPal,Delivered,Mobile App,DAL7 - Dallas TX,N
+543,200,21,2022-01-14,1,99,0,0.0,99.0,99.0,51.96,47.04,Gift Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+544,73,54,2024-09-01,2,16,10,1.6,14.4,28.8,16.5,12.3,Credit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+545,116,53,2022-03-19,1,16,0,0.0,16.0,16.0,9.66,6.34,Amazon Pay,Processing,Mobile App,ONT8 - Ontario CA,N
+546,161,39,2023-04-28,1,45,0,0.0,45.0,45.0,21.08,23.92,Buy Now Pay Later,Delivered,Third-Party Marketplace,ATL6 - Atlanta GA,N
+547,93,70,2023-03-03,2,38,0,0.0,38.0,76.0,47.98,28.02,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+548,122,64,2022-03-30,1,12,5,0.6,11.4,11.4,7.4,4.0,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+549,86,79,2022-03-30,3,9,10,0.9,8.1,24.3,12.96,11.34,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+550,8,63,2023-04-27,2,15,0,0.0,15.0,30.0,19.3,10.7,Debit Card,Returned,Website,JFK8 - New York NY,Y
+551,192,42,2023-04-12,1,29,0,0.0,29.0,29.0,17.56,11.44,Amazon Pay,Delivered,Alexa,DAL7 - Dallas TX,N
+552,57,10,2024-06-11,1,149,5,7.45,141.55,141.55,69.24,72.31,Gift Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+553,96,18,2024-01-05,1,79,0,0.0,79.0,79.0,40.91,38.09,Credit Card,Cancelled,Website,SEA6 - Seattle WA,N
+554,146,8,2024-08-11,1,49,0,0.0,49.0,49.0,31.84,17.16,Credit Card,Shipped,Website,MDW2 - Chicago IL,N
+555,155,21,2022-12-15,3,99,5,4.95,94.05,282.15,155.88,126.27,Debit Card,Processing,Website,DAL7 - Dallas TX,N
+556,134,63,2024-08-27,3,15,0,0.0,15.0,45.0,28.95,16.05,Credit Card,Returned,Mobile App,SEA6 - Seattle WA,Y
+557,64,32,2022-11-02,1,69,5,3.45,65.55,65.55,32.64,32.91,PayPal,Cancelled,Website,ONT8 - Ontario CA,N
+558,11,61,2024-05-21,2,599,0,0.0,599.0,1198.0,676.48,521.52,Debit Card,Shipped,Mobile App,ONT8 - Ontario CA,N
+559,116,64,2022-01-26,1,12,5,0.6,11.4,11.4,7.4,4.0,Debit Card,Processing,Website,MDW2 - Chicago IL,N
+560,76,31,2024-09-09,2,150,0,0.0,150.0,300.0,185.84,114.16,Credit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+561,192,75,2022-10-11,1,12,0,0.0,12.0,12.0,5.83,6.17,Debit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+562,161,60,2022-05-25,2,17,0,0.0,17.0,34.0,21.16,12.84,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+563,110,35,2023-03-01,2,149,5,7.45,141.55,283.1,135.82,147.28,Credit Card,Returned,Alexa,SEA6 - Seattle WA,Y
+564,15,66,2022-04-16,5,38,5,1.9,36.1,180.5,102.05,78.45,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+565,94,23,2023-02-24,2,149,5,7.45,141.55,283.1,159.84,123.26,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+566,123,75,2023-04-07,4,12,5,0.6,11.4,45.6,23.32,22.28,PayPal,Delivered,Mobile App,DAL7 - Dallas TX,N
+567,71,7,2024-09-22,1,139,0,0.0,139.0,139.0,75.28,63.72,PayPal,Shipped,Mobile App,ATL6 - Atlanta GA,N
+568,174,69,2024-01-24,4,9,5,0.45,8.55,34.2,19.88,14.32,Gift Card,Returned,Mobile App,ONT8 - Ontario CA,Y
+569,49,59,2023-01-02,1,18,5,0.9,17.1,17.1,9.67,7.43,Gift Card,Delivered,Website,MDW2 - Chicago IL,N
+570,29,19,2024-12-02,1,249,10,24.9,224.1,224.1,132.77,91.33,Credit Card,Cancelled,Website,SEA6 - Seattle WA,N
+571,139,17,2022-02-13,1,89,0,0.0,89.0,89.0,47.71,41.29,Credit Card,Delivered,Alexa,JFK8 - New York NY,N
+572,134,43,2023-10-31,1,49,0,0.0,49.0,49.0,30.71,18.29,Amazon Pay,Shipped,Mobile App,ATL6 - Atlanta GA,N
+573,114,59,2023-09-20,1,18,0,0.0,18.0,18.0,9.67,8.33,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+574,198,7,2022-12-07,1,139,0,0.0,139.0,139.0,75.28,63.72,Credit Card,Processing,Mobile App,JFK8 - New York NY,N
+575,45,20,2023-10-11,1,399,0,0.0,399.0,399.0,213.61,185.39,Debit Card,Processing,Website,JFK8 - New York NY,N
+576,144,5,2022-10-30,2,349,20,69.8,279.2,558.4,377.2,181.2,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+577,32,4,2022-10-25,1,1099,0,0.0,1099.0,1099.0,599.23,499.77,Gift Card,Cancelled,Website,SEA6 - Seattle WA,N
+578,140,65,2024-08-28,1,30,5,1.5,28.5,28.5,16.12,12.38,Buy Now Pay Later,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+579,171,19,2024-06-24,3,249,5,12.45,236.55,709.65,398.31,311.34,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+580,36,71,2023-03-28,1,22,0,0.0,22.0,22.0,13.1,8.9,Credit Card,Shipped,Website,SEA6 - Seattle WA,N
+581,50,75,2023-07-24,2,12,10,1.2,10.8,21.6,11.66,9.94,Credit Card,Delivered,Alexa,SEA6 - Seattle WA,N
+582,172,12,2024-10-01,5,699,0,0.0,699.0,3495.0,1765.0,1730.0,Amazon Pay,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+583,93,51,2024-01-28,1,18,10,1.8,16.2,16.2,8.89,7.31,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+584,115,72,2024-06-28,1,18,5,0.9,17.1,17.1,8.95,8.15,Debit Card,Returned,Website,JFK8 - New York NY,Y
+585,187,55,2022-06-26,2,19,5,0.95,18.05,36.1,22.78,13.32,Credit Card,Delivered,Third-Party Marketplace,ATL6 - Atlanta GA,N
+586,86,9,2024-02-09,4,99,5,4.95,94.05,376.2,232.52,143.68,Debit Card,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+587,45,72,2022-10-08,1,18,5,0.9,17.1,17.1,8.95,8.15,PayPal,Delivered,Website,DAL7 - Dallas TX,N
+588,11,39,2024-08-07,3,45,0,0.0,45.0,135.0,63.24,71.76,PayPal,Delivered,Website,MDW2 - Chicago IL,N
+589,164,61,2023-08-13,1,599,10,59.9,539.1,539.1,338.24,200.86,Debit Card,Delivered,Mobile App,JFK8 - New York NY,N
+590,8,16,2022-05-17,3,49,0,0.0,49.0,147.0,91.23,55.77,Credit Card,Processing,Mobile App,DAL7 - Dallas TX,N
+591,67,61,2024-02-04,5,599,15,89.85,509.15,2545.75,1691.2,854.55,Debit Card,Shipped,Alexa,JFK8 - New York NY,N
+592,149,8,2022-10-05,1,49,5,2.45,46.55,46.55,31.84,14.71,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+593,92,7,2022-06-07,1,139,10,13.9,125.1,125.1,75.28,49.82,Amazon Pay,Shipped,Website,ONT8 - Ontario CA,N
+594,154,22,2023-09-09,2,129,10,12.9,116.1,232.2,119.56,112.64,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+595,149,46,2024-11-27,3,349,0,0.0,349.0,1047.0,572.85,474.15,Amazon Pay,Delivered,Website,JFK8 - New York NY,N
+596,27,28,2023-01-21,1,349,0,0.0,349.0,349.0,224.64,124.36,Debit Card,Returned,Mobile App,ATL6 - Atlanta GA,Y
+597,137,71,2024-05-04,2,22,15,3.3,18.7,37.4,26.2,11.2,Credit Card,Shipped,Mobile App,ONT8 - Ontario CA,N
+598,123,45,2024-06-24,1,44,0,0.0,44.0,44.0,22.19,21.81,Debit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+599,45,39,2023-04-01,1,45,10,4.5,40.5,40.5,21.08,19.42,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+600,33,27,2022-08-17,1,199,0,0.0,199.0,199.0,124.32,74.68,Amazon Pay,Delivered,Mobile App,ONT8 - Ontario CA,N
+601,51,14,2022-05-02,1,129,5,6.45,122.55,122.55,69.76,52.79,Gift Card,Shipped,Website,MDW2 - Chicago IL,N
+602,171,2,2023-02-25,3,849,10,84.9,764.1,2292.3,1172.85,1119.45,Credit Card,Processing,Mobile App,ONT8 - Ontario CA,N
+603,24,19,2023-12-14,3,249,15,37.35,211.65,634.95,398.31,236.64,PayPal,Delivered,Mobile App,ATL6 - Atlanta GA,N
+604,62,65,2022-01-29,2,30,0,0.0,30.0,60.0,32.24,27.76,Amazon Pay,Shipped,Third-Party Marketplace,JFK8 - New York NY,N
+605,194,69,2023-03-15,1,9,5,0.45,8.55,8.55,4.97,3.58,PayPal,Cancelled,Mobile App,SEA6 - Seattle WA,N
+606,151,24,2023-01-06,1,649,20,129.8,519.2,519.2,397.42,121.78,Buy Now Pay Later,Returned,Website,ATL6 - Atlanta GA,Y
+607,59,53,2022-09-11,1,16,20,3.2,12.8,12.8,9.66,3.14,Debit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+608,181,37,2023-11-03,2,59,0,0.0,59.0,118.0,57.38,60.62,Credit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+609,80,57,2024-05-26,1,14,0,0.0,14.0,14.0,7.7,6.3,Credit Card,Delivered,Alexa,DAL7 - Dallas TX,N
+610,174,48,2024-10-03,1,19,20,3.8,15.2,15.2,9.86,5.34,Credit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+611,22,16,2022-07-28,1,49,5,2.45,46.55,46.55,30.41,16.14,PayPal,Returned,Website,MDW2 - Chicago IL,Y
+612,51,44,2024-04-07,1,299,10,29.9,269.1,269.1,179.67,89.43,PayPal,Delivered,Mobile App,MDW2 - Chicago IL,N
+613,196,75,2024-03-30,2,12,15,1.8,10.2,20.4,11.66,8.74,Amazon Pay,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+614,131,36,2022-09-08,1,180,5,9.0,171.0,171.0,114.18,56.82,Debit Card,Delivered,Mobile App,JFK8 - New York NY,N
+615,8,13,2024-10-17,2,99,10,9.9,89.1,178.2,104.18,74.02,Buy Now Pay Later,Processing,Website,SEA6 - Seattle WA,N
+616,84,20,2022-06-06,1,399,5,19.95,379.05,379.05,213.61,165.44,Debit Card,Processing,Mobile App,DAL7 - Dallas TX,N
+617,52,38,2023-06-20,2,119,0,0.0,119.0,238.0,110.42,127.58,PayPal,Shipped,Mobile App,ONT8 - Ontario CA,N
+618,196,5,2022-09-01,10,349,15,52.35,296.65,2966.5,1886.0,1080.5,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+619,10,5,2023-09-13,1,349,5,17.45,331.55,331.55,188.6,142.95,Credit Card,Cancelled,Website,MDW2 - Chicago IL,N
+620,184,50,2024-10-01,1,39,0,0.0,39.0,39.0,21.66,17.34,Amazon Pay,Processing,Mobile App,DAL7 - Dallas TX,N
+621,144,21,2024-10-10,2,99,0,0.0,99.0,198.0,103.92,94.08,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+622,83,8,2024-01-21,1,49,0,0.0,49.0,49.0,31.84,17.16,Amazon Pay,Delivered,Website,SEA6 - Seattle WA,N
+623,88,49,2024-01-02,1,29,0,0.0,29.0,29.0,16.98,12.02,Credit Card,Delivered,Website,JFK8 - New York NY,N
+624,166,40,2022-05-15,2,19,15,2.85,16.15,32.3,19.96,12.34,Credit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+625,84,5,2024-11-20,1,349,10,34.9,314.1,314.1,188.6,125.5,Credit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+626,6,41,2022-07-20,1,39,0,0.0,39.0,39.0,18.78,20.22,Credit Card,Returned,Mobile App,MDW2 - Chicago IL,Y
+627,128,65,2022-12-08,3,30,5,1.5,28.5,85.5,48.36,37.14,Credit Card,Processing,Website,DAL7 - Dallas TX,N
+628,163,10,2023-08-12,3,149,0,0.0,149.0,447.0,207.72,239.28,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+629,160,12,2023-11-21,2,699,5,34.95,664.05,1328.1,706.0,622.1,Debit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+630,54,45,2023-09-11,3,44,10,4.4,39.6,118.8,66.57,52.23,Credit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+631,52,54,2024-07-17,1,16,5,0.8,15.2,15.2,8.25,6.95,Debit Card,Processing,Alexa,SEA6 - Seattle WA,N
+632,181,67,2023-03-13,3,54,5,2.7,51.3,153.9,85.71,68.19,PayPal,Processing,Third-Party Marketplace,MDW2 - Chicago IL,N
+633,164,69,2024-06-07,3,9,15,1.35,7.65,22.95,14.91,8.04,Amazon Pay,Cancelled,Website,JFK8 - New York NY,N
+634,94,60,2023-09-07,1,17,0,0.0,17.0,17.0,10.58,6.42,Debit Card,Returned,Alexa,ONT8 - Ontario CA,Y
+635,163,27,2023-08-11,3,199,0,0.0,199.0,597.0,372.96,224.04,Credit Card,Processing,Mobile App,DAL7 - Dallas TX,N
+636,62,15,2023-09-28,1,449,0,0.0,449.0,449.0,210.96,238.04,Debit Card,Shipped,Website,SEA6 - Seattle WA,N
+637,10,26,2023-06-14,1,449,0,0.0,449.0,449.0,262.22,186.78,Credit Card,Returned,Mobile App,SEA6 - Seattle WA,Y
+638,11,63,2022-06-21,3,15,0,0.0,15.0,45.0,28.95,16.05,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+639,94,12,2022-10-15,1,699,10,69.9,629.1,629.1,353.0,276.1,Debit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+640,134,75,2023-05-31,5,12,15,1.8,10.2,51.0,29.15,21.85,Credit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+641,85,75,2023-04-29,2,12,10,1.2,10.8,21.6,11.66,9.94,Credit Card,Cancelled,Website,JFK8 - New York NY,N
+642,71,57,2022-04-25,1,14,10,1.4,12.6,12.6,7.7,4.9,Credit Card,Shipped,Third-Party Marketplace,MDW2 - Chicago IL,N
+643,140,55,2023-07-23,1,19,0,0.0,19.0,19.0,11.39,7.61,Gift Card,Cancelled,Website,SEA6 - Seattle WA,N
+644,95,40,2022-03-13,1,19,15,2.85,16.15,16.15,9.98,6.17,Amazon Pay,Returned,Third-Party Marketplace,SEA6 - Seattle WA,Y
+645,172,31,2024-01-14,1,150,0,0.0,150.0,150.0,92.92,57.08,Amazon Pay,Cancelled,Mobile App,JFK8 - New York NY,N
+646,114,50,2023-06-08,1,39,15,5.85,33.15,33.15,21.66,11.49,Gift Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+647,54,21,2024-04-12,4,99,10,9.9,89.1,356.4,207.84,148.56,Credit Card,Returned,Website,DAL7 - Dallas TX,Y
+648,121,53,2024-05-15,4,16,5,0.8,15.2,60.8,38.64,22.16,PayPal,Cancelled,Mobile App,SEA6 - Seattle WA,N
+649,67,65,2023-11-01,1,30,5,1.5,28.5,28.5,16.12,12.38,Credit Card,Shipped,Website,SEA6 - Seattle WA,N
+650,48,57,2024-03-31,3,14,0,0.0,14.0,42.0,23.1,18.9,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+651,41,32,2022-09-24,2,69,15,10.35,58.65,117.3,65.28,52.02,Amazon Pay,Returned,Mobile App,MDW2 - Chicago IL,Y
+652,116,62,2022-12-22,4,195,0,0.0,195.0,780.0,396.16,383.84,PayPal,Processing,Mobile App,JFK8 - New York NY,N
+653,22,54,2024-02-12,1,16,5,0.8,15.2,15.2,8.25,6.95,PayPal,Cancelled,Website,ONT8 - Ontario CA,N
+654,143,79,2024-08-05,2,9,15,1.35,7.65,15.3,8.64,6.66,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+655,159,55,2024-01-24,2,19,0,0.0,19.0,38.0,22.78,15.22,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+656,112,59,2023-04-05,3,18,0,0.0,18.0,54.0,29.01,24.99,Credit Card,Processing,Alexa,MDW2 - Chicago IL,N
+657,74,64,2023-02-28,1,12,5,0.6,11.4,11.4,7.4,4.0,Buy Now Pay Later,Processing,Website,SEA6 - Seattle WA,N
+658,49,54,2022-02-28,1,16,15,2.4,13.6,13.6,8.25,5.35,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+659,95,75,2022-01-22,2,12,0,0.0,12.0,24.0,11.66,12.34,PayPal,Shipped,Third-Party Marketplace,DAL7 - Dallas TX,N
+660,176,28,2023-06-09,2,349,5,17.45,331.55,663.1,449.28,213.82,Debit Card,Delivered,Website,JFK8 - New York NY,N
+661,121,46,2022-04-04,10,349,20,69.8,279.2,2792.0,1909.5,882.5,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+662,172,48,2022-03-26,1,19,10,1.9,17.1,17.1,9.86,7.24,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+663,120,17,2024-06-05,1,89,5,4.45,84.55,84.55,47.71,36.84,Credit Card,Delivered,Website,JFK8 - New York NY,N
+664,128,36,2023-08-03,2,180,15,27.0,153.0,306.0,228.36,77.64,Credit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+665,133,41,2024-10-03,1,39,0,0.0,39.0,39.0,18.78,20.22,Credit Card,Returned,Alexa,SEA6 - Seattle WA,Y
+666,163,57,2023-04-16,1,14,0,0.0,14.0,14.0,7.7,6.3,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+667,112,15,2022-03-25,10,449,15,67.35,381.65,3816.5,2109.6,1706.9,Buy Now Pay Later,Shipped,Mobile App,DAL7 - Dallas TX,N
+668,127,15,2022-09-11,3,449,15,67.35,381.65,1144.95,632.88,512.07,Credit Card,Delivered,Website,JFK8 - New York NY,N
+669,192,66,2023-03-11,3,38,5,1.9,36.1,108.3,61.23,47.07,Buy Now Pay Later,Processing,Mobile App,ATL6 - Atlanta GA,N
+670,47,54,2024-10-17,4,16,0,0.0,16.0,64.0,33.0,31.0,PayPal,Processing,Website,SEA6 - Seattle WA,N
+671,175,16,2022-08-06,1,49,5,2.45,46.55,46.55,30.41,16.14,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+672,169,62,2022-01-12,1,195,15,29.25,165.75,165.75,99.04,66.71,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+673,84,73,2023-08-03,1,14,10,1.4,12.6,12.6,6.85,5.75,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+674,98,12,2024-03-27,1,699,0,0.0,699.0,699.0,353.0,346.0,PayPal,Delivered,Website,DAL7 - Dallas TX,N
+675,73,20,2024-06-04,1,399,0,0.0,399.0,399.0,213.61,185.39,Gift Card,Returned,Third-Party Marketplace,ATL6 - Atlanta GA,Y
+676,34,46,2024-11-15,2,349,10,34.9,314.1,628.2,381.9,246.3,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+677,145,77,2024-01-25,1,19,10,1.9,17.1,17.1,11.14,5.96,Debit Card,Processing,Website,ONT8 - Ontario CA,N
+678,132,44,2022-11-14,5,299,5,14.95,284.05,1420.25,898.35,521.9,Debit Card,Cancelled,Mobile App,ONT8 - Ontario CA,N
+679,75,60,2024-09-05,1,17,15,2.55,14.45,14.45,10.58,3.87,Buy Now Pay Later,Delivered,Mobile App,MDW2 - Chicago IL,N
+680,64,67,2022-06-06,1,54,5,2.7,51.3,51.3,28.57,22.73,Debit Card,Cancelled,Mobile App,DAL7 - Dallas TX,N
+681,25,60,2023-06-03,2,17,10,1.7,15.3,30.6,21.16,9.44,Debit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+682,30,60,2024-03-15,1,17,0,0.0,17.0,17.0,10.58,6.42,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+683,151,59,2023-06-27,3,18,5,0.9,17.1,51.3,29.01,22.29,Gift Card,Delivered,Mobile App,JFK8 - New York NY,N
+684,48,11,2022-08-06,2,1399,5,69.95,1329.05,2658.1,1599.5,1058.6,Credit Card,Shipped,Website,ONT8 - Ontario CA,N
+685,44,62,2024-09-23,1,195,0,0.0,195.0,195.0,99.04,95.96,PayPal,Delivered,Mobile App,SEA6 - Seattle WA,N
+686,173,51,2022-10-04,3,18,0,0.0,18.0,54.0,26.67,27.33,Credit Card,Delivered,Website,JFK8 - New York NY,N
+687,7,27,2023-05-11,1,199,0,0.0,199.0,199.0,124.32,74.68,Amazon Pay,Shipped,Mobile App,JFK8 - New York NY,N
+688,23,39,2024-05-14,3,45,0,0.0,45.0,135.0,63.24,71.76,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+689,114,63,2023-05-12,1,15,10,1.5,13.5,13.5,9.65,3.85,Debit Card,Delivered,Alexa,ONT8 - Ontario CA,N
+690,86,2,2024-06-03,1,849,10,84.9,764.1,764.1,390.95,373.15,PayPal,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+691,188,71,2024-03-29,10,22,0,0.0,22.0,220.0,131.0,89.0,Debit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+692,125,30,2024-05-14,2,149,0,0.0,149.0,298.0,143.32,154.68,Debit Card,Processing,Website,SEA6 - Seattle WA,N
+693,107,61,2023-12-12,1,599,5,29.95,569.05,569.05,338.24,230.81,Debit Card,Shipped,Website,SEA6 - Seattle WA,N
+694,50,61,2023-03-26,1,599,0,0.0,599.0,599.0,338.24,260.76,Amazon Pay,Processing,Third-Party Marketplace,SEA6 - Seattle WA,N
+695,169,60,2024-03-10,1,17,0,0.0,17.0,17.0,10.58,6.42,PayPal,Cancelled,Mobile App,SEA6 - Seattle WA,N
+696,93,61,2023-03-01,3,599,10,59.9,539.1,1617.3,1014.72,602.58,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+697,45,26,2024-05-01,1,449,0,0.0,449.0,449.0,262.22,186.78,Debit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+698,13,3,2022-11-21,1,1299,0,0.0,1299.0,1299.0,721.23,577.77,PayPal,Delivered,Mobile App,ONT8 - Ontario CA,N
+699,87,56,2023-04-04,1,17,0,0.0,17.0,17.0,8.94,8.06,Buy Now Pay Later,Shipped,Mobile App,ONT8 - Ontario CA,N
+700,198,72,2024-11-21,1,18,0,0.0,18.0,18.0,8.95,9.05,Credit Card,Processing,Website,DAL7 - Dallas TX,N
+701,118,15,2022-07-28,5,449,10,44.9,404.1,2020.5,1054.8,965.7,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+702,31,27,2023-08-22,4,199,0,0.0,199.0,796.0,497.28,298.72,Amazon Pay,Processing,Mobile App,ONT8 - Ontario CA,N
+703,40,47,2023-02-18,1,199,0,0.0,199.0,199.0,100.42,98.58,Debit Card,Shipped,Mobile App,JFK8 - New York NY,N
+704,122,44,2023-06-29,1,299,0,0.0,299.0,299.0,179.67,119.33,Amazon Pay,Delivered,Website,SEA6 - Seattle WA,N
+705,63,20,2023-04-13,3,399,0,0.0,399.0,1197.0,640.83,556.17,Debit Card,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+706,133,47,2022-01-21,5,199,5,9.95,189.05,945.25,502.1,443.15,Debit Card,Returned,Website,MDW2 - Chicago IL,Y
+707,81,52,2022-05-06,10,17,0,0.0,17.0,170.0,76.8,93.2,Credit Card,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+708,148,8,2024-11-30,5,49,20,9.8,39.2,196.0,159.2,36.8,Debit Card,Cancelled,Alexa,SEA6 - Seattle WA,N
+709,142,39,2023-12-06,2,45,0,0.0,45.0,90.0,42.16,47.84,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+710,180,52,2024-06-24,1,17,0,0.0,17.0,17.0,7.68,9.32,PayPal,Processing,Mobile App,DAL7 - Dallas TX,N
+711,199,26,2023-11-17,4,449,0,0.0,449.0,1796.0,1048.88,747.12,Amazon Pay,Delivered,Alexa,ATL6 - Atlanta GA,N
+712,139,37,2023-10-02,1,59,0,0.0,59.0,59.0,28.69,30.31,Amazon Pay,Shipped,Website,ONT8 - Ontario CA,N
+713,139,76,2023-09-15,1,19,10,1.9,17.1,17.1,10.31,6.79,Buy Now Pay Later,Returned,Website,ONT8 - Ontario CA,Y
+714,96,34,2022-04-08,2,35,0,0.0,35.0,70.0,40.02,29.98,Gift Card,Returned,Website,ATL6 - Atlanta GA,Y
+715,189,1,2024-12-28,1,999,20,199.8,799.2,799.2,514.24,284.96,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+716,184,74,2024-11-30,2,25,5,1.25,23.75,47.5,30.1,17.4,Credit Card,Returned,Mobile App,JFK8 - New York NY,Y
+717,200,47,2024-05-21,1,199,0,0.0,199.0,199.0,100.42,98.58,Credit Card,Returned,Website,JFK8 - New York NY,Y
+718,122,28,2024-12-13,1,349,0,0.0,349.0,349.0,224.64,124.36,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+719,150,64,2024-09-29,2,12,20,2.4,9.6,19.2,14.8,4.4,Debit Card,Returned,Website,ATL6 - Atlanta GA,Y
+720,33,63,2024-11-17,2,15,0,0.0,15.0,30.0,19.3,10.7,Credit Card,Cancelled,Website,DAL7 - Dallas TX,N
+721,9,21,2022-09-01,5,99,0,0.0,99.0,495.0,259.8,235.2,Debit Card,Processing,Website,ATL6 - Atlanta GA,N
+722,75,6,2023-09-17,2,399,0,0.0,399.0,798.0,475.16,322.84,Credit Card,Cancelled,Mobile App,JFK8 - New York NY,N
+723,37,76,2023-09-17,1,19,15,2.85,16.15,16.15,10.31,5.84,Credit Card,Cancelled,Mobile App,DAL7 - Dallas TX,N
+724,1,16,2022-04-02,2,49,0,0.0,49.0,98.0,60.82,37.18,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+725,97,61,2022-09-29,3,599,10,59.9,539.1,1617.3,1014.72,602.58,Debit Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+726,171,58,2022-07-02,1,22,5,1.1,20.9,20.9,10.22,10.68,Amazon Pay,Returned,Website,JFK8 - New York NY,Y
+727,102,44,2024-06-26,2,299,15,44.85,254.15,508.3,359.34,148.96,Amazon Pay,Returned,Alexa,SEA6 - Seattle WA,Y
+728,7,74,2023-09-25,2,25,15,3.75,21.25,42.5,30.1,12.4,Credit Card,Shipped,Mobile App,JFK8 - New York NY,N
+729,159,70,2024-12-04,2,38,0,0.0,38.0,76.0,47.98,28.02,Debit Card,Delivered,Alexa,ONT8 - Ontario CA,N
+730,169,69,2023-02-26,1,9,0,0.0,9.0,9.0,4.97,4.03,Amazon Pay,Delivered,Alexa,DAL7 - Dallas TX,N
+731,22,69,2022-04-03,2,9,5,0.45,8.55,17.1,9.94,7.16,Gift Card,Shipped,Website,JFK8 - New York NY,N
+732,107,4,2023-06-11,3,1099,0,0.0,1099.0,3297.0,1797.69,1499.31,Buy Now Pay Later,Delivered,Mobile App,MDW2 - Chicago IL,N
+733,37,24,2023-09-21,1,649,0,0.0,649.0,649.0,397.42,251.58,Amazon Pay,Cancelled,Website,MDW2 - Chicago IL,N
+734,47,4,2022-07-22,2,1099,0,0.0,1099.0,2198.0,1198.46,999.54,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+735,31,7,2023-04-30,1,139,15,20.85,118.15,118.15,75.28,42.87,Amazon Pay,Shipped,Website,ONT8 - Ontario CA,N
+736,69,8,2022-05-15,1,49,5,2.45,46.55,46.55,31.84,14.71,Debit Card,Shipped,Website,ONT8 - Ontario CA,N
+737,69,71,2023-05-20,5,22,5,1.1,20.9,104.5,65.5,39.0,Amazon Pay,Returned,Website,ATL6 - Atlanta GA,Y
+738,105,58,2023-02-21,1,22,5,1.1,20.9,20.9,10.22,10.68,Credit Card,Returned,Mobile App,JFK8 - New York NY,Y
+739,63,69,2024-07-14,5,9,15,1.35,7.65,38.25,24.85,13.4,PayPal,Delivered,Third-Party Marketplace,ATL6 - Atlanta GA,N
+740,75,22,2024-09-14,1,129,15,19.35,109.65,109.65,59.78,49.87,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+741,162,28,2022-04-04,2,349,10,34.9,314.1,628.2,449.28,178.92,Debit Card,Delivered,Website,ONT8 - Ontario CA,N
+742,102,16,2023-07-27,3,49,5,2.45,46.55,139.65,91.23,48.42,Credit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+743,175,44,2024-07-16,2,299,20,59.8,239.2,478.4,359.34,119.06,Amazon Pay,Delivered,Website,JFK8 - New York NY,N
+744,118,77,2022-10-01,1,19,15,2.85,16.15,16.15,11.14,5.01,Credit Card,Processing,Mobile App,ONT8 - Ontario CA,N
+745,173,23,2024-09-28,1,149,10,14.9,134.1,134.1,79.92,54.18,Debit Card,Returned,Mobile App,SEA6 - Seattle WA,Y
+746,167,10,2024-06-30,2,149,15,22.35,126.65,253.3,138.48,114.82,Credit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+747,92,50,2022-01-18,1,39,15,5.85,33.15,33.15,21.66,11.49,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+748,57,3,2024-01-03,3,1299,10,129.9,1169.1,3507.3,2163.69,1343.61,PayPal,Delivered,Mobile App,SEA6 - Seattle WA,N
+749,57,30,2022-03-17,10,149,20,29.8,119.2,1192.0,716.6,475.4,Gift Card,Delivered,Mobile App,JFK8 - New York NY,N
+750,2,26,2022-08-16,10,449,10,44.9,404.1,4041.0,2622.2,1418.8,Debit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+751,50,73,2022-12-26,2,14,5,0.7,13.3,26.6,13.7,12.9,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+752,146,30,2023-07-16,4,149,10,14.9,134.1,536.4,286.64,249.76,Amazon Pay,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+753,174,69,2024-07-18,2,9,10,0.9,8.1,16.2,9.94,6.26,Debit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+754,14,42,2023-07-16,1,29,20,5.8,23.2,23.2,17.56,5.64,Debit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+755,195,6,2023-07-24,4,399,0,0.0,399.0,1596.0,950.32,645.68,Debit Card,Cancelled,Website,DAL7 - Dallas TX,N
+756,50,43,2022-02-21,1,49,5,2.45,46.55,46.55,30.71,15.84,Credit Card,Cancelled,Mobile App,ONT8 - Ontario CA,N
+757,64,26,2022-07-18,1,449,0,0.0,449.0,449.0,262.22,186.78,Debit Card,Delivered,Website,SEA6 - Seattle WA,N
+758,86,33,2023-11-29,1,179,0,0.0,179.0,179.0,109.45,69.55,PayPal,Returned,Mobile App,JFK8 - New York NY,Y
+759,19,77,2024-07-03,2,19,10,1.9,17.1,34.2,22.28,11.92,Credit Card,Processing,Website,ONT8 - Ontario CA,N
+760,97,41,2022-09-19,4,39,5,1.95,37.05,148.2,75.12,73.08,PayPal,Delivered,Website,ATL6 - Atlanta GA,N
+761,161,56,2022-04-17,1,17,5,0.85,16.15,16.15,8.94,7.21,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+762,60,77,2024-07-17,3,19,5,0.95,18.05,54.15,33.42,20.73,PayPal,Delivered,Alexa,ATL6 - Atlanta GA,N
+763,26,44,2022-02-23,2,299,10,29.9,269.1,538.2,359.34,178.86,Credit Card,Shipped,Website,ONT8 - Ontario CA,N
+764,4,77,2023-02-01,2,19,5,0.95,18.05,36.1,22.28,13.82,Credit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+765,108,62,2023-05-13,2,195,0,0.0,195.0,390.0,198.08,191.92,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+766,112,66,2023-09-30,5,38,10,3.8,34.2,171.0,102.05,68.95,Debit Card,Processing,Website,DAL7 - Dallas TX,N
+767,80,78,2022-01-17,1,23,0,0.0,23.0,23.0,14.33,8.67,Amazon Pay,Shipped,Website,JFK8 - New York NY,N
+768,130,72,2023-02-05,3,18,0,0.0,18.0,54.0,26.85,27.15,Amazon Pay,Cancelled,Website,ONT8 - Ontario CA,N
+769,88,25,2024-08-15,2,499,5,24.95,474.05,948.1,566.16,381.94,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+770,158,39,2024-07-19,1,45,0,0.0,45.0,45.0,21.08,23.92,Gift Card,Cancelled,Mobile App,ONT8 - Ontario CA,N
+771,164,29,2023-03-13,2,449,5,22.45,426.55,853.1,467.26,385.84,Amazon Pay,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+772,190,49,2022-01-14,1,29,0,0.0,29.0,29.0,16.98,12.02,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+773,37,38,2024-01-08,1,119,5,5.95,113.05,113.05,55.21,57.84,Credit Card,Delivered,Website,JFK8 - New York NY,N
+774,57,34,2023-05-19,2,35,5,1.75,33.25,66.5,40.02,26.48,Credit Card,Delivered,Alexa,ONT8 - Ontario CA,N
+775,6,18,2022-08-16,1,79,10,7.9,71.1,71.1,40.91,30.19,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+776,96,22,2024-06-07,5,129,20,25.8,103.2,516.0,298.9,217.1,Credit Card,Cancelled,Website,JFK8 - New York NY,N
+777,49,25,2023-10-14,2,499,10,49.9,449.1,898.2,566.16,332.04,Buy Now Pay Later,Processing,Website,ONT8 - Ontario CA,N
+778,196,79,2023-08-26,2,9,15,1.35,7.65,15.3,8.64,6.66,Credit Card,Returned,Website,MDW2 - Chicago IL,Y
+779,33,66,2023-03-05,5,38,10,3.8,34.2,171.0,102.05,68.95,PayPal,Returned,Mobile App,ATL6 - Atlanta GA,Y
+780,17,22,2024-11-08,2,129,10,12.9,116.1,232.2,119.56,112.64,Debit Card,Delivered,Website,SEA6 - Seattle WA,N
+781,96,68,2024-10-10,2,10,5,0.5,9.5,19.0,9.88,9.12,Debit Card,Shipped,Mobile App,ATL6 - Atlanta GA,N
+782,167,5,2024-07-14,1,349,15,52.35,296.65,296.65,188.6,108.05,Credit Card,Cancelled,Website,DAL7 - Dallas TX,N
+783,147,21,2022-06-23,4,99,0,0.0,99.0,396.0,207.84,188.16,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+784,59,75,2023-11-20,1,12,0,0.0,12.0,12.0,5.83,6.17,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+785,82,35,2023-04-24,1,149,0,0.0,149.0,149.0,67.91,81.09,Credit Card,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+786,129,66,2023-07-21,2,38,0,0.0,38.0,76.0,40.82,35.18,Credit Card,Cancelled,Website,ONT8 - Ontario CA,N
+787,140,26,2023-05-28,1,449,5,22.45,426.55,426.55,262.22,164.33,PayPal,Delivered,Mobile App,MDW2 - Chicago IL,N
+788,49,78,2023-06-19,10,23,20,4.6,18.4,184.0,143.3,40.7,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+789,104,75,2024-11-15,3,12,0,0.0,12.0,36.0,17.49,18.51,Gift Card,Cancelled,Alexa,JFK8 - New York NY,N
+790,59,27,2024-08-17,1,199,0,0.0,199.0,199.0,124.32,74.68,Debit Card,Returned,Mobile App,MDW2 - Chicago IL,Y
+791,49,55,2023-03-06,3,19,10,1.9,17.1,51.3,34.17,17.13,PayPal,Shipped,Website,JFK8 - New York NY,N
+792,148,17,2024-10-20,1,89,10,8.9,80.1,80.1,47.71,32.39,PayPal,Returned,Website,DAL7 - Dallas TX,Y
+793,109,52,2023-09-06,3,17,10,1.7,15.3,45.9,23.04,22.86,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+794,40,43,2024-03-11,2,49,10,4.9,44.1,88.2,61.42,26.78,Credit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+795,99,25,2024-07-13,1,499,5,24.95,474.05,474.05,283.08,190.97,Credit Card,Processing,Website,SEA6 - Seattle WA,N
+796,142,23,2024-09-27,1,149,5,7.45,141.55,141.55,79.92,61.63,Credit Card,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+797,73,27,2022-05-24,1,199,5,9.95,189.05,189.05,124.32,64.73,Credit Card,Shipped,Website,MDW2 - Chicago IL,N
+798,106,51,2024-05-06,1,18,0,0.0,18.0,18.0,8.89,9.11,Credit Card,Shipped,Third-Party Marketplace,JFK8 - New York NY,N
+799,34,27,2024-08-30,1,199,10,19.9,179.1,179.1,124.32,54.78,Debit Card,Delivered,Website,JFK8 - New York NY,N
+800,129,59,2022-10-20,1,18,0,0.0,18.0,18.0,9.67,8.33,PayPal,Shipped,Mobile App,JFK8 - New York NY,N
+801,135,43,2024-07-31,4,49,15,7.35,41.65,166.6,122.84,43.76,Credit Card,Shipped,Website,SEA6 - Seattle WA,N
+802,117,45,2023-09-02,2,44,5,2.2,41.8,83.6,44.38,39.22,PayPal,Delivered,Alexa,DAL7 - Dallas TX,N
+803,64,23,2024-07-26,4,149,5,7.45,141.55,566.2,319.68,246.52,Amazon Pay,Delivered,Mobile App,ONT8 - Ontario CA,N
+804,101,6,2023-07-15,1,399,10,39.9,359.1,359.1,237.58,121.52,Debit Card,Cancelled,Mobile App,ONT8 - Ontario CA,N
+805,179,28,2022-09-06,4,349,0,0.0,349.0,1396.0,898.56,497.44,Credit Card,Cancelled,Website,MDW2 - Chicago IL,N
+806,105,58,2022-04-02,1,22,0,0.0,22.0,22.0,10.22,11.78,Credit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+807,119,49,2023-02-03,1,29,5,1.45,27.55,27.55,16.98,10.57,Credit Card,Delivered,Website,JFK8 - New York NY,N
+808,84,60,2023-05-12,1,17,0,0.0,17.0,17.0,10.58,6.42,Debit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+809,42,22,2022-12-29,3,129,5,6.45,122.55,367.65,179.34,188.31,Debit Card,Delivered,Website,ONT8 - Ontario CA,N
+810,172,2,2024-01-04,2,849,0,0.0,849.0,1698.0,781.9,916.1,Amazon Pay,Delivered,Alexa,ATL6 - Atlanta GA,N
+811,56,57,2024-12-06,2,14,15,2.1,11.9,23.8,15.4,8.4,Amazon Pay,Processing,Alexa,DAL7 - Dallas TX,N
+812,177,40,2022-04-10,1,19,5,0.95,18.05,18.05,9.98,8.07,Amazon Pay,Returned,Third-Party Marketplace,MDW2 - Chicago IL,Y
+813,62,26,2022-01-30,1,449,5,22.45,426.55,426.55,262.22,164.33,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+814,25,22,2024-11-15,2,129,0,0.0,129.0,258.0,119.56,138.44,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+815,160,27,2024-05-26,4,199,0,0.0,199.0,796.0,497.28,298.72,Credit Card,Delivered,Website,JFK8 - New York NY,N
+816,4,52,2023-03-12,2,17,0,0.0,17.0,34.0,15.36,18.64,Credit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+817,160,48,2024-04-21,1,19,10,1.9,17.1,17.1,9.86,7.24,Debit Card,Delivered,Third-Party Marketplace,ONT8 - Ontario CA,N
+818,183,69,2022-12-18,3,9,15,1.35,7.65,22.95,14.91,8.04,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+819,179,50,2022-09-30,2,39,20,7.8,31.2,62.4,43.32,19.08,Amazon Pay,Delivered,Alexa,MDW2 - Chicago IL,N
+820,171,62,2024-07-08,1,195,0,0.0,195.0,195.0,99.04,95.96,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+821,181,2,2022-09-12,1,849,5,42.45,806.55,806.55,390.95,415.6,Amazon Pay,Delivered,Mobile App,ATL6 - Atlanta GA,N
+822,21,8,2023-02-18,1,49,0,0.0,49.0,49.0,31.84,17.16,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+823,154,57,2023-07-24,2,14,0,0.0,14.0,28.0,15.4,12.6,PayPal,Delivered,Website,DAL7 - Dallas TX,N
+824,166,37,2023-11-10,3,59,0,0.0,59.0,177.0,86.07,90.93,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+825,64,29,2023-10-21,2,449,0,0.0,449.0,898.0,467.26,430.74,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+826,18,25,2023-02-23,1,499,20,99.8,399.2,399.2,283.08,116.12,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+827,61,65,2023-09-30,1,30,5,1.5,28.5,28.5,16.12,12.38,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+828,64,39,2023-02-17,1,45,0,0.0,45.0,45.0,21.08,23.92,PayPal,Delivered,Website,MDW2 - Chicago IL,N
+829,102,49,2024-10-31,1,29,0,0.0,29.0,29.0,16.98,12.02,Debit Card,Processing,Website,DAL7 - Dallas TX,N
+830,6,49,2023-09-07,1,29,0,0.0,29.0,29.0,16.98,12.02,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+831,98,60,2024-09-11,1,17,0,0.0,17.0,17.0,10.58,6.42,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+832,49,1,2024-02-06,1,999,10,99.9,899.1,899.1,514.24,384.86,Gift Card,Shipped,Third-Party Marketplace,SEA6 - Seattle WA,N
+833,96,50,2022-05-26,1,39,5,1.95,37.05,37.05,21.66,15.39,Credit Card,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+834,145,21,2023-06-07,1,99,0,0.0,99.0,99.0,51.96,47.04,Amazon Pay,Returned,Website,SEA6 - Seattle WA,Y
+835,126,48,2024-05-18,2,19,5,0.95,18.05,36.1,19.72,16.38,Credit Card,Returned,Website,MDW2 - Chicago IL,Y
+836,162,4,2023-06-20,2,1099,10,109.9,989.1,1978.2,1198.46,779.74,Gift Card,Processing,Website,JFK8 - New York NY,N
+837,155,75,2022-01-26,5,12,10,1.2,10.8,54.0,29.15,24.85,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+838,102,76,2023-01-22,5,19,0,0.0,19.0,95.0,51.55,43.45,Credit Card,Cancelled,Website,SEA6 - Seattle WA,N
+839,78,65,2024-02-23,5,30,5,1.5,28.5,142.5,80.6,61.9,Amazon Pay,Processing,Mobile App,SEA6 - Seattle WA,N
+840,23,14,2023-12-07,2,129,10,12.9,116.1,232.2,139.52,92.68,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+841,102,40,2024-10-04,1,19,0,0.0,19.0,19.0,9.98,9.02,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+842,107,37,2024-02-07,2,59,0,0.0,59.0,118.0,57.38,60.62,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+843,29,58,2023-02-16,2,22,0,0.0,22.0,44.0,20.44,23.56,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+844,105,57,2022-12-07,2,14,5,0.7,13.3,26.6,15.4,11.2,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+845,88,4,2022-07-26,2,1099,0,0.0,1099.0,2198.0,1198.46,999.54,Credit Card,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+846,150,6,2022-01-15,1,399,0,0.0,399.0,399.0,237.58,161.42,Debit Card,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+847,125,61,2023-11-21,3,599,5,29.95,569.05,1707.15,1014.72,692.43,PayPal,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+848,93,52,2023-12-31,1,17,0,0.0,17.0,17.0,7.68,9.32,PayPal,Cancelled,Website,SEA6 - Seattle WA,N
+849,103,18,2024-12-22,1,79,0,0.0,79.0,79.0,40.91,38.09,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+850,116,80,2024-11-20,2,18,10,1.8,16.2,32.4,19.38,13.02,Credit Card,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+851,5,47,2023-10-29,4,199,20,39.8,159.2,636.8,401.68,235.12,Credit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+852,157,11,2024-09-02,1,1399,15,209.85,1189.15,1189.15,799.75,389.4,PayPal,Cancelled,Third-Party Marketplace,SEA6 - Seattle WA,N
+853,99,38,2024-12-01,2,119,10,11.9,107.1,214.2,110.42,103.78,PayPal,Cancelled,Mobile App,ONT8 - Ontario CA,N
+854,33,64,2024-08-14,3,12,0,0.0,12.0,36.0,22.2,13.8,Debit Card,Delivered,Website,SEA6 - Seattle WA,N
+855,139,31,2022-07-03,1,150,0,0.0,150.0,150.0,92.92,57.08,Buy Now Pay Later,Delivered,Website,MDW2 - Chicago IL,N
+856,99,36,2024-09-02,1,180,0,0.0,180.0,180.0,114.18,65.82,Amazon Pay,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+857,163,63,2023-04-04,1,15,5,0.75,14.25,14.25,9.65,4.6,Amazon Pay,Cancelled,Mobile App,SEA6 - Seattle WA,N
+858,88,49,2024-02-21,4,29,5,1.45,27.55,110.2,67.92,42.28,PayPal,Processing,Third-Party Marketplace,DAL7 - Dallas TX,N
+859,60,29,2022-08-17,1,449,0,0.0,449.0,449.0,233.63,215.37,Amazon Pay,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+860,30,74,2024-02-18,1,25,10,2.5,22.5,22.5,15.05,7.45,Credit Card,Processing,Website,ATL6 - Atlanta GA,N
+861,49,50,2024-01-18,5,39,5,1.95,37.05,185.25,108.3,76.95,Gift Card,Returned,Website,SEA6 - Seattle WA,Y
+862,155,76,2024-08-01,1,19,0,0.0,19.0,19.0,10.31,8.69,PayPal,Delivered,Website,JFK8 - New York NY,N
+863,128,59,2022-03-12,1,18,0,0.0,18.0,18.0,9.67,8.33,Credit Card,Processing,Third-Party Marketplace,ONT8 - Ontario CA,N
+864,71,74,2024-10-10,1,25,10,2.5,22.5,22.5,15.05,7.45,Buy Now Pay Later,Delivered,Website,MDW2 - Chicago IL,N
+865,40,27,2023-04-06,3,199,15,29.85,169.15,507.45,372.96,134.49,Credit Card,Processing,Alexa,JFK8 - New York NY,N
+866,125,51,2022-11-23,1,18,10,1.8,16.2,16.2,8.89,7.31,Debit Card,Cancelled,Website,SEA6 - Seattle WA,N
+867,122,45,2024-12-17,3,44,0,0.0,44.0,132.0,66.57,65.43,Credit Card,Returned,Third-Party Marketplace,SEA6 - Seattle WA,Y
+868,141,51,2022-04-21,1,18,5,0.9,17.1,17.1,8.89,8.21,Amazon Pay,Returned,Mobile App,JFK8 - New York NY,Y
+869,148,18,2022-10-24,1,79,5,3.95,75.05,75.05,40.91,34.14,PayPal,Delivered,Website,SEA6 - Seattle WA,N
+870,3,47,2022-10-30,2,199,5,9.95,189.05,378.1,200.84,177.26,Buy Now Pay Later,Delivered,Mobile App,JFK8 - New York NY,N
+871,15,13,2022-04-18,1,99,0,0.0,99.0,99.0,52.09,46.91,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+872,39,52,2024-03-23,1,17,0,0.0,17.0,17.0,7.68,9.32,Amazon Pay,Shipped,Third-Party Marketplace,SEA6 - Seattle WA,N
+873,191,49,2022-07-03,3,29,20,5.8,23.2,69.6,50.94,18.66,PayPal,Returned,Mobile App,MDW2 - Chicago IL,Y
+874,162,57,2022-06-19,1,14,0,0.0,14.0,14.0,7.7,6.3,Amazon Pay,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+875,6,76,2023-07-15,2,19,5,0.95,18.05,36.1,20.62,15.48,Credit Card,Processing,Mobile App,DAL7 - Dallas TX,N
+876,124,56,2023-10-29,1,17,0,0.0,17.0,17.0,8.94,8.06,Gift Card,Delivered,Mobile App,JFK8 - New York NY,N
+877,104,3,2024-12-21,1,1299,10,129.9,1169.1,1169.1,721.23,447.87,Debit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+878,167,16,2022-08-29,3,49,0,0.0,49.0,147.0,91.23,55.77,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+879,115,41,2023-02-27,1,39,0,0.0,39.0,39.0,18.78,20.22,Credit Card,Processing,Website,ONT8 - Ontario CA,N
+880,22,16,2022-12-18,2,49,5,2.45,46.55,93.1,60.82,32.28,Gift Card,Delivered,Website,MDW2 - Chicago IL,N
+881,12,67,2024-12-29,4,54,0,0.0,54.0,216.0,114.28,101.72,Debit Card,Shipped,Mobile App,ATL6 - Atlanta GA,N
+882,91,78,2022-07-22,2,23,0,0.0,23.0,46.0,28.66,17.34,Credit Card,Processing,Website,JFK8 - New York NY,N
+883,77,28,2023-03-19,5,349,5,17.45,331.55,1657.75,1123.2,534.55,Credit Card,Processing,Mobile App,DAL7 - Dallas TX,N
+884,20,71,2022-12-01,1,22,0,0.0,22.0,22.0,13.1,8.9,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+885,178,19,2023-07-06,2,249,0,0.0,249.0,498.0,265.54,232.46,Amazon Pay,Cancelled,Website,MDW2 - Chicago IL,N
+886,145,66,2022-11-11,2,38,0,0.0,38.0,76.0,40.82,35.18,PayPal,Delivered,Website,ATL6 - Atlanta GA,N
+887,64,10,2024-04-13,1,149,0,0.0,149.0,149.0,69.24,79.76,Amazon Pay,Delivered,Website,MDW2 - Chicago IL,N
+888,200,35,2023-07-15,1,149,10,14.9,134.1,134.1,67.91,66.19,Credit Card,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+889,27,16,2023-09-20,1,49,5,2.45,46.55,46.55,30.41,16.14,PayPal,Processing,Website,MDW2 - Chicago IL,N
+890,180,74,2022-07-22,3,25,10,2.5,22.5,67.5,45.15,22.35,Credit Card,Cancelled,Third-Party Marketplace,DAL7 - Dallas TX,N
+891,47,45,2024-12-24,3,44,10,4.4,39.6,118.8,66.57,52.23,PayPal,Shipped,Website,ATL6 - Atlanta GA,N
+892,33,34,2022-11-15,1,35,0,0.0,35.0,35.0,20.01,14.99,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+893,14,48,2024-05-06,2,19,0,0.0,19.0,38.0,19.72,18.28,Credit Card,Processing,Third-Party Marketplace,DAL7 - Dallas TX,N
+894,129,37,2023-04-14,1,59,0,0.0,59.0,59.0,28.69,30.31,PayPal,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+895,198,41,2022-06-07,3,39,5,1.95,37.05,111.15,56.34,54.81,Gift Card,Returned,Website,ONT8 - Ontario CA,Y
+896,22,37,2022-01-22,2,59,5,2.95,56.05,112.1,57.38,54.72,Debit Card,Cancelled,Mobile App,SEA6 - Seattle WA,N
+897,35,62,2024-12-26,1,195,10,19.5,175.5,175.5,99.04,76.46,Debit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+898,2,55,2023-05-16,2,19,10,1.9,17.1,34.2,22.78,11.42,Amazon Pay,Cancelled,Third-Party Marketplace,ATL6 - Atlanta GA,N
+899,176,78,2022-12-12,1,23,0,0.0,23.0,23.0,14.33,8.67,PayPal,Processing,Mobile App,JFK8 - New York NY,N
+900,45,10,2023-12-25,1,149,0,0.0,149.0,149.0,69.24,79.76,Debit Card,Cancelled,Website,MDW2 - Chicago IL,N
+901,29,44,2022-08-30,4,299,0,0.0,299.0,1196.0,718.68,477.32,Debit Card,Delivered,Website,ONT8 - Ontario CA,N
+902,189,73,2024-11-21,1,14,15,2.1,11.9,11.9,6.85,5.05,Credit Card,Returned,Mobile App,ATL6 - Atlanta GA,Y
+903,125,8,2023-11-04,1,49,5,2.45,46.55,46.55,31.84,14.71,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+904,48,52,2024-10-04,1,17,0,0.0,17.0,17.0,7.68,9.32,Debit Card,Delivered,Alexa,DAL7 - Dallas TX,N
+905,32,63,2023-05-28,1,15,10,1.5,13.5,13.5,9.65,3.85,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+906,47,69,2024-06-17,3,9,0,0.0,9.0,27.0,14.91,12.09,Debit Card,Processing,Website,SEA6 - Seattle WA,N
+907,112,1,2023-02-11,1,999,10,99.9,899.1,899.1,514.24,384.86,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+908,191,43,2023-02-12,4,49,0,0.0,49.0,196.0,122.84,73.16,Gift Card,Cancelled,Third-Party Marketplace,ONT8 - Ontario CA,N
+909,108,63,2022-09-18,2,15,10,1.5,13.5,27.0,19.3,7.7,Amazon Pay,Delivered,Alexa,ATL6 - Atlanta GA,N
+910,186,50,2022-02-13,1,39,20,7.8,31.2,31.2,21.66,9.54,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+911,61,7,2022-01-17,2,139,0,0.0,139.0,278.0,150.56,127.44,Credit Card,Shipped,Mobile App,DAL7 - Dallas TX,N
+912,64,80,2023-05-26,1,18,0,0.0,18.0,18.0,9.69,8.31,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+913,64,55,2022-07-31,1,19,5,0.95,18.05,18.05,11.39,6.66,Debit Card,Processing,Website,ATL6 - Atlanta GA,N
+914,162,20,2022-03-20,1,399,0,0.0,399.0,399.0,213.61,185.39,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+915,158,26,2024-04-14,1,449,0,0.0,449.0,449.0,262.22,186.78,Amazon Pay,Shipped,Third-Party Marketplace,JFK8 - New York NY,N
+916,87,55,2022-04-16,1,19,0,0.0,19.0,19.0,11.39,7.61,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+917,183,54,2023-01-08,1,16,10,1.6,14.4,14.4,8.25,6.15,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+918,74,61,2024-06-01,1,599,10,59.9,539.1,539.1,338.24,200.86,Gift Card,Delivered,Website,MDW2 - Chicago IL,N
+919,29,13,2022-09-24,2,99,5,4.95,94.05,188.1,104.18,83.92,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+920,136,78,2023-03-07,1,23,5,1.15,21.85,21.85,14.33,7.52,Credit Card,Processing,Website,SEA6 - Seattle WA,N
+921,191,78,2023-01-26,1,23,5,1.15,21.85,21.85,14.33,7.52,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+922,159,44,2023-02-18,1,299,5,14.95,284.05,284.05,179.67,104.38,Credit Card,Shipped,Website,DAL7 - Dallas TX,N
+923,141,33,2023-12-13,4,179,15,26.85,152.15,608.6,437.8,170.8,Debit Card,Cancelled,Mobile App,DAL7 - Dallas TX,N
+924,18,62,2024-10-28,1,195,15,29.25,165.75,165.75,99.04,66.71,Credit Card,Returned,Website,JFK8 - New York NY,Y
+925,75,6,2023-01-25,5,399,0,0.0,399.0,1995.0,1187.9,807.1,Credit Card,Returned,Mobile App,ATL6 - Atlanta GA,Y
+926,20,22,2024-03-10,1,129,0,0.0,129.0,129.0,59.78,69.22,Credit Card,Delivered,Website,JFK8 - New York NY,N
+927,147,28,2024-11-16,2,349,0,0.0,349.0,698.0,449.28,248.72,Amazon Pay,Shipped,Mobile App,MDW2 - Chicago IL,N
+928,57,38,2022-12-17,2,119,10,11.9,107.1,214.2,110.42,103.78,Debit Card,Delivered,Website,SEA6 - Seattle WA,N
+929,38,36,2022-04-16,4,180,0,0.0,180.0,720.0,456.72,263.28,Credit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+930,30,1,2024-01-26,2,999,5,49.95,949.05,1898.1,1028.48,869.62,Gift Card,Delivered,Alexa,MDW2 - Chicago IL,N
+931,185,18,2023-10-27,1,79,5,3.95,75.05,75.05,40.91,34.14,Amazon Pay,Cancelled,Website,MDW2 - Chicago IL,N
+932,57,36,2022-08-06,1,180,20,36.0,144.0,144.0,114.18,29.82,Amazon Pay,Returned,Third-Party Marketplace,MDW2 - Chicago IL,Y
+933,161,78,2023-03-28,2,23,10,2.3,20.7,41.4,28.66,12.74,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+934,40,58,2024-01-25,1,22,5,1.1,20.9,20.9,10.22,10.68,Debit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+935,48,23,2023-01-05,1,149,0,0.0,149.0,149.0,79.92,69.08,Credit Card,Processing,Website,JFK8 - New York NY,N
+936,101,78,2024-05-23,1,23,0,0.0,23.0,23.0,14.33,8.67,Gift Card,Delivered,Third-Party Marketplace,ONT8 - Ontario CA,N
+937,186,68,2022-01-25,1,10,15,1.5,8.5,8.5,4.94,3.56,Credit Card,Processing,Website,ONT8 - Ontario CA,N
+938,196,6,2023-07-03,1,399,15,59.85,339.15,339.15,237.58,101.57,Amazon Pay,Delivered,Website,ONT8 - Ontario CA,N
+939,28,70,2022-06-24,2,38,0,0.0,38.0,76.0,47.98,28.02,Debit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+940,42,40,2022-04-25,1,19,0,0.0,19.0,19.0,9.98,9.02,Credit Card,Shipped,Mobile App,ONT8 - Ontario CA,N
+941,12,14,2024-04-30,2,129,0,0.0,129.0,258.0,139.52,118.48,Gift Card,Delivered,Website,DAL7 - Dallas TX,N
+942,99,19,2024-02-27,1,249,0,0.0,249.0,249.0,132.77,116.23,Amazon Pay,Processing,Third-Party Marketplace,DAL7 - Dallas TX,N
+943,44,15,2023-08-01,1,449,15,67.35,381.65,381.65,210.96,170.69,Amazon Pay,Delivered,Website,ONT8 - Ontario CA,N
+944,12,78,2023-11-17,1,23,5,1.15,21.85,21.85,14.33,7.52,Amazon Pay,Processing,Website,SEA6 - Seattle WA,N
+945,176,39,2022-08-01,2,45,0,0.0,45.0,90.0,42.16,47.84,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+946,183,10,2022-11-01,3,149,10,14.9,134.1,402.3,207.72,194.58,Credit Card,Returned,Website,DAL7 - Dallas TX,Y
+947,185,62,2024-05-25,3,195,0,0.0,195.0,585.0,297.12,287.88,Credit Card,Cancelled,Website,JFK8 - New York NY,N
+948,47,50,2024-09-12,1,39,5,1.95,37.05,37.05,21.66,15.39,Debit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+949,36,32,2024-12-29,1,69,10,6.9,62.1,62.1,32.64,29.46,Debit Card,Shipped,Website,ONT8 - Ontario CA,N
+950,149,54,2023-03-26,2,16,15,2.4,13.6,27.2,16.5,10.7,Credit Card,Processing,Website,ONT8 - Ontario CA,N
+951,93,72,2022-08-14,1,18,0,0.0,18.0,18.0,8.95,9.05,Credit Card,Delivered,Alexa,JFK8 - New York NY,N
+952,76,59,2024-05-12,1,18,10,1.8,16.2,16.2,9.67,6.53,PayPal,Delivered,Website,JFK8 - New York NY,N
+953,31,19,2024-05-19,1,249,0,0.0,249.0,249.0,132.77,116.23,Amazon Pay,Delivered,Mobile App,ONT8 - Ontario CA,N
+954,123,77,2024-01-19,4,19,0,0.0,19.0,76.0,44.56,31.44,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+955,39,24,2024-12-16,1,649,0,0.0,649.0,649.0,397.42,251.58,Credit Card,Processing,Website,MDW2 - Chicago IL,N
+956,114,2,2022-03-07,1,849,0,0.0,849.0,849.0,390.95,458.05,Credit Card,Processing,Website,DAL7 - Dallas TX,N
+957,109,59,2024-10-24,2,18,15,2.7,15.3,30.6,19.34,11.26,Credit Card,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+958,24,67,2023-03-10,1,54,15,8.1,45.9,45.9,28.57,17.33,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+959,144,78,2024-08-17,3,23,10,2.3,20.7,62.1,42.99,19.11,Amazon Pay,Shipped,Website,DAL7 - Dallas TX,N
+960,43,7,2023-02-03,3,139,5,6.95,132.05,396.15,225.84,170.31,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+961,8,31,2022-05-14,1,150,0,0.0,150.0,150.0,92.92,57.08,Credit Card,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+962,142,26,2023-07-06,2,449,0,0.0,449.0,898.0,524.44,373.56,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+963,12,7,2022-01-18,1,139,20,27.8,111.2,111.2,75.28,35.92,Amazon Pay,Cancelled,Third-Party Marketplace,ATL6 - Atlanta GA,N
+964,50,41,2022-09-23,3,39,5,1.95,37.05,111.15,56.34,54.81,Credit Card,Processing,Website,SEA6 - Seattle WA,N
+965,129,13,2022-02-18,2,99,10,9.9,89.1,178.2,104.18,74.02,Credit Card,Processing,Mobile App,ONT8 - Ontario CA,N
+966,75,21,2022-07-11,1,99,0,0.0,99.0,99.0,51.96,47.04,Credit Card,Cancelled,Website,SEA6 - Seattle WA,N
+967,168,19,2024-10-24,3,249,0,0.0,249.0,747.0,398.31,348.69,Amazon Pay,Shipped,Mobile App,MDW2 - Chicago IL,N
+968,115,17,2024-06-01,1,89,0,0.0,89.0,89.0,47.71,41.29,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+969,54,79,2024-10-15,2,9,20,1.8,7.2,14.4,8.64,5.76,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+970,141,12,2022-12-14,1,699,5,34.95,664.05,664.05,353.0,311.05,Credit Card,Cancelled,Website,MDW2 - Chicago IL,N
+971,91,12,2024-08-01,1,699,10,69.9,629.1,629.1,353.0,276.1,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+972,167,18,2024-09-26,4,79,20,15.8,63.2,252.8,163.64,89.16,PayPal,Delivered,Website,ATL6 - Atlanta GA,N
+973,175,17,2023-10-05,1,89,0,0.0,89.0,89.0,47.71,41.29,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+974,175,6,2023-05-17,2,399,5,19.95,379.05,758.1,475.16,282.94,Debit Card,Processing,Website,ONT8 - Ontario CA,N
+975,75,49,2022-05-30,1,29,0,0.0,29.0,29.0,16.98,12.02,PayPal,Delivered,Mobile App,MDW2 - Chicago IL,N
+976,120,60,2024-08-10,2,17,15,2.55,14.45,28.9,21.16,7.74,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+977,197,56,2023-10-12,1,17,0,0.0,17.0,17.0,8.94,8.06,Amazon Pay,Delivered,Website,SEA6 - Seattle WA,N
+978,122,15,2022-11-15,1,449,0,0.0,449.0,449.0,210.96,238.04,Credit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+979,9,77,2024-01-11,3,19,0,0.0,19.0,57.0,33.42,23.58,Buy Now Pay Later,Returned,Website,JFK8 - New York NY,Y
+980,6,55,2022-06-21,1,19,5,0.95,18.05,18.05,11.39,6.66,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+981,116,54,2023-06-16,2,16,5,0.8,15.2,30.4,16.5,13.9,Credit Card,Delivered,Alexa,DAL7 - Dallas TX,N
+982,88,39,2024-05-08,1,45,0,0.0,45.0,45.0,21.08,23.92,Debit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+983,112,46,2022-01-21,4,349,5,17.45,331.55,1326.2,763.8,562.4,PayPal,Shipped,Website,SEA6 - Seattle WA,N
+984,171,75,2023-10-11,2,12,0,0.0,12.0,24.0,11.66,12.34,PayPal,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+985,82,15,2023-06-23,3,449,10,44.9,404.1,1212.3,632.88,579.42,Credit Card,Shipped,Mobile App,JFK8 - New York NY,N
+986,163,58,2022-03-16,2,22,5,1.1,20.9,41.8,20.44,21.36,Buy Now Pay Later,Delivered,Website,ATL6 - Atlanta GA,N
+987,199,22,2023-03-06,2,129,0,0.0,129.0,258.0,119.56,138.44,Buy Now Pay Later,Cancelled,Mobile App,ONT8 - Ontario CA,N
+988,95,47,2024-10-25,1,199,10,19.9,179.1,179.1,100.42,78.68,Credit Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+989,106,53,2024-05-22,1,16,10,1.6,14.4,14.4,9.66,4.74,Amazon Pay,Shipped,Website,JFK8 - New York NY,N
+990,118,55,2022-11-30,1,19,5,0.95,18.05,18.05,11.39,6.66,Credit Card,Shipped,Alexa,SEA6 - Seattle WA,N
+991,175,56,2022-07-23,2,17,5,0.85,16.15,32.3,17.88,14.42,PayPal,Cancelled,Website,SEA6 - Seattle WA,N
+992,5,79,2022-07-24,4,9,0,0.0,9.0,36.0,17.28,18.72,Debit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+993,75,54,2024-02-20,1,16,10,1.6,14.4,14.4,8.25,6.15,PayPal,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+994,119,53,2024-03-21,4,16,10,1.6,14.4,57.6,38.64,18.96,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+995,69,34,2024-04-29,1,35,15,5.25,29.75,29.75,20.01,9.74,Credit Card,Processing,Third-Party Marketplace,ONT8 - Ontario CA,N
+996,4,4,2024-11-28,1,1099,0,0.0,1099.0,1099.0,599.23,499.77,Debit Card,Returned,Website,ATL6 - Atlanta GA,Y
+997,111,31,2024-03-16,2,150,5,7.5,142.5,285.0,185.84,99.16,PayPal,Returned,Mobile App,JFK8 - New York NY,Y
+998,163,50,2023-10-14,5,39,0,0.0,39.0,195.0,108.3,86.7,Debit Card,Shipped,Website,JFK8 - New York NY,N
+999,130,16,2023-06-17,2,49,10,4.9,44.1,88.2,60.82,27.38,Credit Card,Returned,Website,ONT8 - Ontario CA,Y
+1000,24,4,2022-11-10,1,1099,5,54.95,1044.05,1044.05,599.23,444.82,Amazon Pay,Delivered,Third-Party Marketplace,ONT8 - Ontario CA,N
+1001,147,49,2024-07-18,1,29,5,1.45,27.55,27.55,16.98,10.57,Amazon Pay,Processing,Website,SEA6 - Seattle WA,N
+1002,57,39,2024-02-14,1,45,15,6.75,38.25,38.25,21.08,17.17,Amazon Pay,Returned,Website,JFK8 - New York NY,Y
+1003,161,3,2022-07-31,2,1299,5,64.95,1234.05,2468.1,1442.46,1025.64,Gift Card,Delivered,Website,JFK8 - New York NY,N
+1004,73,34,2024-10-09,4,35,0,0.0,35.0,140.0,80.04,59.96,Gift Card,Returned,Website,ONT8 - Ontario CA,Y
+1005,126,3,2022-06-06,1,1299,0,0.0,1299.0,1299.0,721.23,577.77,Debit Card,Delivered,Alexa,SEA6 - Seattle WA,N
+1006,116,21,2023-01-01,1,99,0,0.0,99.0,99.0,51.96,47.04,Amazon Pay,Processing,Alexa,ONT8 - Ontario CA,N
+1007,88,45,2022-01-11,1,44,5,2.2,41.8,41.8,22.19,19.61,Amazon Pay,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+1008,156,4,2022-11-09,2,1099,0,0.0,1099.0,2198.0,1198.46,999.54,Credit Card,Delivered,Alexa,ONT8 - Ontario CA,N
+1009,84,18,2022-09-17,1,79,5,3.95,75.05,75.05,40.91,34.14,Debit Card,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+1010,182,71,2024-10-12,2,22,5,1.1,20.9,41.8,26.2,15.6,Gift Card,Shipped,Third-Party Marketplace,MDW2 - Chicago IL,N
+1011,45,26,2023-07-30,2,449,10,44.9,404.1,808.2,524.44,283.76,Credit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+1012,80,22,2024-09-26,3,129,15,19.35,109.65,328.95,179.34,149.61,Debit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+1013,82,80,2023-02-14,1,18,5,0.9,17.1,17.1,9.69,7.41,Credit Card,Shipped,Mobile App,ONT8 - Ontario CA,N
+1014,116,22,2023-06-03,4,129,15,19.35,109.65,438.6,239.12,199.48,Credit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+1015,136,46,2023-10-23,1,349,0,0.0,349.0,349.0,190.95,158.05,Credit Card,Shipped,Website,JFK8 - New York NY,N
+1016,169,48,2022-09-08,1,19,10,1.9,17.1,17.1,9.86,7.24,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+1017,120,73,2022-05-16,3,14,10,1.4,12.6,37.8,20.55,17.25,Amazon Pay,Delivered,Mobile App,ONT8 - Ontario CA,N
+1018,144,36,2022-06-03,2,180,15,27.0,153.0,306.0,228.36,77.64,Amazon Pay,Processing,Mobile App,DAL7 - Dallas TX,N
+1019,82,41,2024-10-08,1,39,0,0.0,39.0,39.0,18.78,20.22,Buy Now Pay Later,Shipped,Website,ONT8 - Ontario CA,N
+1020,116,22,2023-04-30,2,129,5,6.45,122.55,245.1,119.56,125.54,Credit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+1021,2,60,2024-04-04,1,17,15,2.55,14.45,14.45,10.58,3.87,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1022,166,3,2024-04-30,1,1299,0,0.0,1299.0,1299.0,721.23,577.77,Credit Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+1023,21,72,2022-04-07,3,18,0,0.0,18.0,54.0,26.85,27.15,Amazon Pay,Delivered,Mobile App,SEA6 - Seattle WA,N
+1024,32,48,2023-04-04,4,19,0,0.0,19.0,76.0,39.44,36.56,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+1025,177,56,2024-01-26,1,17,0,0.0,17.0,17.0,8.94,8.06,Debit Card,Returned,Website,SEA6 - Seattle WA,Y
+1026,14,34,2022-04-09,4,35,0,0.0,35.0,140.0,80.04,59.96,Credit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+1027,98,35,2024-08-01,2,149,15,22.35,126.65,253.3,135.82,117.48,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1028,106,58,2023-05-08,2,22,0,0.0,22.0,44.0,20.44,23.56,Amazon Pay,Processing,Third-Party Marketplace,MDW2 - Chicago IL,N
+1029,198,62,2023-08-30,1,195,0,0.0,195.0,195.0,99.04,95.96,Credit Card,Processing,Alexa,JFK8 - New York NY,N
+1030,169,27,2024-10-09,2,199,0,0.0,199.0,398.0,248.64,149.36,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+1031,49,63,2024-12-16,1,15,0,0.0,15.0,15.0,9.65,5.35,Credit Card,Shipped,Third-Party Marketplace,SEA6 - Seattle WA,N
+1032,117,20,2022-09-24,3,399,0,0.0,399.0,1197.0,640.83,556.17,Credit Card,Delivered,Third-Party Marketplace,ATL6 - Atlanta GA,N
+1033,132,26,2023-07-24,3,449,0,0.0,449.0,1347.0,786.66,560.34,Amazon Pay,Delivered,Third-Party Marketplace,ATL6 - Atlanta GA,N
+1034,166,14,2022-08-14,1,129,10,12.9,116.1,116.1,69.76,46.34,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+1035,122,68,2022-06-22,1,10,0,0.0,10.0,10.0,4.94,5.06,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+1036,131,43,2022-07-20,1,49,0,0.0,49.0,49.0,30.71,18.29,Credit Card,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+1037,76,25,2024-12-20,1,499,5,24.95,474.05,474.05,283.08,190.97,Debit Card,Processing,Website,ONT8 - Ontario CA,N
+1038,166,32,2022-04-19,5,69,0,0.0,69.0,345.0,163.2,181.8,Debit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+1039,26,36,2024-04-08,1,180,10,18.0,162.0,162.0,114.18,47.82,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1040,69,64,2023-12-13,1,12,10,1.2,10.8,10.8,7.4,3.4,Amazon Pay,Processing,Website,ONT8 - Ontario CA,N
+1041,25,24,2024-09-03,2,649,10,64.9,584.1,1168.2,794.84,373.36,PayPal,Returned,Mobile App,JFK8 - New York NY,Y
+1042,81,9,2024-07-21,1,99,0,0.0,99.0,99.0,58.13,40.87,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1043,6,23,2022-12-16,5,149,10,14.9,134.1,670.5,399.6,270.9,PayPal,Processing,Mobile App,DAL7 - Dallas TX,N
+1044,150,1,2022-08-13,1,999,0,0.0,999.0,999.0,514.24,484.76,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1045,59,68,2022-07-12,2,10,10,1.0,9.0,18.0,9.88,8.12,PayPal,Delivered,Website,DAL7 - Dallas TX,N
+1046,189,45,2024-09-23,10,44,0,0.0,44.0,440.0,221.9,218.1,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1047,182,43,2024-09-18,4,49,15,7.35,41.65,166.6,122.84,43.76,Amazon Pay,Delivered,Mobile App,ONT8 - Ontario CA,N
+1048,38,53,2022-10-18,3,16,5,0.8,15.2,45.6,28.98,16.62,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1049,111,47,2024-02-13,1,199,0,0.0,199.0,199.0,100.42,98.58,Buy Now Pay Later,Processing,Alexa,SEA6 - Seattle WA,N
+1050,140,58,2022-12-25,10,22,10,2.2,19.8,198.0,102.2,95.8,Amazon Pay,Delivered,Alexa,DAL7 - Dallas TX,N
+1051,151,54,2023-01-26,5,16,0,0.0,16.0,80.0,41.25,38.75,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1052,32,56,2023-12-12,3,17,5,0.85,16.15,48.45,26.82,21.63,Buy Now Pay Later,Delivered,Mobile App,SEA6 - Seattle WA,N
+1053,38,60,2023-08-17,2,17,0,0.0,17.0,34.0,21.16,12.84,Amazon Pay,Processing,Website,MDW2 - Chicago IL,N
+1054,17,38,2023-08-03,1,119,0,0.0,119.0,119.0,55.21,63.79,Credit Card,Returned,Mobile App,ONT8 - Ontario CA,Y
+1055,111,46,2023-05-30,2,349,0,0.0,349.0,698.0,381.9,316.1,PayPal,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1056,171,72,2023-07-09,1,18,0,0.0,18.0,18.0,8.95,9.05,Amazon Pay,Delivered,Website,ONT8 - Ontario CA,N
+1057,75,29,2023-05-25,1,449,15,67.35,381.65,381.65,233.63,148.02,Amazon Pay,Returned,Website,ONT8 - Ontario CA,Y
+1058,67,39,2024-06-11,2,45,0,0.0,45.0,90.0,42.16,47.84,Credit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+1059,197,26,2023-02-13,1,449,0,0.0,449.0,449.0,262.22,186.78,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1060,119,70,2024-06-13,1,38,15,5.7,32.3,32.3,23.99,8.31,Debit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1061,176,46,2024-05-11,1,349,0,0.0,349.0,349.0,190.95,158.05,Debit Card,Cancelled,Third-Party Marketplace,ONT8 - Ontario CA,N
+1062,197,54,2023-09-12,1,16,0,0.0,16.0,16.0,8.25,7.75,Debit Card,Returned,Website,ATL6 - Atlanta GA,Y
+1063,140,73,2024-03-15,4,14,0,0.0,14.0,56.0,27.4,28.6,Amazon Pay,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1064,118,7,2022-08-08,1,139,0,0.0,139.0,139.0,75.28,63.72,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+1065,177,43,2024-11-12,3,49,0,0.0,49.0,147.0,92.13,54.87,Credit Card,Returned,Website,JFK8 - New York NY,Y
+1066,144,64,2022-11-13,1,12,10,1.2,10.8,10.8,7.4,3.4,Credit Card,Delivered,Third-Party Marketplace,ONT8 - Ontario CA,N
+1067,125,80,2022-01-01,2,18,0,0.0,18.0,36.0,19.38,16.62,PayPal,Delivered,Mobile App,JFK8 - New York NY,N
+1068,53,14,2024-06-27,1,129,10,12.9,116.1,116.1,69.76,46.34,Gift Card,Delivered,Website,DAL7 - Dallas TX,N
+1069,48,31,2024-06-18,3,150,0,0.0,150.0,450.0,278.76,171.24,Amazon Pay,Cancelled,Website,SEA6 - Seattle WA,N
+1070,6,24,2023-05-08,1,649,5,32.45,616.55,616.55,397.42,219.13,Amazon Pay,Delivered,Mobile App,DAL7 - Dallas TX,N
+1071,123,38,2024-10-06,1,119,0,0.0,119.0,119.0,55.21,63.79,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+1072,119,54,2023-08-04,3,16,0,0.0,16.0,48.0,24.75,23.25,Debit Card,Shipped,Website,MDW2 - Chicago IL,N
+1073,9,80,2023-12-28,1,18,15,2.7,15.3,15.3,9.69,5.61,Debit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+1074,3,21,2024-10-27,1,99,10,9.9,89.1,89.1,51.96,37.14,Gift Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1075,17,23,2023-11-26,2,149,0,0.0,149.0,298.0,159.84,138.16,PayPal,Shipped,Website,SEA6 - Seattle WA,N
+1076,78,51,2024-09-17,1,18,10,1.8,16.2,16.2,8.89,7.31,Debit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1077,182,65,2022-09-23,3,30,10,3.0,27.0,81.0,48.36,32.64,Debit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+1078,159,52,2022-11-22,1,17,0,0.0,17.0,17.0,7.68,9.32,Amazon Pay,Delivered,Mobile App,SEA6 - Seattle WA,N
+1079,122,42,2023-04-30,3,29,20,5.8,23.2,69.6,52.68,16.92,PayPal,Delivered,Mobile App,DAL7 - Dallas TX,N
+1080,194,54,2023-05-28,4,16,0,0.0,16.0,64.0,33.0,31.0,PayPal,Delivered,Website,MDW2 - Chicago IL,N
+1081,156,4,2024-07-09,4,1099,0,0.0,1099.0,4396.0,2396.92,1999.08,Buy Now Pay Later,Delivered,Mobile App,JFK8 - New York NY,N
+1082,51,33,2023-04-07,1,179,5,8.95,170.05,170.05,109.45,60.6,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1083,23,75,2022-07-17,1,12,15,1.8,10.2,10.2,5.83,4.37,PayPal,Delivered,Alexa,MDW2 - Chicago IL,N
+1084,199,53,2023-11-29,2,16,10,1.6,14.4,28.8,19.32,9.48,Amazon Pay,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+1085,136,64,2024-08-28,1,12,0,0.0,12.0,12.0,7.4,4.6,Credit Card,Shipped,Alexa,JFK8 - New York NY,N
+1086,18,57,2022-05-26,1,14,0,0.0,14.0,14.0,7.7,6.3,Credit Card,Shipped,Mobile App,ONT8 - Ontario CA,N
+1087,31,64,2023-11-09,1,12,10,1.2,10.8,10.8,7.4,3.4,PayPal,Delivered,Website,MDW2 - Chicago IL,N
+1088,100,46,2023-08-13,1,349,15,52.35,296.65,296.65,190.95,105.7,Debit Card,Delivered,Alexa,ATL6 - Atlanta GA,N
+1089,129,40,2022-08-16,1,19,0,0.0,19.0,19.0,9.98,9.02,Gift Card,Processing,Third-Party Marketplace,SEA6 - Seattle WA,N
+1090,8,5,2023-11-17,1,349,0,0.0,349.0,349.0,188.6,160.4,Credit Card,Cancelled,Website,SEA6 - Seattle WA,N
+1091,85,8,2022-03-14,1,49,0,0.0,49.0,49.0,31.84,17.16,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+1092,157,11,2022-09-23,4,1399,0,0.0,1399.0,5596.0,3199.0,2397.0,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1093,58,45,2023-04-12,1,44,5,2.2,41.8,41.8,22.19,19.61,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1094,137,78,2022-02-07,3,23,10,2.3,20.7,62.1,42.99,19.11,Credit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+1095,33,56,2022-08-25,2,17,0,0.0,17.0,34.0,17.88,16.12,PayPal,Shipped,Third-Party Marketplace,MDW2 - Chicago IL,N
+1096,91,25,2023-05-03,1,499,20,99.8,399.2,399.2,283.08,116.12,Debit Card,Delivered,Website,SEA6 - Seattle WA,N
+1097,193,69,2022-01-31,2,9,20,1.8,7.2,14.4,9.94,4.46,Credit Card,Cancelled,Website,ONT8 - Ontario CA,N
+1098,33,57,2023-12-18,1,14,0,0.0,14.0,14.0,7.7,6.3,PayPal,Processing,Third-Party Marketplace,JFK8 - New York NY,N
+1099,156,51,2022-06-07,1,18,0,0.0,18.0,18.0,8.89,9.11,Gift Card,Delivered,Website,SEA6 - Seattle WA,N
+1100,189,46,2024-06-27,4,349,10,34.9,314.1,1256.4,763.8,492.6,Gift Card,Processing,Mobile App,MDW2 - Chicago IL,N
+1101,168,32,2024-10-28,2,69,0,0.0,69.0,138.0,65.28,72.72,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1102,125,36,2024-12-02,1,180,15,27.0,153.0,153.0,114.18,38.82,Amazon Pay,Delivered,Website,MDW2 - Chicago IL,N
+1103,186,19,2024-06-20,1,249,0,0.0,249.0,249.0,132.77,116.23,Debit Card,Processing,Website,DAL7 - Dallas TX,N
+1104,9,35,2022-06-23,1,149,0,0.0,149.0,149.0,67.91,81.09,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+1105,98,50,2024-02-16,1,39,0,0.0,39.0,39.0,21.66,17.34,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+1106,9,70,2023-11-20,3,38,15,5.7,32.3,96.9,71.97,24.93,Gift Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+1107,56,4,2024-06-07,1,1099,15,164.85,934.15,934.15,599.23,334.92,PayPal,Cancelled,Third-Party Marketplace,ONT8 - Ontario CA,N
+1108,28,71,2023-08-12,1,22,5,1.1,20.9,20.9,13.1,7.8,Gift Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+1109,185,73,2024-02-20,3,14,0,0.0,14.0,42.0,20.55,21.45,Buy Now Pay Later,Shipped,Website,ONT8 - Ontario CA,N
+1110,72,36,2023-08-29,1,180,0,0.0,180.0,180.0,114.18,65.82,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1111,69,33,2022-01-26,3,179,10,17.9,161.1,483.3,328.35,154.95,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+1112,46,57,2024-08-13,1,14,5,0.7,13.3,13.3,7.7,5.6,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1113,56,53,2023-07-21,1,16,20,3.2,12.8,12.8,9.66,3.14,Debit Card,Cancelled,Third-Party Marketplace,DAL7 - Dallas TX,N
+1114,47,34,2024-10-10,3,35,0,0.0,35.0,105.0,60.03,44.97,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+1115,168,7,2023-01-13,1,139,5,6.95,132.05,132.05,75.28,56.77,PayPal,Processing,Mobile App,ONT8 - Ontario CA,N
+1116,142,30,2023-06-15,1,149,5,7.45,141.55,141.55,71.66,69.89,Credit Card,Cancelled,Alexa,MDW2 - Chicago IL,N
+1117,139,6,2022-06-08,2,399,0,0.0,399.0,798.0,475.16,322.84,Credit Card,Shipped,Website,JFK8 - New York NY,N
+1118,84,74,2024-05-01,1,25,10,2.5,22.5,22.5,15.05,7.45,Debit Card,Delivered,Website,ONT8 - Ontario CA,N
+1119,84,78,2024-04-15,3,23,0,0.0,23.0,69.0,42.99,26.01,Credit Card,Cancelled,Third-Party Marketplace,MDW2 - Chicago IL,N
+1120,160,4,2022-11-04,1,1099,0,0.0,1099.0,1099.0,599.23,499.77,Credit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+1121,131,66,2023-03-17,3,38,10,3.8,34.2,102.6,61.23,41.37,Debit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1122,98,11,2023-04-05,5,1399,15,209.85,1189.15,5945.75,3998.75,1947.0,Buy Now Pay Later,Shipped,Mobile App,SEA6 - Seattle WA,N
+1123,108,69,2024-12-16,2,9,10,0.9,8.1,16.2,9.94,6.26,Amazon Pay,Returned,Mobile App,ATL6 - Atlanta GA,Y
+1124,113,41,2023-08-24,1,39,15,5.85,33.15,33.15,18.78,14.37,Credit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+1125,60,59,2023-05-09,1,18,20,3.6,14.4,14.4,9.67,4.73,Gift Card,Shipped,Website,ONT8 - Ontario CA,N
+1126,91,72,2024-09-18,2,18,20,3.6,14.4,28.8,17.9,10.9,Debit Card,Processing,Website,ATL6 - Atlanta GA,N
+1127,33,69,2022-10-10,1,9,15,1.35,7.65,7.65,4.97,2.68,PayPal,Processing,Website,ONT8 - Ontario CA,N
+1128,21,53,2024-10-09,1,16,20,3.2,12.8,12.8,9.66,3.14,Amazon Pay,Processing,Alexa,DAL7 - Dallas TX,N
+1129,4,22,2024-08-20,1,129,0,0.0,129.0,129.0,59.78,69.22,Credit Card,Returned,Website,DAL7 - Dallas TX,Y
+1130,7,22,2024-12-20,10,129,0,0.0,129.0,1290.0,597.8,692.2,Gift Card,Cancelled,Website,DAL7 - Dallas TX,N
+1131,179,72,2023-11-21,1,18,0,0.0,18.0,18.0,8.95,9.05,PayPal,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+1132,28,6,2024-07-08,1,399,15,59.85,339.15,339.15,237.58,101.57,Amazon Pay,Cancelled,Mobile App,DAL7 - Dallas TX,N
+1133,75,62,2024-11-09,2,195,5,9.75,185.25,370.5,198.08,172.42,PayPal,Delivered,Mobile App,MDW2 - Chicago IL,N
+1134,173,59,2024-11-07,1,18,0,0.0,18.0,18.0,9.67,8.33,Credit Card,Returned,Mobile App,JFK8 - New York NY,Y
+1135,77,64,2024-12-11,1,12,5,0.6,11.4,11.4,7.4,4.0,PayPal,Processing,Website,MDW2 - Chicago IL,N
+1136,99,41,2022-03-27,3,39,20,7.8,31.2,93.6,56.34,37.26,Amazon Pay,Returned,Third-Party Marketplace,JFK8 - New York NY,Y
+1137,111,67,2023-10-06,1,54,15,8.1,45.9,45.9,28.57,17.33,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+1138,125,57,2023-06-16,1,14,0,0.0,14.0,14.0,7.7,6.3,Amazon Pay,Cancelled,Third-Party Marketplace,SEA6 - Seattle WA,N
+1139,72,19,2024-11-07,1,249,5,12.45,236.55,236.55,132.77,103.78,Credit Card,Returned,Third-Party Marketplace,ATL6 - Atlanta GA,Y
+1140,138,25,2022-02-22,1,499,15,74.85,424.15,424.15,283.08,141.07,Credit Card,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+1141,188,57,2023-08-28,2,14,10,1.4,12.6,25.2,15.4,9.8,Amazon Pay,Cancelled,Third-Party Marketplace,ONT8 - Ontario CA,N
+1142,114,56,2022-10-08,1,17,0,0.0,17.0,17.0,8.94,8.06,Amazon Pay,Cancelled,Website,MDW2 - Chicago IL,N
+1143,21,29,2024-11-04,2,449,0,0.0,449.0,898.0,467.26,430.74,Debit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1144,199,10,2022-03-20,2,149,0,0.0,149.0,298.0,138.48,159.52,Gift Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+1145,49,72,2022-03-14,2,18,15,2.7,15.3,30.6,17.9,12.7,Amazon Pay,Cancelled,Website,ATL6 - Atlanta GA,N
+1146,97,29,2022-11-07,2,449,0,0.0,449.0,898.0,467.26,430.74,Credit Card,Shipped,Mobile App,JFK8 - New York NY,N
+1147,51,12,2023-03-15,5,699,10,69.9,629.1,3145.5,1765.0,1380.5,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1148,182,23,2024-02-18,1,149,10,14.9,134.1,134.1,79.92,54.18,Credit Card,Processing,Website,ATL6 - Atlanta GA,N
+1149,169,24,2023-08-22,4,649,10,64.9,584.1,2336.4,1589.68,746.72,Debit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+1150,92,70,2022-08-19,1,38,0,0.0,38.0,38.0,23.99,14.01,PayPal,Cancelled,Mobile App,DAL7 - Dallas TX,N
+1151,115,42,2022-12-27,1,29,0,0.0,29.0,29.0,17.56,11.44,Credit Card,Shipped,Website,SEA6 - Seattle WA,N
+1152,102,17,2024-09-28,3,89,0,0.0,89.0,267.0,143.13,123.87,Amazon Pay,Processing,Website,MDW2 - Chicago IL,N
+1153,130,28,2022-05-05,4,349,10,34.9,314.1,1256.4,898.56,357.84,Credit Card,Shipped,Mobile App,DAL7 - Dallas TX,N
+1154,101,57,2022-04-22,1,14,0,0.0,14.0,14.0,7.7,6.3,Amazon Pay,Delivered,Website,ONT8 - Ontario CA,N
+1155,79,58,2022-12-08,1,22,5,1.1,20.9,20.9,10.22,10.68,Amazon Pay,Shipped,Website,ATL6 - Atlanta GA,N
+1156,157,43,2022-02-13,1,49,0,0.0,49.0,49.0,30.71,18.29,Credit Card,Returned,Mobile App,MDW2 - Chicago IL,Y
+1157,197,71,2023-03-08,1,22,0,0.0,22.0,22.0,13.1,8.9,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1158,102,30,2024-02-05,1,149,0,0.0,149.0,149.0,71.66,77.34,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+1159,10,3,2024-10-24,3,1299,0,0.0,1299.0,3897.0,2163.69,1733.31,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+1160,7,30,2022-03-11,2,149,10,14.9,134.1,268.2,143.32,124.88,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1161,103,17,2022-06-23,3,89,15,13.35,75.65,226.95,143.13,83.82,Debit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1162,107,3,2022-11-07,1,1299,10,129.9,1169.1,1169.1,721.23,447.87,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1163,80,42,2023-09-11,1,29,5,1.45,27.55,27.55,17.56,9.99,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+1164,148,61,2023-04-01,1,599,5,29.95,569.05,569.05,338.24,230.81,Debit Card,Cancelled,Mobile App,SEA6 - Seattle WA,N
+1165,137,65,2024-10-14,1,30,0,0.0,30.0,30.0,16.12,13.88,Gift Card,Returned,Mobile App,SEA6 - Seattle WA,Y
+1166,28,58,2024-03-24,1,22,20,4.4,17.6,17.6,10.22,7.38,Debit Card,Returned,Mobile App,ONT8 - Ontario CA,Y
+1167,165,40,2022-06-21,1,19,10,1.9,17.1,17.1,9.98,7.12,Credit Card,Delivered,Alexa,DAL7 - Dallas TX,N
+1168,152,32,2024-08-27,1,69,5,3.45,65.55,65.55,32.64,32.91,PayPal,Shipped,Mobile App,ONT8 - Ontario CA,N
+1169,197,64,2023-11-23,1,12,0,0.0,12.0,12.0,7.4,4.6,Credit Card,Returned,Mobile App,ATL6 - Atlanta GA,Y
+1170,105,1,2024-09-27,1,999,0,0.0,999.0,999.0,514.24,484.76,Credit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+1171,119,62,2022-06-16,2,195,15,29.25,165.75,331.5,198.08,133.42,Debit Card,Cancelled,Website,JFK8 - New York NY,N
+1172,194,2,2022-12-07,1,849,5,42.45,806.55,806.55,390.95,415.6,PayPal,Delivered,Website,DAL7 - Dallas TX,N
+1173,127,22,2022-10-14,2,129,10,12.9,116.1,232.2,119.56,112.64,Debit Card,Returned,Website,MDW2 - Chicago IL,Y
+1174,31,56,2023-07-10,10,17,10,1.7,15.3,153.0,89.4,63.6,Amazon Pay,Shipped,Website,SEA6 - Seattle WA,N
+1175,43,19,2024-01-31,1,249,5,12.45,236.55,236.55,132.77,103.78,Credit Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+1176,192,18,2024-08-28,1,79,5,3.95,75.05,75.05,40.91,34.14,Debit Card,Delivered,Website,ONT8 - Ontario CA,N
+1177,2,40,2022-07-12,2,19,0,0.0,19.0,38.0,19.96,18.04,Credit Card,Shipped,Website,DAL7 - Dallas TX,N
+1178,153,21,2023-04-08,1,99,5,4.95,94.05,94.05,51.96,42.09,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+1179,110,75,2024-04-05,2,12,0,0.0,12.0,24.0,11.66,12.34,Debit Card,Cancelled,Mobile App,JFK8 - New York NY,N
+1180,20,76,2023-07-28,1,19,5,0.95,18.05,18.05,10.31,7.74,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1181,151,50,2023-07-22,1,39,15,5.85,33.15,33.15,21.66,11.49,Amazon Pay,Cancelled,Mobile App,DAL7 - Dallas TX,N
+1182,54,22,2023-03-20,1,129,0,0.0,129.0,129.0,59.78,69.22,PayPal,Delivered,Website,JFK8 - New York NY,N
+1183,122,1,2022-04-17,1,999,10,99.9,899.1,899.1,514.24,384.86,PayPal,Delivered,Website,DAL7 - Dallas TX,N
+1184,84,39,2024-03-16,2,45,0,0.0,45.0,90.0,42.16,47.84,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1185,134,41,2023-03-15,2,39,10,3.9,35.1,70.2,37.56,32.64,Gift Card,Cancelled,Alexa,SEA6 - Seattle WA,N
+1186,37,56,2023-05-29,2,17,0,0.0,17.0,34.0,17.88,16.12,Debit Card,Processing,Website,MDW2 - Chicago IL,N
+1187,46,4,2023-12-10,3,1099,15,164.85,934.15,2802.45,1797.69,1004.76,Credit Card,Returned,Mobile App,JFK8 - New York NY,Y
+1188,98,48,2022-01-22,1,19,5,0.95,18.05,18.05,9.86,8.19,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1189,80,43,2023-06-04,1,49,0,0.0,49.0,49.0,30.71,18.29,Credit Card,Shipped,Website,SEA6 - Seattle WA,N
+1190,71,62,2023-06-03,1,195,20,39.0,156.0,156.0,99.04,56.96,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+1191,184,61,2024-10-01,10,599,5,29.95,569.05,5690.5,3382.4,2308.1,Amazon Pay,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1192,27,5,2022-11-10,1,349,5,17.45,331.55,331.55,188.6,142.95,Credit Card,Processing,Alexa,ONT8 - Ontario CA,N
+1193,108,16,2022-05-08,1,49,5,2.45,46.55,46.55,30.41,16.14,PayPal,Delivered,Website,JFK8 - New York NY,N
+1194,168,79,2023-10-11,2,9,0,0.0,9.0,18.0,8.64,9.36,Credit Card,Cancelled,Third-Party Marketplace,SEA6 - Seattle WA,N
+1195,94,67,2024-05-02,1,54,5,2.7,51.3,51.3,28.57,22.73,Amazon Pay,Returned,Website,ATL6 - Atlanta GA,Y
+1196,38,35,2023-07-19,1,149,0,0.0,149.0,149.0,67.91,81.09,Amazon Pay,Processing,Website,SEA6 - Seattle WA,N
+1197,192,1,2022-08-30,1,999,5,49.95,949.05,949.05,514.24,434.81,Debit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1198,119,12,2022-06-26,1,699,0,0.0,699.0,699.0,353.0,346.0,Debit Card,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+1199,3,28,2023-05-21,2,349,0,0.0,349.0,698.0,449.28,248.72,Amazon Pay,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+1200,192,17,2023-08-11,1,89,0,0.0,89.0,89.0,47.71,41.29,Credit Card,Delivered,Website,JFK8 - New York NY,N
+1201,49,35,2023-08-28,4,149,0,0.0,149.0,596.0,271.64,324.36,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+1202,149,47,2024-07-09,1,199,10,19.9,179.1,179.1,100.42,78.68,Amazon Pay,Returned,Website,ATL6 - Atlanta GA,Y
+1203,99,20,2024-06-07,2,399,0,0.0,399.0,798.0,427.22,370.78,PayPal,Delivered,Mobile App,JFK8 - New York NY,N
+1204,88,65,2023-07-05,2,30,5,1.5,28.5,57.0,32.24,24.76,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+1205,67,5,2023-01-17,4,349,10,34.9,314.1,1256.4,754.4,502.0,Debit Card,Shipped,Website,ATL6 - Atlanta GA,N
+1206,97,76,2022-08-03,4,19,0,0.0,19.0,76.0,41.24,34.76,PayPal,Processing,Website,DAL7 - Dallas TX,N
+1207,122,43,2023-01-19,1,49,15,7.35,41.65,41.65,30.71,10.94,Credit Card,Cancelled,Mobile App,JFK8 - New York NY,N
+1208,193,3,2024-06-09,1,1299,5,64.95,1234.05,1234.05,721.23,512.82,Debit Card,Returned,Website,SEA6 - Seattle WA,Y
+1209,96,77,2023-09-07,1,19,5,0.95,18.05,18.05,11.14,6.91,Gift Card,Delivered,Website,ATL6 - Atlanta GA,N
+1210,28,54,2024-03-31,1,16,0,0.0,16.0,16.0,8.25,7.75,Credit Card,Processing,Website,MDW2 - Chicago IL,N
+1211,153,68,2022-10-13,1,10,20,2.0,8.0,8.0,4.94,3.06,Credit Card,Delivered,Third-Party Marketplace,ONT8 - Ontario CA,N
+1212,80,19,2022-12-05,3,249,0,0.0,249.0,747.0,398.31,348.69,Amazon Pay,Shipped,Website,JFK8 - New York NY,N
+1213,78,40,2023-02-21,1,19,0,0.0,19.0,19.0,9.98,9.02,Amazon Pay,Shipped,Website,ATL6 - Atlanta GA,N
+1214,199,48,2022-07-24,1,19,0,0.0,19.0,19.0,9.86,9.14,Amazon Pay,Shipped,Mobile App,DAL7 - Dallas TX,N
+1215,172,49,2022-07-16,3,29,5,1.45,27.55,82.65,50.94,31.71,Credit Card,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+1216,198,42,2024-05-19,4,29,10,2.9,26.1,104.4,70.24,34.16,Debit Card,Processing,Website,SEA6 - Seattle WA,N
+1217,190,76,2022-12-31,1,19,15,2.85,16.15,16.15,10.31,5.84,Credit Card,Returned,Website,ONT8 - Ontario CA,Y
+1218,157,77,2023-04-17,3,19,15,2.85,16.15,48.45,33.42,15.03,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+1219,24,44,2022-11-05,1,299,0,0.0,299.0,299.0,179.67,119.33,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+1220,67,54,2024-11-25,1,16,5,0.8,15.2,15.2,8.25,6.95,Debit Card,Returned,Website,SEA6 - Seattle WA,Y
+1221,188,13,2022-01-26,2,99,0,0.0,99.0,198.0,104.18,93.82,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1222,117,2,2024-04-02,1,849,15,127.35,721.65,721.65,390.95,330.7,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+1223,163,15,2024-07-11,2,449,10,44.9,404.1,808.2,421.92,386.28,PayPal,Shipped,Mobile App,ATL6 - Atlanta GA,N
+1224,94,15,2024-12-24,3,449,20,89.8,359.2,1077.6,632.88,444.72,PayPal,Returned,Website,ONT8 - Ontario CA,Y
+1225,87,76,2024-07-20,1,19,0,0.0,19.0,19.0,10.31,8.69,Debit Card,Shipped,Website,DAL7 - Dallas TX,N
+1226,118,47,2024-01-27,1,199,5,9.95,189.05,189.05,100.42,88.63,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+1227,139,35,2022-02-05,1,149,0,0.0,149.0,149.0,67.91,81.09,Credit Card,Shipped,Website,ONT8 - Ontario CA,N
+1228,92,5,2022-12-25,2,349,5,17.45,331.55,663.1,377.2,285.9,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1229,127,56,2024-07-27,4,17,5,0.85,16.15,64.6,35.76,28.84,Credit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+1230,135,73,2024-02-03,1,14,0,0.0,14.0,14.0,6.85,7.15,Amazon Pay,Delivered,Mobile App,ONT8 - Ontario CA,N
+1231,98,66,2023-09-11,10,38,0,0.0,38.0,380.0,204.1,175.9,Credit Card,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+1232,185,11,2022-08-27,3,1399,0,0.0,1399.0,4197.0,2399.25,1797.75,Debit Card,Returned,Third-Party Marketplace,ATL6 - Atlanta GA,Y
+1233,132,70,2022-04-11,3,38,0,0.0,38.0,114.0,71.97,42.03,Debit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+1234,71,24,2024-03-27,1,649,5,32.45,616.55,616.55,397.42,219.13,Amazon Pay,Cancelled,Website,DAL7 - Dallas TX,N
+1235,54,3,2023-07-17,3,1299,10,129.9,1169.1,3507.3,2163.69,1343.61,Debit Card,Delivered,Third-Party Marketplace,MDW2 - Chicago IL,N
+1236,25,29,2023-03-29,1,449,10,44.9,404.1,404.1,233.63,170.47,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+1237,151,54,2024-03-07,2,16,5,0.8,15.2,30.4,16.5,13.9,Debit Card,Shipped,Website,MDW2 - Chicago IL,N
+1238,89,57,2024-10-18,1,14,10,1.4,12.6,12.6,7.7,4.9,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+1239,104,5,2022-06-10,2,349,5,17.45,331.55,663.1,377.2,285.9,Debit Card,Processing,Website,JFK8 - New York NY,N
+1240,192,68,2023-10-08,1,10,0,0.0,10.0,10.0,4.94,5.06,Debit Card,Shipped,Website,ATL6 - Atlanta GA,N
+1241,43,80,2022-02-17,1,18,0,0.0,18.0,18.0,9.69,8.31,Credit Card,Returned,Mobile App,JFK8 - New York NY,Y
+1242,97,69,2022-09-10,1,9,5,0.45,8.55,8.55,4.97,3.58,Credit Card,Delivered,Third-Party Marketplace,ATL6 - Atlanta GA,N
+1243,75,23,2024-04-01,3,149,10,14.9,134.1,402.3,239.76,162.54,Credit Card,Shipped,Website,ATL6 - Atlanta GA,N
+1244,72,41,2023-10-13,3,39,5,1.95,37.05,111.15,56.34,54.81,Debit Card,Shipped,Website,DAL7 - Dallas TX,N
+1245,127,60,2022-11-18,1,17,20,3.4,13.6,13.6,10.58,3.02,Credit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+1246,86,60,2022-07-21,2,17,5,0.85,16.15,32.3,21.16,11.14,Amazon Pay,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+1247,49,4,2024-10-27,2,1099,0,0.0,1099.0,2198.0,1198.46,999.54,Debit Card,Cancelled,Mobile App,ONT8 - Ontario CA,N
+1248,84,79,2024-08-24,1,9,5,0.45,8.55,8.55,4.32,4.23,Gift Card,Processing,Website,ATL6 - Atlanta GA,N
+1249,168,50,2022-11-27,2,39,10,3.9,35.1,70.2,43.32,26.88,Amazon Pay,Shipped,Website,DAL7 - Dallas TX,N
+1250,183,26,2022-03-05,1,449,0,0.0,449.0,449.0,262.22,186.78,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1251,114,31,2024-10-21,3,150,20,30.0,120.0,360.0,278.76,81.24,PayPal,Processing,Alexa,JFK8 - New York NY,N
+1252,63,60,2022-03-08,2,17,0,0.0,17.0,34.0,21.16,12.84,Debit Card,Processing,Mobile App,DAL7 - Dallas TX,N
+1253,99,10,2022-09-05,3,149,20,29.8,119.2,357.6,207.72,149.88,Amazon Pay,Returned,Third-Party Marketplace,SEA6 - Seattle WA,Y
+1254,7,57,2023-08-23,1,14,10,1.4,12.6,12.6,7.7,4.9,PayPal,Returned,Mobile App,ONT8 - Ontario CA,Y
+1255,94,52,2024-06-20,2,17,0,0.0,17.0,34.0,15.36,18.64,Credit Card,Shipped,Website,MDW2 - Chicago IL,N
+1256,195,75,2022-12-13,3,12,0,0.0,12.0,36.0,17.49,18.51,Amazon Pay,Delivered,Website,JFK8 - New York NY,N
+1257,124,27,2022-06-01,1,199,5,9.95,189.05,189.05,124.32,64.73,Amazon Pay,Shipped,Mobile App,MDW2 - Chicago IL,N
+1258,88,38,2024-07-11,2,119,0,0.0,119.0,238.0,110.42,127.58,Debit Card,Processing,Mobile App,JFK8 - New York NY,N
+1259,38,67,2024-01-30,1,54,0,0.0,54.0,54.0,28.57,25.43,Amazon Pay,Shipped,Website,SEA6 - Seattle WA,N
+1260,41,73,2024-06-19,2,14,0,0.0,14.0,28.0,13.7,14.3,Credit Card,Processing,Mobile App,JFK8 - New York NY,N
+1261,38,78,2023-04-12,1,23,0,0.0,23.0,23.0,14.33,8.67,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1262,4,34,2024-11-24,1,35,0,0.0,35.0,35.0,20.01,14.99,Amazon Pay,Delivered,Website,MDW2 - Chicago IL,N
+1263,165,20,2024-12-07,2,399,0,0.0,399.0,798.0,427.22,370.78,PayPal,Delivered,Mobile App,JFK8 - New York NY,N
+1264,135,62,2022-01-30,1,195,15,29.25,165.75,165.75,99.04,66.71,Credit Card,Processing,Website,JFK8 - New York NY,N
+1265,58,20,2022-09-02,1,399,15,59.85,339.15,339.15,213.61,125.54,Credit Card,Processing,Mobile App,SEA6 - Seattle WA,N
+1266,4,68,2024-01-15,4,10,5,0.5,9.5,38.0,19.76,18.24,Credit Card,Processing,Website,MDW2 - Chicago IL,N
+1267,130,9,2022-06-12,1,99,15,14.85,84.15,84.15,58.13,26.02,Credit Card,Cancelled,Mobile App,JFK8 - New York NY,N
+1268,63,33,2023-05-17,3,179,0,0.0,179.0,537.0,328.35,208.65,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+1269,69,71,2022-05-11,1,22,5,1.1,20.9,20.9,13.1,7.8,Credit Card,Cancelled,Website,JFK8 - New York NY,N
+1270,59,32,2024-08-08,2,69,5,3.45,65.55,131.1,65.28,65.82,PayPal,Delivered,Website,SEA6 - Seattle WA,N
+1271,19,26,2024-09-01,1,449,0,0.0,449.0,449.0,262.22,186.78,Debit Card,Delivered,Website,DAL7 - Dallas TX,N
+1272,77,73,2022-08-17,1,14,0,0.0,14.0,14.0,6.85,7.15,Debit Card,Returned,Mobile App,ATL6 - Atlanta GA,Y
+1273,163,79,2023-05-31,3,9,20,1.8,7.2,21.6,12.96,8.64,Amazon Pay,Returned,Mobile App,JFK8 - New York NY,Y
+1274,85,65,2023-09-06,1,30,0,0.0,30.0,30.0,16.12,13.88,Debit Card,Delivered,Website,SEA6 - Seattle WA,N
+1275,144,65,2023-01-09,1,30,0,0.0,30.0,30.0,16.12,13.88,Credit Card,Shipped,Third-Party Marketplace,DAL7 - Dallas TX,N
+1276,127,21,2023-09-16,1,99,15,14.85,84.15,84.15,51.96,32.19,PayPal,Delivered,Website,SEA6 - Seattle WA,N
+1277,138,24,2023-04-20,1,649,0,0.0,649.0,649.0,397.42,251.58,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1278,121,14,2023-03-07,2,129,20,25.8,103.2,206.4,139.52,66.88,Credit Card,Shipped,Website,DAL7 - Dallas TX,N
+1279,44,21,2024-11-23,2,99,0,0.0,99.0,198.0,103.92,94.08,Amazon Pay,Cancelled,Mobile App,SEA6 - Seattle WA,N
+1280,69,30,2023-09-14,4,149,0,0.0,149.0,596.0,286.64,309.36,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1281,81,58,2024-05-04,1,22,5,1.1,20.9,20.9,10.22,10.68,Gift Card,Delivered,Website,DAL7 - Dallas TX,N
+1282,91,18,2022-02-09,5,79,15,11.85,67.15,335.75,204.55,131.2,Credit Card,Returned,Mobile App,MDW2 - Chicago IL,Y
+1283,76,48,2024-02-23,1,19,0,0.0,19.0,19.0,9.86,9.14,Debit Card,Delivered,Website,JFK8 - New York NY,N
+1284,159,65,2022-06-02,1,30,0,0.0,30.0,30.0,16.12,13.88,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1285,152,61,2024-03-09,5,599,20,119.8,479.2,2396.0,1691.2,704.8,Gift Card,Processing,Mobile App,MDW2 - Chicago IL,N
+1286,156,76,2023-12-03,1,19,0,0.0,19.0,19.0,10.31,8.69,Credit Card,Delivered,Third-Party Marketplace,ONT8 - Ontario CA,N
+1287,121,18,2024-04-27,4,79,0,0.0,79.0,316.0,163.64,152.36,PayPal,Returned,Mobile App,ATL6 - Atlanta GA,Y
+1288,52,72,2023-06-18,1,18,0,0.0,18.0,18.0,8.95,9.05,PayPal,Shipped,Mobile App,JFK8 - New York NY,N
+1289,198,9,2023-10-05,4,99,5,4.95,94.05,376.2,232.52,143.68,Credit Card,Cancelled,Mobile App,SEA6 - Seattle WA,N
+1290,55,24,2024-01-12,1,649,0,0.0,649.0,649.0,397.42,251.58,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+1291,155,3,2024-05-25,1,1299,5,64.95,1234.05,1234.05,721.23,512.82,Debit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1292,16,66,2022-03-07,1,38,5,1.9,36.1,36.1,20.41,15.69,PayPal,Cancelled,Website,ATL6 - Atlanta GA,N
+1293,126,37,2022-06-04,2,59,5,2.95,56.05,112.1,57.38,54.72,Buy Now Pay Later,Shipped,Mobile App,ATL6 - Atlanta GA,N
+1294,41,66,2024-08-17,3,38,0,0.0,38.0,114.0,61.23,52.77,Buy Now Pay Later,Processing,Mobile App,SEA6 - Seattle WA,N
+1295,111,36,2022-11-08,1,180,15,27.0,153.0,153.0,114.18,38.82,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+1296,117,68,2024-06-04,3,10,5,0.5,9.5,28.5,14.82,13.68,Debit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+1297,100,3,2022-11-05,1,1299,5,64.95,1234.05,1234.05,721.23,512.82,Credit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1298,137,59,2023-12-28,2,18,0,0.0,18.0,36.0,19.34,16.66,Amazon Pay,Cancelled,Mobile App,JFK8 - New York NY,N
+1299,198,19,2022-02-23,1,249,0,0.0,249.0,249.0,132.77,116.23,Gift Card,Shipped,Website,JFK8 - New York NY,N
+1300,139,45,2023-10-08,5,44,0,0.0,44.0,220.0,110.95,109.05,Amazon Pay,Cancelled,Website,JFK8 - New York NY,N
+1301,109,35,2023-12-29,1,149,20,29.8,119.2,119.2,67.91,51.29,PayPal,Delivered,Third-Party Marketplace,ONT8 - Ontario CA,N
+1302,97,4,2023-03-04,1,1099,5,54.95,1044.05,1044.05,599.23,444.82,Debit Card,Delivered,Website,JFK8 - New York NY,N
+1303,198,49,2022-12-25,2,29,0,0.0,29.0,58.0,33.96,24.04,Debit Card,Shipped,Mobile App,JFK8 - New York NY,N
+1304,194,27,2024-01-04,1,199,0,0.0,199.0,199.0,124.32,74.68,Credit Card,Returned,Website,ONT8 - Ontario CA,Y
+1305,130,47,2024-07-24,1,199,0,0.0,199.0,199.0,100.42,98.58,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+1306,91,47,2024-06-08,5,199,15,29.85,169.15,845.75,502.1,343.65,Amazon Pay,Cancelled,Website,SEA6 - Seattle WA,N
+1307,22,50,2023-07-17,4,39,0,0.0,39.0,156.0,86.64,69.36,PayPal,Returned,Website,JFK8 - New York NY,Y
+1308,46,73,2022-10-15,1,14,10,1.4,12.6,12.6,6.85,5.75,Amazon Pay,Processing,Website,JFK8 - New York NY,N
+1309,190,38,2022-11-19,1,119,5,5.95,113.05,113.05,55.21,57.84,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1310,190,24,2022-11-29,1,649,20,129.8,519.2,519.2,397.42,121.78,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+1311,68,80,2023-11-11,1,18,10,1.8,16.2,16.2,9.69,6.51,Debit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1312,105,6,2024-12-11,2,399,10,39.9,359.1,718.2,475.16,243.04,Credit Card,Delivered,Website,JFK8 - New York NY,N
+1313,24,54,2024-09-01,10,16,0,0.0,16.0,160.0,82.5,77.5,Debit Card,Shipped,Alexa,DAL7 - Dallas TX,N
+1314,35,78,2024-09-02,3,23,0,0.0,23.0,69.0,42.99,26.01,Gift Card,Shipped,Website,SEA6 - Seattle WA,N
+1315,139,47,2022-07-17,5,199,5,9.95,189.05,945.25,502.1,443.15,Amazon Pay,Shipped,Alexa,JFK8 - New York NY,N
+1316,33,29,2022-10-20,2,449,10,44.9,404.1,808.2,467.26,340.94,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+1317,73,79,2023-01-14,1,9,0,0.0,9.0,9.0,4.32,4.68,Credit Card,Returned,Mobile App,DAL7 - Dallas TX,Y
+1318,172,76,2023-07-01,2,19,5,0.95,18.05,36.1,20.62,15.48,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+1319,38,75,2024-02-28,2,12,10,1.2,10.8,21.6,11.66,9.94,PayPal,Processing,Third-Party Marketplace,ONT8 - Ontario CA,N
+1320,37,5,2024-03-23,3,349,0,0.0,349.0,1047.0,565.8,481.2,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1321,49,74,2024-07-17,1,25,20,5.0,20.0,20.0,15.05,4.95,Debit Card,Processing,Website,MDW2 - Chicago IL,N
+1322,168,66,2023-01-17,4,38,0,0.0,38.0,152.0,81.64,70.36,PayPal,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1323,117,13,2024-11-29,2,99,0,0.0,99.0,198.0,104.18,93.82,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+1324,140,17,2022-08-16,1,89,20,17.8,71.2,71.2,47.71,23.49,Amazon Pay,Delivered,Website,MDW2 - Chicago IL,N
+1325,79,58,2022-06-19,1,22,20,4.4,17.6,17.6,10.22,7.38,Buy Now Pay Later,Cancelled,Website,ATL6 - Atlanta GA,N
+1326,50,19,2022-02-04,3,249,0,0.0,249.0,747.0,398.31,348.69,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+1327,145,68,2024-01-13,2,10,10,1.0,9.0,18.0,9.88,8.12,Amazon Pay,Shipped,Third-Party Marketplace,JFK8 - New York NY,N
+1328,96,21,2023-04-09,1,99,0,0.0,99.0,99.0,51.96,47.04,Amazon Pay,Returned,Website,ATL6 - Atlanta GA,Y
+1329,109,26,2024-03-31,1,449,20,89.8,359.2,359.2,262.22,96.98,Gift Card,Delivered,Third-Party Marketplace,DAL7 - Dallas TX,N
+1330,120,42,2022-01-01,1,29,15,4.35,24.65,24.65,17.56,7.09,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+1331,188,79,2024-04-20,2,9,0,0.0,9.0,18.0,8.64,9.36,Debit Card,Delivered,Website,JFK8 - New York NY,N
+1332,101,21,2023-02-01,2,99,0,0.0,99.0,198.0,103.92,94.08,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+1333,36,52,2022-11-07,1,17,10,1.7,15.3,15.3,7.68,7.62,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+1334,3,16,2024-08-22,2,49,0,0.0,49.0,98.0,60.82,37.18,Debit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1335,191,79,2023-12-01,1,9,0,0.0,9.0,9.0,4.32,4.68,Gift Card,Cancelled,Website,MDW2 - Chicago IL,N
+1336,29,60,2024-09-24,1,17,0,0.0,17.0,17.0,10.58,6.42,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+1337,155,77,2024-10-09,3,19,0,0.0,19.0,57.0,33.42,23.58,Buy Now Pay Later,Returned,Website,SEA6 - Seattle WA,Y
+1338,27,36,2023-05-31,3,180,5,9.0,171.0,513.0,342.54,170.46,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+1339,92,11,2024-09-21,1,1399,10,139.9,1259.1,1259.1,799.75,459.35,Debit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1340,69,14,2024-09-26,10,129,10,12.9,116.1,1161.0,697.6,463.4,PayPal,Shipped,Website,ATL6 - Atlanta GA,N
+1341,171,49,2022-07-21,1,29,0,0.0,29.0,29.0,16.98,12.02,Credit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+1342,149,78,2022-03-23,1,23,5,1.15,21.85,21.85,14.33,7.52,PayPal,Delivered,Alexa,ATL6 - Atlanta GA,N
+1343,134,5,2024-06-03,5,349,10,34.9,314.1,1570.5,943.0,627.5,Credit Card,Processing,Mobile App,ONT8 - Ontario CA,N
+1344,162,43,2022-02-28,1,49,20,9.8,39.2,39.2,30.71,8.49,PayPal,Returned,Website,SEA6 - Seattle WA,Y
+1345,89,46,2024-07-02,5,349,0,0.0,349.0,1745.0,954.75,790.25,Credit Card,Returned,Mobile App,SEA6 - Seattle WA,Y
+1346,68,21,2023-10-22,1,99,10,9.9,89.1,89.1,51.96,37.14,Amazon Pay,Returned,Mobile App,JFK8 - New York NY,Y
+1347,128,12,2023-04-12,1,699,5,34.95,664.05,664.05,353.0,311.05,Credit Card,Delivered,Third-Party Marketplace,ONT8 - Ontario CA,N
+1348,164,52,2023-01-17,1,17,5,0.85,16.15,16.15,7.68,8.47,Credit Card,Returned,Alexa,DAL7 - Dallas TX,Y
+1349,90,44,2022-11-23,3,299,15,44.85,254.15,762.45,539.01,223.44,Credit Card,Cancelled,Website,ATL6 - Atlanta GA,N
+1350,80,65,2022-12-31,2,30,5,1.5,28.5,57.0,32.24,24.76,Amazon Pay,Delivered,Website,ONT8 - Ontario CA,N
+1351,183,77,2023-06-24,4,19,5,0.95,18.05,72.2,44.56,27.64,Credit Card,Delivered,Website,JFK8 - New York NY,N
+1352,99,14,2023-08-25,3,129,10,12.9,116.1,348.3,209.28,139.02,Buy Now Pay Later,Processing,Website,JFK8 - New York NY,N
+1353,114,6,2023-07-15,1,399,0,0.0,399.0,399.0,237.58,161.42,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1354,63,29,2022-10-25,1,449,10,44.9,404.1,404.1,233.63,170.47,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1355,124,57,2023-01-29,1,14,10,1.4,12.6,12.6,7.7,4.9,PayPal,Delivered,Mobile App,SEA6 - Seattle WA,N
+1356,148,50,2024-01-16,2,39,10,3.9,35.1,70.2,43.32,26.88,Credit Card,Returned,Website,JFK8 - New York NY,Y
+1357,82,70,2022-10-03,1,38,20,7.6,30.4,30.4,23.99,6.41,PayPal,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1358,149,17,2024-11-05,1,89,20,17.8,71.2,71.2,47.71,23.49,Debit Card,Processing,Website,ATL6 - Atlanta GA,N
+1359,59,45,2023-04-04,2,44,5,2.2,41.8,83.6,44.38,39.22,Debit Card,Shipped,Website,ATL6 - Atlanta GA,N
+1360,113,64,2022-12-17,2,12,0,0.0,12.0,24.0,14.8,9.2,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1361,123,19,2023-07-20,1,249,0,0.0,249.0,249.0,132.77,116.23,Gift Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+1362,154,63,2022-10-01,1,15,10,1.5,13.5,13.5,9.65,3.85,Credit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+1363,179,39,2024-11-06,1,45,5,2.25,42.75,42.75,21.08,21.67,Credit Card,Cancelled,Mobile App,SEA6 - Seattle WA,N
+1364,151,41,2022-04-19,3,39,20,7.8,31.2,93.6,56.34,37.26,Credit Card,Processing,Website,ONT8 - Ontario CA,N
+1365,158,9,2023-02-03,2,99,10,9.9,89.1,178.2,116.26,61.94,Amazon Pay,Delivered,Mobile App,JFK8 - New York NY,N
+1366,47,4,2022-09-02,2,1099,5,54.95,1044.05,2088.1,1198.46,889.64,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+1367,176,50,2024-08-29,3,39,0,0.0,39.0,117.0,64.98,52.02,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+1368,46,56,2023-01-13,4,17,5,0.85,16.15,64.6,35.76,28.84,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+1369,163,11,2024-12-08,1,1399,10,139.9,1259.1,1259.1,799.75,459.35,PayPal,Delivered,Website,ATL6 - Atlanta GA,N
+1370,16,48,2024-12-19,1,19,0,0.0,19.0,19.0,9.86,9.14,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1371,145,48,2023-01-22,3,19,15,2.85,16.15,48.45,29.58,18.87,Debit Card,Processing,Mobile App,MDW2 - Chicago IL,N
+1372,25,20,2024-06-21,2,399,10,39.9,359.1,718.2,427.22,290.98,PayPal,Processing,Website,JFK8 - New York NY,N
+1373,114,4,2022-09-04,2,1099,15,164.85,934.15,1868.3,1198.46,669.84,Credit Card,Returned,Website,MDW2 - Chicago IL,Y
+1374,175,24,2022-07-24,2,649,0,0.0,649.0,1298.0,794.84,503.16,Amazon Pay,Shipped,Third-Party Marketplace,MDW2 - Chicago IL,N
+1375,117,71,2022-08-27,3,22,10,2.2,19.8,59.4,39.3,20.1,Credit Card,Processing,Website,JFK8 - New York NY,N
+1376,62,63,2024-01-04,1,15,5,0.75,14.25,14.25,9.65,4.6,Buy Now Pay Later,Delivered,Mobile App,SEA6 - Seattle WA,N
+1377,182,76,2023-10-19,1,19,10,1.9,17.1,17.1,10.31,6.79,Debit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+1378,101,70,2022-10-05,2,38,0,0.0,38.0,76.0,47.98,28.02,Credit Card,Shipped,Third-Party Marketplace,DAL7 - Dallas TX,N
+1379,104,56,2024-10-03,1,17,0,0.0,17.0,17.0,8.94,8.06,Debit Card,Delivered,Mobile App,MDW2 - Chicago IL,N
+1380,128,37,2024-12-16,3,59,5,2.95,56.05,168.15,86.07,82.08,Credit Card,Returned,Website,ATL6 - Atlanta GA,Y
+1381,192,74,2022-04-09,2,25,5,1.25,23.75,47.5,30.1,17.4,Credit Card,Shipped,Website,JFK8 - New York NY,N
+1382,91,69,2024-06-07,1,9,15,1.35,7.65,7.65,4.97,2.68,Debit Card,Returned,Website,MDW2 - Chicago IL,Y
+1383,175,6,2023-01-16,4,399,0,0.0,399.0,1596.0,950.32,645.68,Amazon Pay,Cancelled,Website,JFK8 - New York NY,N
+1384,127,27,2022-04-03,2,199,10,19.9,179.1,358.2,248.64,109.56,Credit Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+1385,2,31,2023-11-09,2,150,20,30.0,120.0,240.0,185.84,54.16,Buy Now Pay Later,Cancelled,Mobile App,MDW2 - Chicago IL,N
+1386,103,6,2023-06-13,1,399,10,39.9,359.1,359.1,237.58,121.52,Debit Card,Cancelled,Mobile App,SEA6 - Seattle WA,N
+1387,80,27,2023-07-13,5,199,5,9.95,189.05,945.25,621.6,323.65,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+1388,72,25,2022-01-22,3,499,0,0.0,499.0,1497.0,849.24,647.76,Credit Card,Processing,Mobile App,DAL7 - Dallas TX,N
+1389,33,29,2022-11-22,1,449,0,0.0,449.0,449.0,233.63,215.37,Debit Card,Cancelled,Website,MDW2 - Chicago IL,N
+1390,43,33,2024-03-26,5,179,5,8.95,170.05,850.25,547.25,303.0,Credit Card,Delivered,Alexa,MDW2 - Chicago IL,N
+1391,28,16,2023-02-18,1,49,10,4.9,44.1,44.1,30.41,13.69,Debit Card,Cancelled,Mobile App,JFK8 - New York NY,N
+1392,133,5,2023-04-14,1,349,0,0.0,349.0,349.0,188.6,160.4,Credit Card,Delivered,Website,SEA6 - Seattle WA,N
+1393,18,31,2022-10-20,1,150,0,0.0,150.0,150.0,92.92,57.08,Amazon Pay,Shipped,Mobile App,ATL6 - Atlanta GA,N
+1394,197,25,2022-03-31,3,499,5,24.95,474.05,1422.15,849.24,572.91,Gift Card,Shipped,Website,MDW2 - Chicago IL,N
+1395,45,45,2022-04-26,1,44,15,6.6,37.4,37.4,22.19,15.21,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+1396,58,24,2024-06-17,2,649,5,32.45,616.55,1233.1,794.84,438.26,Debit Card,Delivered,Alexa,ATL6 - Atlanta GA,N
+1397,136,37,2023-10-13,2,59,0,0.0,59.0,118.0,57.38,60.62,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+1398,5,80,2023-10-21,2,18,10,1.8,16.2,32.4,19.38,13.02,Credit Card,Delivered,Website,JFK8 - New York NY,N
+1399,2,49,2024-03-04,1,29,0,0.0,29.0,29.0,16.98,12.02,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+1400,10,73,2024-09-02,2,14,0,0.0,14.0,28.0,13.7,14.3,Amazon Pay,Cancelled,Website,ATL6 - Atlanta GA,N
+1401,100,58,2024-10-01,4,22,0,0.0,22.0,88.0,40.88,47.12,Credit Card,Processing,Third-Party Marketplace,DAL7 - Dallas TX,N
+1402,123,20,2023-04-04,1,399,10,39.9,359.1,359.1,213.61,145.49,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+1403,66,21,2023-09-07,1,99,0,0.0,99.0,99.0,51.96,47.04,Debit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1404,59,52,2023-03-03,1,17,5,0.85,16.15,16.15,7.68,8.47,Debit Card,Cancelled,Website,SEA6 - Seattle WA,N
+1405,116,57,2023-11-23,5,14,0,0.0,14.0,70.0,38.5,31.5,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1406,63,28,2024-01-15,2,349,5,17.45,331.55,663.1,449.28,213.82,Debit Card,Cancelled,Mobile App,DAL7 - Dallas TX,N
+1407,96,40,2022-08-11,1,19,0,0.0,19.0,19.0,9.98,9.02,Debit Card,Shipped,Third-Party Marketplace,ATL6 - Atlanta GA,N
+1408,106,7,2022-11-17,1,139,0,0.0,139.0,139.0,75.28,63.72,Gift Card,Processing,Website,DAL7 - Dallas TX,N
+1409,7,27,2023-07-14,1,199,10,19.9,179.1,179.1,124.32,54.78,Amazon Pay,Cancelled,Mobile App,SEA6 - Seattle WA,N
+1410,103,74,2024-04-22,3,25,0,0.0,25.0,75.0,45.15,29.85,Credit Card,Delivered,Mobile App,DAL7 - Dallas TX,N
+1411,81,79,2022-03-14,4,9,5,0.45,8.55,34.2,17.28,16.92,PayPal,Processing,Website,ONT8 - Ontario CA,N
+1412,14,43,2024-01-01,3,49,5,2.45,46.55,139.65,92.13,47.52,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+1413,93,80,2024-07-03,4,18,5,0.9,17.1,68.4,38.76,29.64,Amazon Pay,Shipped,Website,ONT8 - Ontario CA,N
+1414,144,21,2024-04-30,4,99,0,0.0,99.0,396.0,207.84,188.16,Gift Card,Delivered,Website,ATL6 - Atlanta GA,N
+1415,142,61,2023-05-26,2,599,0,0.0,599.0,1198.0,676.48,521.52,Amazon Pay,Cancelled,Website,DAL7 - Dallas TX,N
+1416,25,6,2024-02-16,1,399,5,19.95,379.05,379.05,237.58,141.47,Amazon Pay,Shipped,Mobile App,MDW2 - Chicago IL,N
+1417,113,75,2022-02-10,2,12,5,0.6,11.4,22.8,11.66,11.14,Gift Card,Cancelled,Mobile App,MDW2 - Chicago IL,N
+1418,22,48,2023-09-07,1,19,0,0.0,19.0,19.0,9.86,9.14,Gift Card,Processing,Website,SEA6 - Seattle WA,N
+1419,51,42,2022-06-20,1,29,10,2.9,26.1,26.1,17.56,8.54,Buy Now Pay Later,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1420,152,54,2023-06-02,10,16,5,0.8,15.2,152.0,82.5,69.5,Credit Card,Delivered,Mobile App,ONT8 - Ontario CA,N
+1421,126,41,2023-05-05,4,39,0,0.0,39.0,156.0,75.12,80.88,Credit Card,Processing,Third-Party Marketplace,MDW2 - Chicago IL,N
+1422,11,35,2024-07-27,2,149,10,14.9,134.1,268.2,135.82,132.38,Credit Card,Processing,Website,ATL6 - Atlanta GA,N
+1423,3,74,2024-08-20,1,25,0,0.0,25.0,25.0,15.05,9.95,Credit Card,Delivered,Mobile App,SEA6 - Seattle WA,N
+1424,97,43,2024-05-19,1,49,0,0.0,49.0,49.0,30.71,18.29,Credit Card,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+1425,67,71,2022-06-20,1,22,0,0.0,22.0,22.0,13.1,8.9,Gift Card,Cancelled,Website,SEA6 - Seattle WA,N
+1426,82,66,2022-09-21,4,38,0,0.0,38.0,152.0,81.64,70.36,Credit Card,Returned,Website,MDW2 - Chicago IL,Y
+1427,17,20,2022-06-28,2,399,0,0.0,399.0,798.0,427.22,370.78,Credit Card,Cancelled,Website,MDW2 - Chicago IL,N
+1428,159,10,2024-08-01,1,149,10,14.9,134.1,134.1,69.24,64.86,Credit Card,Processing,Mobile App,ATL6 - Atlanta GA,N
+1429,32,8,2022-06-16,2,49,0,0.0,49.0,98.0,63.68,34.32,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+1430,176,30,2024-03-03,1,149,5,7.45,141.55,141.55,71.66,69.89,Debit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1431,182,64,2023-08-13,2,12,0,0.0,12.0,24.0,14.8,9.2,Debit Card,Returned,Alexa,DAL7 - Dallas TX,Y
+1432,48,65,2023-02-09,1,30,0,0.0,30.0,30.0,16.12,13.88,PayPal,Delivered,Mobile App,JFK8 - New York NY,N
+1433,180,16,2023-01-19,2,49,0,0.0,49.0,98.0,60.82,37.18,Amazon Pay,Returned,Website,DAL7 - Dallas TX,Y
+1434,163,76,2023-08-08,1,19,0,0.0,19.0,19.0,10.31,8.69,Credit Card,Delivered,Website,JFK8 - New York NY,N
+1435,136,1,2023-05-31,2,999,15,149.85,849.15,1698.3,1028.48,669.82,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+1436,89,8,2022-06-13,2,49,10,4.9,44.1,88.2,63.68,24.52,PayPal,Processing,Website,SEA6 - Seattle WA,N
+1437,173,12,2024-01-11,1,699,10,69.9,629.1,629.1,353.0,276.1,Amazon Pay,Processing,Third-Party Marketplace,ATL6 - Atlanta GA,N
+1438,68,41,2024-09-10,1,39,5,1.95,37.05,37.05,18.78,18.27,Credit Card,Delivered,Mobile App,ATL6 - Atlanta GA,N
+1439,191,25,2023-12-24,1,499,0,0.0,499.0,499.0,283.08,215.92,PayPal,Delivered,Website,DAL7 - Dallas TX,N
+1440,119,60,2024-02-29,1,17,0,0.0,17.0,17.0,10.58,6.42,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+1441,98,20,2022-12-20,1,399,0,0.0,399.0,399.0,213.61,185.39,Gift Card,Delivered,Website,ONT8 - Ontario CA,N
+1442,101,61,2022-02-14,1,599,0,0.0,599.0,599.0,338.24,260.76,Credit Card,Shipped,Mobile App,ATL6 - Atlanta GA,N
+1443,72,30,2024-10-19,1,149,5,7.45,141.55,141.55,71.66,69.89,Gift Card,Shipped,Website,SEA6 - Seattle WA,N
+1444,16,46,2023-10-25,5,349,0,0.0,349.0,1745.0,954.75,790.25,Amazon Pay,Processing,Website,ATL6 - Atlanta GA,N
+1445,127,28,2023-09-23,1,349,0,0.0,349.0,349.0,224.64,124.36,Credit Card,Processing,Website,ATL6 - Atlanta GA,N
+1446,110,79,2023-08-01,1,9,0,0.0,9.0,9.0,4.32,4.68,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1447,95,73,2024-07-04,5,14,0,0.0,14.0,70.0,34.25,35.75,Credit Card,Delivered,Third-Party Marketplace,SEA6 - Seattle WA,N
+1448,60,41,2024-09-02,2,39,15,5.85,33.15,66.3,37.56,28.74,Debit Card,Returned,Mobile App,MDW2 - Chicago IL,Y
+1449,179,25,2023-04-14,4,499,15,74.85,424.15,1696.6,1132.32,564.28,Amazon Pay,Processing,Mobile App,JFK8 - New York NY,N
+1450,126,73,2024-11-12,1,14,0,0.0,14.0,14.0,6.85,7.15,Credit Card,Cancelled,Website,MDW2 - Chicago IL,N
+1451,21,68,2023-06-29,1,10,5,0.5,9.5,9.5,4.94,4.56,Credit Card,Delivered,Website,MDW2 - Chicago IL,N
+1452,183,19,2024-08-28,1,249,10,24.9,224.1,224.1,132.77,91.33,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+1453,124,72,2023-10-18,1,18,0,0.0,18.0,18.0,8.95,9.05,Credit Card,Shipped,Alexa,JFK8 - New York NY,N
+1454,166,25,2022-09-04,5,499,5,24.95,474.05,2370.25,1415.4,954.85,Credit Card,Delivered,Alexa,ATL6 - Atlanta GA,N
+1455,130,37,2022-01-23,1,59,0,0.0,59.0,59.0,28.69,30.31,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+1456,167,54,2022-10-30,1,16,5,0.8,15.2,15.2,8.25,6.95,Credit Card,Shipped,Website,DAL7 - Dallas TX,N
+1457,195,41,2023-07-20,1,39,0,0.0,39.0,39.0,18.78,20.22,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+1458,33,42,2023-10-31,5,29,0,0.0,29.0,145.0,87.8,57.2,Credit Card,Shipped,Website,SEA6 - Seattle WA,N
+1459,97,71,2023-10-26,1,22,0,0.0,22.0,22.0,13.1,8.9,Credit Card,Delivered,Alexa,ONT8 - Ontario CA,N
+1460,165,37,2022-03-22,1,59,10,5.9,53.1,53.1,28.69,24.41,Credit Card,Cancelled,Mobile App,JFK8 - New York NY,N
+1461,128,9,2022-07-29,4,99,0,0.0,99.0,396.0,232.52,163.48,Gift Card,Shipped,Website,MDW2 - Chicago IL,N
+1462,92,44,2022-05-23,1,299,5,14.95,284.05,284.05,179.67,104.38,Debit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+1463,102,20,2023-03-01,2,399,0,0.0,399.0,798.0,427.22,370.78,Credit Card,Shipped,Third-Party Marketplace,MDW2 - Chicago IL,N
+1464,59,31,2022-02-19,1,150,5,7.5,142.5,142.5,92.92,49.58,PayPal,Delivered,Website,ONT8 - Ontario CA,N
+1465,11,29,2022-10-09,3,449,15,67.35,381.65,1144.95,700.89,444.06,Credit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+1466,102,3,2022-02-18,2,1299,0,0.0,1299.0,2598.0,1442.46,1155.54,Amazon Pay,Processing,Mobile App,ONT8 - Ontario CA,N
+1467,52,76,2024-10-03,1,19,0,0.0,19.0,19.0,10.31,8.69,Amazon Pay,Delivered,Mobile App,MDW2 - Chicago IL,N
+1468,131,22,2022-01-16,1,129,0,0.0,129.0,129.0,59.78,69.22,Amazon Pay,Cancelled,Website,ATL6 - Atlanta GA,N
+1469,96,66,2023-06-09,1,38,10,3.8,34.2,34.2,20.41,13.79,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+1470,167,37,2024-11-14,1,59,5,2.95,56.05,56.05,28.69,27.36,Credit Card,Returned,Website,DAL7 - Dallas TX,Y
+1471,28,27,2023-09-04,1,199,5,9.95,189.05,189.05,124.32,64.73,Amazon Pay,Returned,Alexa,MDW2 - Chicago IL,Y
+1472,93,60,2023-06-01,1,17,5,0.85,16.15,16.15,10.58,5.57,Credit Card,Delivered,Website,JFK8 - New York NY,N
+1473,86,27,2023-11-02,1,199,5,9.95,189.05,189.05,124.32,64.73,Credit Card,Shipped,Mobile App,DAL7 - Dallas TX,N
+1474,123,72,2023-05-24,2,18,10,1.8,16.2,32.4,17.9,14.5,Credit Card,Delivered,Website,ONT8 - Ontario CA,N
+1475,159,7,2022-01-01,3,139,20,27.8,111.2,333.6,225.84,107.76,Credit Card,Delivered,Mobile App,JFK8 - New York NY,N
+1476,25,7,2024-05-16,1,139,10,13.9,125.1,125.1,75.28,49.82,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+1477,6,39,2023-09-11,3,45,10,4.5,40.5,121.5,63.24,58.26,Debit Card,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+1478,31,4,2022-12-24,4,1099,20,219.8,879.2,3516.8,2396.92,1119.88,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1479,178,72,2024-09-09,1,18,0,0.0,18.0,18.0,8.95,9.05,Amazon Pay,Delivered,Website,DAL7 - Dallas TX,N
+1480,174,49,2024-08-11,1,29,5,1.45,27.55,27.55,16.98,10.57,Buy Now Pay Later,Delivered,Mobile App,ONT8 - Ontario CA,N
+1481,169,9,2023-07-31,5,99,10,9.9,89.1,445.5,290.65,154.85,Credit Card,Returned,Website,SEA6 - Seattle WA,Y
+1482,70,25,2022-01-04,1,499,0,0.0,499.0,499.0,283.08,215.92,Credit Card,Cancelled,Mobile App,DAL7 - Dallas TX,N
+1483,144,63,2022-04-07,3,15,5,0.75,14.25,42.75,28.95,13.8,Credit Card,Delivered,Website,DAL7 - Dallas TX,N
+1484,140,21,2022-10-26,1,99,15,14.85,84.15,84.15,51.96,32.19,Amazon Pay,Delivered,Website,ATL6 - Atlanta GA,N
+1485,103,48,2023-08-22,1,19,5,0.95,18.05,18.05,9.86,8.19,Amazon Pay,Delivered,Alexa,SEA6 - Seattle WA,N
+1486,139,53,2023-06-03,1,16,0,0.0,16.0,16.0,9.66,6.34,Credit Card,Cancelled,Website,DAL7 - Dallas TX,N
+1487,116,70,2022-03-29,3,38,0,0.0,38.0,114.0,71.97,42.03,Gift Card,Delivered,Third-Party Marketplace,JFK8 - New York NY,N
+1488,154,44,2022-11-23,2,299,10,29.9,269.1,538.2,359.34,178.86,Debit Card,Returned,Third-Party Marketplace,JFK8 - New York NY,Y
+1489,178,51,2022-08-18,1,18,0,0.0,18.0,18.0,8.89,9.11,Debit Card,Cancelled,Mobile App,ATL6 - Atlanta GA,N
+1490,2,33,2022-12-04,4,179,10,17.9,161.1,644.4,437.8,206.6,Amazon Pay,Returned,Mobile App,DAL7 - Dallas TX,Y
+1491,30,42,2024-03-19,2,29,10,2.9,26.1,52.2,35.12,17.08,PayPal,Shipped,Website,MDW2 - Chicago IL,N
+1492,192,53,2023-04-08,2,16,20,3.2,12.8,25.6,19.32,6.28,Debit Card,Processing,Alexa,JFK8 - New York NY,N
+1493,184,1,2022-08-09,4,999,15,149.85,849.15,3396.6,2056.96,1339.64,Gift Card,Shipped,Mobile App,MDW2 - Chicago IL,N
+1494,62,52,2022-07-17,1,17,0,0.0,17.0,17.0,7.68,9.32,Credit Card,Cancelled,Website,MDW2 - Chicago IL,N
+1495,31,27,2022-05-27,1,199,15,29.85,169.15,169.15,124.32,44.83,Debit Card,Delivered,Website,MDW2 - Chicago IL,N
+1496,170,52,2023-12-04,1,17,5,0.85,16.15,16.15,7.68,8.47,Credit Card,Delivered,Website,ATL6 - Atlanta GA,N
+1497,123,79,2022-03-06,2,9,5,0.45,8.55,17.1,8.64,8.46,Credit Card,Shipped,Website,DAL7 - Dallas TX,N
+1498,99,69,2023-12-20,3,9,5,0.45,8.55,25.65,14.91,10.74,Amazon Pay,Cancelled,Third-Party Marketplace,DAL7 - Dallas TX,N
+1499,10,63,2023-06-01,3,15,0,0.0,15.0,45.0,28.95,16.05,Credit Card,Shipped,Mobile App,SEA6 - Seattle WA,N
+1500,162,13,2023-05-10,1,99,10,9.9,89.1,89.1,52.09,37.01,Debit Card,Processing,Website,ATL6 - Atlanta GA,N

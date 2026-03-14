@@ -1,0 +1,721 @@
+gl_id,fiscal_year,fiscal_quarter,period,region,account_id,account_class,account_name,financial_statement,amount
+1,2022,1,2022-Q1,West,4001,Revenue,Net Sales,Income Statement,31038644
+2,2022,1,2022-Q1,West,4002,Revenue,Return & Allowances,Income Statement,1238239
+3,2022,1,2022-Q1,West,5001,COGS,Cost of Goods Sold,Income Statement,18569862
+4,2022,1,2022-Q1,West,5002,COGS,Shipping & Fulfillment,Income Statement,1954149
+5,2022,1,2022-Q1,West,6001,OpEx,Marketing & Advertising,Income Statement,1661105
+6,2022,1,2022-Q1,West,6002,OpEx,Technology & Infrastructure,Income Statement,699566
+7,2022,1,2022-Q1,West,6003,OpEx,General & Administrative,Income Statement,405396
+8,2022,1,2022-Q1,West,6004,OpEx,Payroll & Benefits,Income Statement,3434082
+9,2022,1,2022-Q1,West,7001,Other,Interest Expense,Income Statement,167310
+10,2022,1,2022-Q1,West,1001,Asset,Cash & Equivalents,Balance Sheet,14956087
+11,2022,1,2022-Q1,West,1002,Asset,Accounts Receivable,Balance Sheet,5618496
+12,2022,1,2022-Q1,West,1003,Asset,Inventory,Balance Sheet,19328692
+13,2022,1,2022-Q1,West,2001,Liability,Accounts Payable,Balance Sheet,3236858
+14,2022,1,2022-Q1,West,2002,Liability,Long-term Debt,Balance Sheet,26988425
+15,2022,1,2022-Q1,West,3001,Equity,Retained Earnings,Balance Sheet,12456297
+16,2022,1,2022-Q1,East,4001,Revenue,Net Sales,Income Statement,19159299
+17,2022,1,2022-Q1,East,4002,Revenue,Return & Allowances,Income Statement,1026461
+18,2022,1,2022-Q1,East,5001,COGS,Cost of Goods Sold,Income Statement,14040589
+19,2022,1,2022-Q1,East,5002,COGS,Shipping & Fulfillment,Income Statement,2471358
+20,2022,1,2022-Q1,East,6001,OpEx,Marketing & Advertising,Income Statement,1376173
+21,2022,1,2022-Q1,East,6002,OpEx,Technology & Infrastructure,Income Statement,1330994
+22,2022,1,2022-Q1,East,6003,OpEx,General & Administrative,Income Statement,696248
+23,2022,1,2022-Q1,East,6004,OpEx,Payroll & Benefits,Income Statement,2814068
+24,2022,1,2022-Q1,East,7001,Other,Interest Expense,Income Statement,380841
+25,2022,1,2022-Q1,East,1001,Asset,Cash & Equivalents,Balance Sheet,5817300
+26,2022,1,2022-Q1,East,1002,Asset,Accounts Receivable,Balance Sheet,3062015
+27,2022,1,2022-Q1,East,1003,Asset,Inventory,Balance Sheet,17825762
+28,2022,1,2022-Q1,East,2001,Liability,Accounts Payable,Balance Sheet,3987075
+29,2022,1,2022-Q1,East,2002,Liability,Long-term Debt,Balance Sheet,27338793
+30,2022,1,2022-Q1,East,3001,Equity,Retained Earnings,Balance Sheet,13239274
+31,2022,1,2022-Q1,Central,4001,Revenue,Net Sales,Income Statement,20917871
+32,2022,1,2022-Q1,Central,4002,Revenue,Return & Allowances,Income Statement,1446090
+33,2022,1,2022-Q1,Central,5001,COGS,Cost of Goods Sold,Income Statement,18578703
+34,2022,1,2022-Q1,Central,5002,COGS,Shipping & Fulfillment,Income Statement,2115282
+35,2022,1,2022-Q1,Central,6001,OpEx,Marketing & Advertising,Income Statement,1141303
+36,2022,1,2022-Q1,Central,6002,OpEx,Technology & Infrastructure,Income Statement,641750
+37,2022,1,2022-Q1,Central,6003,OpEx,General & Administrative,Income Statement,552193
+38,2022,1,2022-Q1,Central,6004,OpEx,Payroll & Benefits,Income Statement,3260640
+39,2022,1,2022-Q1,Central,7001,Other,Interest Expense,Income Statement,273757
+40,2022,1,2022-Q1,Central,1001,Asset,Cash & Equivalents,Balance Sheet,12159368
+41,2022,1,2022-Q1,Central,1002,Asset,Accounts Receivable,Balance Sheet,2460008
+42,2022,1,2022-Q1,Central,1003,Asset,Inventory,Balance Sheet,19522715
+43,2022,1,2022-Q1,Central,2001,Liability,Accounts Payable,Balance Sheet,4298524
+44,2022,1,2022-Q1,Central,2002,Liability,Long-term Debt,Balance Sheet,12577673
+45,2022,1,2022-Q1,Central,3001,Equity,Retained Earnings,Balance Sheet,8340730
+46,2022,1,2022-Q1,South,4001,Revenue,Net Sales,Income Statement,26089070
+47,2022,1,2022-Q1,South,4002,Revenue,Return & Allowances,Income Statement,1009867
+48,2022,1,2022-Q1,South,5001,COGS,Cost of Goods Sold,Income Statement,15178242
+49,2022,1,2022-Q1,South,5002,COGS,Shipping & Fulfillment,Income Statement,1511938
+50,2022,1,2022-Q1,South,6001,OpEx,Marketing & Advertising,Income Statement,1612234
+51,2022,1,2022-Q1,South,6002,OpEx,Technology & Infrastructure,Income Statement,1413422
+52,2022,1,2022-Q1,South,6003,OpEx,General & Administrative,Income Statement,790348
+53,2022,1,2022-Q1,South,6004,OpEx,Payroll & Benefits,Income Statement,3691987
+54,2022,1,2022-Q1,South,7001,Other,Interest Expense,Income Statement,192605
+55,2022,1,2022-Q1,South,1001,Asset,Cash & Equivalents,Balance Sheet,11320306
+56,2022,1,2022-Q1,South,1002,Asset,Accounts Receivable,Balance Sheet,2184023
+57,2022,1,2022-Q1,South,1003,Asset,Inventory,Balance Sheet,13071360
+58,2022,1,2022-Q1,South,2001,Liability,Accounts Payable,Balance Sheet,4532412
+59,2022,1,2022-Q1,South,2002,Liability,Long-term Debt,Balance Sheet,17496820
+60,2022,1,2022-Q1,South,3001,Equity,Retained Earnings,Balance Sheet,10705434
+61,2022,2,2022-Q2,West,4001,Revenue,Net Sales,Income Statement,29459394
+62,2022,2,2022-Q2,West,4002,Revenue,Return & Allowances,Income Statement,1111917
+63,2022,2,2022-Q2,West,5001,COGS,Cost of Goods Sold,Income Statement,19277057
+64,2022,2,2022-Q2,West,5002,COGS,Shipping & Fulfillment,Income Statement,1979686
+65,2022,2,2022-Q2,West,6001,OpEx,Marketing & Advertising,Income Statement,1732533
+66,2022,2,2022-Q2,West,6002,OpEx,Technology & Infrastructure,Income Statement,1447688
+67,2022,2,2022-Q2,West,6003,OpEx,General & Administrative,Income Statement,767410
+68,2022,2,2022-Q2,West,6004,OpEx,Payroll & Benefits,Income Statement,3988186
+69,2022,2,2022-Q2,West,7001,Other,Interest Expense,Income Statement,160864
+70,2022,2,2022-Q2,West,1001,Asset,Cash & Equivalents,Balance Sheet,6703520
+71,2022,2,2022-Q2,West,1002,Asset,Accounts Receivable,Balance Sheet,2689683
+72,2022,2,2022-Q2,West,1003,Asset,Inventory,Balance Sheet,10335477
+73,2022,2,2022-Q2,West,2001,Liability,Accounts Payable,Balance Sheet,4107287
+74,2022,2,2022-Q2,West,2002,Liability,Long-term Debt,Balance Sheet,28883453
+75,2022,2,2022-Q2,West,3001,Equity,Retained Earnings,Balance Sheet,5397254
+76,2022,2,2022-Q2,East,4001,Revenue,Net Sales,Income Statement,25350052
+77,2022,2,2022-Q2,East,4002,Revenue,Return & Allowances,Income Statement,1020246
+78,2022,2,2022-Q2,East,5001,COGS,Cost of Goods Sold,Income Statement,17151796
+79,2022,2,2022-Q2,East,5002,COGS,Shipping & Fulfillment,Income Statement,2965743
+80,2022,2,2022-Q2,East,6001,OpEx,Marketing & Advertising,Income Statement,1701719
+81,2022,2,2022-Q2,East,6002,OpEx,Technology & Infrastructure,Income Statement,621535
+82,2022,2,2022-Q2,East,6003,OpEx,General & Administrative,Income Statement,771410
+83,2022,2,2022-Q2,East,6004,OpEx,Payroll & Benefits,Income Statement,3101372
+84,2022,2,2022-Q2,East,7001,Other,Interest Expense,Income Statement,293089
+85,2022,2,2022-Q2,East,1001,Asset,Cash & Equivalents,Balance Sheet,14118159
+86,2022,2,2022-Q2,East,1002,Asset,Accounts Receivable,Balance Sheet,2445972
+87,2022,2,2022-Q2,East,1003,Asset,Inventory,Balance Sheet,15023355
+88,2022,2,2022-Q2,East,2001,Liability,Accounts Payable,Balance Sheet,6973331
+89,2022,2,2022-Q2,East,2002,Liability,Long-term Debt,Balance Sheet,11125310
+90,2022,2,2022-Q2,East,3001,Equity,Retained Earnings,Balance Sheet,9679202
+91,2022,2,2022-Q2,Central,4001,Revenue,Net Sales,Income Statement,25319750
+92,2022,2,2022-Q2,Central,4002,Revenue,Return & Allowances,Income Statement,1084352
+93,2022,2,2022-Q2,Central,5001,COGS,Cost of Goods Sold,Income Statement,18084267
+94,2022,2,2022-Q2,Central,5002,COGS,Shipping & Fulfillment,Income Statement,1640380
+95,2022,2,2022-Q2,Central,6001,OpEx,Marketing & Advertising,Income Statement,936682
+96,2022,2,2022-Q2,Central,6002,OpEx,Technology & Infrastructure,Income Statement,691480
+97,2022,2,2022-Q2,Central,6003,OpEx,General & Administrative,Income Statement,537770
+98,2022,2,2022-Q2,Central,6004,OpEx,Payroll & Benefits,Income Statement,3840840
+99,2022,2,2022-Q2,Central,7001,Other,Interest Expense,Income Statement,287507
+100,2022,2,2022-Q2,Central,1001,Asset,Cash & Equivalents,Balance Sheet,12962894
+101,2022,2,2022-Q2,Central,1002,Asset,Accounts Receivable,Balance Sheet,3683287
+102,2022,2,2022-Q2,Central,1003,Asset,Inventory,Balance Sheet,16507953
+103,2022,2,2022-Q2,Central,2001,Liability,Accounts Payable,Balance Sheet,5040377
+104,2022,2,2022-Q2,Central,2002,Liability,Long-term Debt,Balance Sheet,14614649
+105,2022,2,2022-Q2,Central,3001,Equity,Retained Earnings,Balance Sheet,7030225
+106,2022,2,2022-Q2,South,4001,Revenue,Net Sales,Income Statement,18404486
+107,2022,2,2022-Q2,South,4002,Revenue,Return & Allowances,Income Statement,669864
+108,2022,2,2022-Q2,South,5001,COGS,Cost of Goods Sold,Income Statement,12449174
+109,2022,2,2022-Q2,South,5002,COGS,Shipping & Fulfillment,Income Statement,2696258
+110,2022,2,2022-Q2,South,6001,OpEx,Marketing & Advertising,Income Statement,1191728
+111,2022,2,2022-Q2,South,6002,OpEx,Technology & Infrastructure,Income Statement,1296926
+112,2022,2,2022-Q2,South,6003,OpEx,General & Administrative,Income Statement,503031
+113,2022,2,2022-Q2,South,6004,OpEx,Payroll & Benefits,Income Statement,2935543
+114,2022,2,2022-Q2,South,7001,Other,Interest Expense,Income Statement,386218
+115,2022,2,2022-Q2,South,1001,Asset,Cash & Equivalents,Balance Sheet,11263217
+116,2022,2,2022-Q2,South,1002,Asset,Accounts Receivable,Balance Sheet,4337772
+117,2022,2,2022-Q2,South,1003,Asset,Inventory,Balance Sheet,12412519
+118,2022,2,2022-Q2,South,2001,Liability,Accounts Payable,Balance Sheet,7008745
+119,2022,2,2022-Q2,South,2002,Liability,Long-term Debt,Balance Sheet,12242069
+120,2022,2,2022-Q2,South,3001,Equity,Retained Earnings,Balance Sheet,8112344
+121,2022,3,2022-Q3,West,4001,Revenue,Net Sales,Income Statement,27766361
+122,2022,3,2022-Q3,West,4002,Revenue,Return & Allowances,Income Statement,933330
+123,2022,3,2022-Q3,West,5001,COGS,Cost of Goods Sold,Income Statement,12943637
+124,2022,3,2022-Q3,West,5002,COGS,Shipping & Fulfillment,Income Statement,2673705
+125,2022,3,2022-Q3,West,6001,OpEx,Marketing & Advertising,Income Statement,883373
+126,2022,3,2022-Q3,West,6002,OpEx,Technology & Infrastructure,Income Statement,843529
+127,2022,3,2022-Q3,West,6003,OpEx,General & Administrative,Income Statement,506140
+128,2022,3,2022-Q3,West,6004,OpEx,Payroll & Benefits,Income Statement,2309093
+129,2022,3,2022-Q3,West,7001,Other,Interest Expense,Income Statement,257466
+130,2022,3,2022-Q3,West,1001,Asset,Cash & Equivalents,Balance Sheet,7234973
+131,2022,3,2022-Q3,West,1002,Asset,Accounts Receivable,Balance Sheet,5131644
+132,2022,3,2022-Q3,West,1003,Asset,Inventory,Balance Sheet,19768779
+133,2022,3,2022-Q3,West,2001,Liability,Accounts Payable,Balance Sheet,6277511
+134,2022,3,2022-Q3,West,2002,Liability,Long-term Debt,Balance Sheet,10375595
+135,2022,3,2022-Q3,West,3001,Equity,Retained Earnings,Balance Sheet,11238751
+136,2022,3,2022-Q3,East,4001,Revenue,Net Sales,Income Statement,19006532
+137,2022,3,2022-Q3,East,4002,Revenue,Return & Allowances,Income Statement,1034979
+138,2022,3,2022-Q3,East,5001,COGS,Cost of Goods Sold,Income Statement,11204101
+139,2022,3,2022-Q3,East,5002,COGS,Shipping & Fulfillment,Income Statement,1736459
+140,2022,3,2022-Q3,East,6001,OpEx,Marketing & Advertising,Income Statement,1900088
+141,2022,3,2022-Q3,East,6002,OpEx,Technology & Infrastructure,Income Statement,1298258
+142,2022,3,2022-Q3,East,6003,OpEx,General & Administrative,Income Statement,539401
+143,2022,3,2022-Q3,East,6004,OpEx,Payroll & Benefits,Income Statement,3228035
+144,2022,3,2022-Q3,East,7001,Other,Interest Expense,Income Statement,378144
+145,2022,3,2022-Q3,East,1001,Asset,Cash & Equivalents,Balance Sheet,5148604
+146,2022,3,2022-Q3,East,1002,Asset,Accounts Receivable,Balance Sheet,3272317
+147,2022,3,2022-Q3,East,1003,Asset,Inventory,Balance Sheet,10299515
+148,2022,3,2022-Q3,East,2001,Liability,Accounts Payable,Balance Sheet,5680405
+149,2022,3,2022-Q3,East,2002,Liability,Long-term Debt,Balance Sheet,18176414
+150,2022,3,2022-Q3,East,3001,Equity,Retained Earnings,Balance Sheet,13059592
+151,2022,3,2022-Q3,Central,4001,Revenue,Net Sales,Income Statement,31442329
+152,2022,3,2022-Q3,Central,4002,Revenue,Return & Allowances,Income Statement,723934
+153,2022,3,2022-Q3,Central,5001,COGS,Cost of Goods Sold,Income Statement,14165307
+154,2022,3,2022-Q3,Central,5002,COGS,Shipping & Fulfillment,Income Statement,2892585
+155,2022,3,2022-Q3,Central,6001,OpEx,Marketing & Advertising,Income Statement,1795642
+156,2022,3,2022-Q3,Central,6002,OpEx,Technology & Infrastructure,Income Statement,1101508
+157,2022,3,2022-Q3,Central,6003,OpEx,General & Administrative,Income Statement,650994
+158,2022,3,2022-Q3,Central,6004,OpEx,Payroll & Benefits,Income Statement,2449047
+159,2022,3,2022-Q3,Central,7001,Other,Interest Expense,Income Statement,151929
+160,2022,3,2022-Q3,Central,1001,Asset,Cash & Equivalents,Balance Sheet,7892693
+161,2022,3,2022-Q3,Central,1002,Asset,Accounts Receivable,Balance Sheet,3626792
+162,2022,3,2022-Q3,Central,1003,Asset,Inventory,Balance Sheet,17278346
+163,2022,3,2022-Q3,Central,2001,Liability,Accounts Payable,Balance Sheet,7541616
+164,2022,3,2022-Q3,Central,2002,Liability,Long-term Debt,Balance Sheet,12379631
+165,2022,3,2022-Q3,Central,3001,Equity,Retained Earnings,Balance Sheet,7451359
+166,2022,3,2022-Q3,South,4001,Revenue,Net Sales,Income Statement,29191784
+167,2022,3,2022-Q3,South,4002,Revenue,Return & Allowances,Income Statement,633122
+168,2022,3,2022-Q3,South,5001,COGS,Cost of Goods Sold,Income Statement,19554163
+169,2022,3,2022-Q3,South,5002,COGS,Shipping & Fulfillment,Income Statement,1804931
+170,2022,3,2022-Q3,South,6001,OpEx,Marketing & Advertising,Income Statement,942593
+171,2022,3,2022-Q3,South,6002,OpEx,Technology & Infrastructure,Income Statement,1100892
+172,2022,3,2022-Q3,South,6003,OpEx,General & Administrative,Income Statement,669161
+173,2022,3,2022-Q3,South,6004,OpEx,Payroll & Benefits,Income Statement,2152232
+174,2022,3,2022-Q3,South,7001,Other,Interest Expense,Income Statement,396829
+175,2022,3,2022-Q3,South,1001,Asset,Cash & Equivalents,Balance Sheet,7763756
+176,2022,3,2022-Q3,South,1002,Asset,Accounts Receivable,Balance Sheet,3036277
+177,2022,3,2022-Q3,South,1003,Asset,Inventory,Balance Sheet,18518323
+178,2022,3,2022-Q3,South,2001,Liability,Accounts Payable,Balance Sheet,6468761
+179,2022,3,2022-Q3,South,2002,Liability,Long-term Debt,Balance Sheet,22137393
+180,2022,3,2022-Q3,South,3001,Equity,Retained Earnings,Balance Sheet,8780612
+181,2022,4,2022-Q4,West,4001,Revenue,Net Sales,Income Statement,31891126
+182,2022,4,2022-Q4,West,4002,Revenue,Return & Allowances,Income Statement,775218
+183,2022,4,2022-Q4,West,5001,COGS,Cost of Goods Sold,Income Statement,17818117
+184,2022,4,2022-Q4,West,5002,COGS,Shipping & Fulfillment,Income Statement,1625143
+185,2022,4,2022-Q4,West,6001,OpEx,Marketing & Advertising,Income Statement,1705699
+186,2022,4,2022-Q4,West,6002,OpEx,Technology & Infrastructure,Income Statement,644993
+187,2022,4,2022-Q4,West,6003,OpEx,General & Administrative,Income Statement,856481
+188,2022,4,2022-Q4,West,6004,OpEx,Payroll & Benefits,Income Statement,2672111
+189,2022,4,2022-Q4,West,7001,Other,Interest Expense,Income Statement,306899
+190,2022,4,2022-Q4,West,1001,Asset,Cash & Equivalents,Balance Sheet,5464145
+191,2022,4,2022-Q4,West,1002,Asset,Accounts Receivable,Balance Sheet,2807846
+192,2022,4,2022-Q4,West,1003,Asset,Inventory,Balance Sheet,19268517
+193,2022,4,2022-Q4,West,2001,Liability,Accounts Payable,Balance Sheet,6134673
+194,2022,4,2022-Q4,West,2002,Liability,Long-term Debt,Balance Sheet,23112274
+195,2022,4,2022-Q4,West,3001,Equity,Retained Earnings,Balance Sheet,12546867
+196,2022,4,2022-Q4,East,4001,Revenue,Net Sales,Income Statement,28174316
+197,2022,4,2022-Q4,East,4002,Revenue,Return & Allowances,Income Statement,1377000
+198,2022,4,2022-Q4,East,5001,COGS,Cost of Goods Sold,Income Statement,14770193
+199,2022,4,2022-Q4,East,5002,COGS,Shipping & Fulfillment,Income Statement,1767022
+200,2022,4,2022-Q4,East,6001,OpEx,Marketing & Advertising,Income Statement,1805302
+201,2022,4,2022-Q4,East,6002,OpEx,Technology & Infrastructure,Income Statement,1244764
+202,2022,4,2022-Q4,East,6003,OpEx,General & Administrative,Income Statement,897752
+203,2022,4,2022-Q4,East,6004,OpEx,Payroll & Benefits,Income Statement,3657730
+204,2022,4,2022-Q4,East,7001,Other,Interest Expense,Income Statement,367149
+205,2022,4,2022-Q4,East,1001,Asset,Cash & Equivalents,Balance Sheet,11820472
+206,2022,4,2022-Q4,East,1002,Asset,Accounts Receivable,Balance Sheet,4709692
+207,2022,4,2022-Q4,East,1003,Asset,Inventory,Balance Sheet,18659311
+208,2022,4,2022-Q4,East,2001,Liability,Accounts Payable,Balance Sheet,4319403
+209,2022,4,2022-Q4,East,2002,Liability,Long-term Debt,Balance Sheet,18098046
+210,2022,4,2022-Q4,East,3001,Equity,Retained Earnings,Balance Sheet,13745266
+211,2022,4,2022-Q4,Central,4001,Revenue,Net Sales,Income Statement,22825591
+212,2022,4,2022-Q4,Central,4002,Revenue,Return & Allowances,Income Statement,1021282
+213,2022,4,2022-Q4,Central,5001,COGS,Cost of Goods Sold,Income Statement,12259220
+214,2022,4,2022-Q4,Central,5002,COGS,Shipping & Fulfillment,Income Statement,2407524
+215,2022,4,2022-Q4,Central,6001,OpEx,Marketing & Advertising,Income Statement,864831
+216,2022,4,2022-Q4,Central,6002,OpEx,Technology & Infrastructure,Income Statement,1037588
+217,2022,4,2022-Q4,Central,6003,OpEx,General & Administrative,Income Statement,434778
+218,2022,4,2022-Q4,Central,6004,OpEx,Payroll & Benefits,Income Statement,3177942
+219,2022,4,2022-Q4,Central,7001,Other,Interest Expense,Income Statement,144481
+220,2022,4,2022-Q4,Central,1001,Asset,Cash & Equivalents,Balance Sheet,7442155
+221,2022,4,2022-Q4,Central,1002,Asset,Accounts Receivable,Balance Sheet,5241853
+222,2022,4,2022-Q4,Central,1003,Asset,Inventory,Balance Sheet,18760908
+223,2022,4,2022-Q4,Central,2001,Liability,Accounts Payable,Balance Sheet,3335112
+224,2022,4,2022-Q4,Central,2002,Liability,Long-term Debt,Balance Sheet,22399071
+225,2022,4,2022-Q4,Central,3001,Equity,Retained Earnings,Balance Sheet,9653822
+226,2022,4,2022-Q4,South,4001,Revenue,Net Sales,Income Statement,24597931
+227,2022,4,2022-Q4,South,4002,Revenue,Return & Allowances,Income Statement,794475
+228,2022,4,2022-Q4,South,5001,COGS,Cost of Goods Sold,Income Statement,18793135
+229,2022,4,2022-Q4,South,5002,COGS,Shipping & Fulfillment,Income Statement,2863498
+230,2022,4,2022-Q4,South,6001,OpEx,Marketing & Advertising,Income Statement,1516140
+231,2022,4,2022-Q4,South,6002,OpEx,Technology & Infrastructure,Income Statement,918239
+232,2022,4,2022-Q4,South,6003,OpEx,General & Administrative,Income Statement,838474
+233,2022,4,2022-Q4,South,6004,OpEx,Payroll & Benefits,Income Statement,3122586
+234,2022,4,2022-Q4,South,7001,Other,Interest Expense,Income Statement,271488
+235,2022,4,2022-Q4,South,1001,Asset,Cash & Equivalents,Balance Sheet,10169762
+236,2022,4,2022-Q4,South,1002,Asset,Accounts Receivable,Balance Sheet,5587719
+237,2022,4,2022-Q4,South,1003,Asset,Inventory,Balance Sheet,15883813
+238,2022,4,2022-Q4,South,2001,Liability,Accounts Payable,Balance Sheet,7290269
+239,2022,4,2022-Q4,South,2002,Liability,Long-term Debt,Balance Sheet,26367432
+240,2022,4,2022-Q4,South,3001,Equity,Retained Earnings,Balance Sheet,11477579
+241,2023,1,2023-Q1,West,4001,Revenue,Net Sales,Income Statement,30707360
+242,2023,1,2023-Q1,West,4002,Revenue,Return & Allowances,Income Statement,1413476
+243,2023,1,2023-Q1,West,5001,COGS,Cost of Goods Sold,Income Statement,13302963
+244,2023,1,2023-Q1,West,5002,COGS,Shipping & Fulfillment,Income Statement,2484252
+245,2023,1,2023-Q1,West,6001,OpEx,Marketing & Advertising,Income Statement,1506898
+246,2023,1,2023-Q1,West,6002,OpEx,Technology & Infrastructure,Income Statement,695407
+247,2023,1,2023-Q1,West,6003,OpEx,General & Administrative,Income Statement,762505
+248,2023,1,2023-Q1,West,6004,OpEx,Payroll & Benefits,Income Statement,3026924
+249,2023,1,2023-Q1,West,7001,Other,Interest Expense,Income Statement,279521
+250,2023,1,2023-Q1,West,1001,Asset,Cash & Equivalents,Balance Sheet,13937879
+251,2023,1,2023-Q1,West,1002,Asset,Accounts Receivable,Balance Sheet,4168445
+252,2023,1,2023-Q1,West,1003,Asset,Inventory,Balance Sheet,18340916
+253,2023,1,2023-Q1,West,2001,Liability,Accounts Payable,Balance Sheet,3527931
+254,2023,1,2023-Q1,West,2002,Liability,Long-term Debt,Balance Sheet,18442058
+255,2023,1,2023-Q1,West,3001,Equity,Retained Earnings,Balance Sheet,9499844
+256,2023,1,2023-Q1,East,4001,Revenue,Net Sales,Income Statement,22550839
+257,2023,1,2023-Q1,East,4002,Revenue,Return & Allowances,Income Statement,1417243
+258,2023,1,2023-Q1,East,5001,COGS,Cost of Goods Sold,Income Statement,15847725
+259,2023,1,2023-Q1,East,5002,COGS,Shipping & Fulfillment,Income Statement,2746618
+260,2023,1,2023-Q1,East,6001,OpEx,Marketing & Advertising,Income Statement,1876925
+261,2023,1,2023-Q1,East,6002,OpEx,Technology & Infrastructure,Income Statement,838909
+262,2023,1,2023-Q1,East,6003,OpEx,General & Administrative,Income Statement,564129
+263,2023,1,2023-Q1,East,6004,OpEx,Payroll & Benefits,Income Statement,3943682
+264,2023,1,2023-Q1,East,7001,Other,Interest Expense,Income Statement,269955
+265,2023,1,2023-Q1,East,1001,Asset,Cash & Equivalents,Balance Sheet,9016713
+266,2023,1,2023-Q1,East,1002,Asset,Accounts Receivable,Balance Sheet,4374038
+267,2023,1,2023-Q1,East,1003,Asset,Inventory,Balance Sheet,11208920
+268,2023,1,2023-Q1,East,2001,Liability,Accounts Payable,Balance Sheet,5923540
+269,2023,1,2023-Q1,East,2002,Liability,Long-term Debt,Balance Sheet,20279320
+270,2023,1,2023-Q1,East,3001,Equity,Retained Earnings,Balance Sheet,8218650
+271,2023,1,2023-Q1,Central,4001,Revenue,Net Sales,Income Statement,31853538
+272,2023,1,2023-Q1,Central,4002,Revenue,Return & Allowances,Income Statement,851271
+273,2023,1,2023-Q1,Central,5001,COGS,Cost of Goods Sold,Income Statement,19685090
+274,2023,1,2023-Q1,Central,5002,COGS,Shipping & Fulfillment,Income Statement,2917884
+275,2023,1,2023-Q1,Central,6001,OpEx,Marketing & Advertising,Income Statement,1663060
+276,2023,1,2023-Q1,Central,6002,OpEx,Technology & Infrastructure,Income Statement,892051
+277,2023,1,2023-Q1,Central,6003,OpEx,General & Administrative,Income Statement,538364
+278,2023,1,2023-Q1,Central,6004,OpEx,Payroll & Benefits,Income Statement,3253594
+279,2023,1,2023-Q1,Central,7001,Other,Interest Expense,Income Statement,322218
+280,2023,1,2023-Q1,Central,1001,Asset,Cash & Equivalents,Balance Sheet,8160035
+281,2023,1,2023-Q1,Central,1002,Asset,Accounts Receivable,Balance Sheet,5222542
+282,2023,1,2023-Q1,Central,1003,Asset,Inventory,Balance Sheet,18285334
+283,2023,1,2023-Q1,Central,2001,Liability,Accounts Payable,Balance Sheet,4168345
+284,2023,1,2023-Q1,Central,2002,Liability,Long-term Debt,Balance Sheet,19899070
+285,2023,1,2023-Q1,Central,3001,Equity,Retained Earnings,Balance Sheet,8187101
+286,2023,1,2023-Q1,South,4001,Revenue,Net Sales,Income Statement,29527681
+287,2023,1,2023-Q1,South,4002,Revenue,Return & Allowances,Income Statement,1219301
+288,2023,1,2023-Q1,South,5001,COGS,Cost of Goods Sold,Income Statement,17064744
+289,2023,1,2023-Q1,South,5002,COGS,Shipping & Fulfillment,Income Statement,2994474
+290,2023,1,2023-Q1,South,6001,OpEx,Marketing & Advertising,Income Statement,1938283
+291,2023,1,2023-Q1,South,6002,OpEx,Technology & Infrastructure,Income Statement,1179761
+292,2023,1,2023-Q1,South,6003,OpEx,General & Administrative,Income Statement,568371
+293,2023,1,2023-Q1,South,6004,OpEx,Payroll & Benefits,Income Statement,2428793
+294,2023,1,2023-Q1,South,7001,Other,Interest Expense,Income Statement,342583
+295,2023,1,2023-Q1,South,1001,Asset,Cash & Equivalents,Balance Sheet,14760129
+296,2023,1,2023-Q1,South,1002,Asset,Accounts Receivable,Balance Sheet,4181510
+297,2023,1,2023-Q1,South,1003,Asset,Inventory,Balance Sheet,10909431
+298,2023,1,2023-Q1,South,2001,Liability,Accounts Payable,Balance Sheet,3983235
+299,2023,1,2023-Q1,South,2002,Liability,Long-term Debt,Balance Sheet,19779812
+300,2023,1,2023-Q1,South,3001,Equity,Retained Earnings,Balance Sheet,9144427
+301,2023,2,2023-Q2,West,4001,Revenue,Net Sales,Income Statement,21451640
+302,2023,2,2023-Q2,West,4002,Revenue,Return & Allowances,Income Statement,1127186
+303,2023,2,2023-Q2,West,5001,COGS,Cost of Goods Sold,Income Statement,16660164
+304,2023,2,2023-Q2,West,5002,COGS,Shipping & Fulfillment,Income Statement,1883942
+305,2023,2,2023-Q2,West,6001,OpEx,Marketing & Advertising,Income Statement,1842191
+306,2023,2,2023-Q2,West,6002,OpEx,Technology & Infrastructure,Income Statement,993214
+307,2023,2,2023-Q2,West,6003,OpEx,General & Administrative,Income Statement,528782
+308,2023,2,2023-Q2,West,6004,OpEx,Payroll & Benefits,Income Statement,2821308
+309,2023,2,2023-Q2,West,7001,Other,Interest Expense,Income Statement,353935
+310,2023,2,2023-Q2,West,1001,Asset,Cash & Equivalents,Balance Sheet,9542271
+311,2023,2,2023-Q2,West,1002,Asset,Accounts Receivable,Balance Sheet,5911121
+312,2023,2,2023-Q2,West,1003,Asset,Inventory,Balance Sheet,17532636
+313,2023,2,2023-Q2,West,2001,Liability,Accounts Payable,Balance Sheet,6851035
+314,2023,2,2023-Q2,West,2002,Liability,Long-term Debt,Balance Sheet,28032440
+315,2023,2,2023-Q2,West,3001,Equity,Retained Earnings,Balance Sheet,10727732
+316,2023,2,2023-Q2,East,4001,Revenue,Net Sales,Income Statement,20455176
+317,2023,2,2023-Q2,East,4002,Revenue,Return & Allowances,Income Statement,767099
+318,2023,2,2023-Q2,East,5001,COGS,Cost of Goods Sold,Income Statement,12208802
+319,2023,2,2023-Q2,East,5002,COGS,Shipping & Fulfillment,Income Statement,2029605
+320,2023,2,2023-Q2,East,6001,OpEx,Marketing & Advertising,Income Statement,1060947
+321,2023,2,2023-Q2,East,6002,OpEx,Technology & Infrastructure,Income Statement,994853
+322,2023,2,2023-Q2,East,6003,OpEx,General & Administrative,Income Statement,826306
+323,2023,2,2023-Q2,East,6004,OpEx,Payroll & Benefits,Income Statement,3154866
+324,2023,2,2023-Q2,East,7001,Other,Interest Expense,Income Statement,306087
+325,2023,2,2023-Q2,East,1001,Asset,Cash & Equivalents,Balance Sheet,5054812
+326,2023,2,2023-Q2,East,1002,Asset,Accounts Receivable,Balance Sheet,2279115
+327,2023,2,2023-Q2,East,1003,Asset,Inventory,Balance Sheet,11169687
+328,2023,2,2023-Q2,East,2001,Liability,Accounts Payable,Balance Sheet,5137508
+329,2023,2,2023-Q2,East,2002,Liability,Long-term Debt,Balance Sheet,26611309
+330,2023,2,2023-Q2,East,3001,Equity,Retained Earnings,Balance Sheet,12629616
+331,2023,2,2023-Q2,Central,4001,Revenue,Net Sales,Income Statement,27238276
+332,2023,2,2023-Q2,Central,4002,Revenue,Return & Allowances,Income Statement,1111931
+333,2023,2,2023-Q2,Central,5001,COGS,Cost of Goods Sold,Income Statement,15648826
+334,2023,2,2023-Q2,Central,5002,COGS,Shipping & Fulfillment,Income Statement,2571892
+335,2023,2,2023-Q2,Central,6001,OpEx,Marketing & Advertising,Income Statement,1990036
+336,2023,2,2023-Q2,Central,6002,OpEx,Technology & Infrastructure,Income Statement,1040919
+337,2023,2,2023-Q2,Central,6003,OpEx,General & Administrative,Income Statement,504432
+338,2023,2,2023-Q2,Central,6004,OpEx,Payroll & Benefits,Income Statement,2557215
+339,2023,2,2023-Q2,Central,7001,Other,Interest Expense,Income Statement,126735
+340,2023,2,2023-Q2,Central,1001,Asset,Cash & Equivalents,Balance Sheet,12175737
+341,2023,2,2023-Q2,Central,1002,Asset,Accounts Receivable,Balance Sheet,4634495
+342,2023,2,2023-Q2,Central,1003,Asset,Inventory,Balance Sheet,16213447
+343,2023,2,2023-Q2,Central,2001,Liability,Accounts Payable,Balance Sheet,7993501
+344,2023,2,2023-Q2,Central,2002,Liability,Long-term Debt,Balance Sheet,13626535
+345,2023,2,2023-Q2,Central,3001,Equity,Retained Earnings,Balance Sheet,12992131
+346,2023,2,2023-Q2,South,4001,Revenue,Net Sales,Income Statement,25334532
+347,2023,2,2023-Q2,South,4002,Revenue,Return & Allowances,Income Statement,905678
+348,2023,2,2023-Q2,South,5001,COGS,Cost of Goods Sold,Income Statement,16253650
+349,2023,2,2023-Q2,South,5002,COGS,Shipping & Fulfillment,Income Statement,1750493
+350,2023,2,2023-Q2,South,6001,OpEx,Marketing & Advertising,Income Statement,1093029
+351,2023,2,2023-Q2,South,6002,OpEx,Technology & Infrastructure,Income Statement,789902
+352,2023,2,2023-Q2,South,6003,OpEx,General & Administrative,Income Statement,464443
+353,2023,2,2023-Q2,South,6004,OpEx,Payroll & Benefits,Income Statement,2757774
+354,2023,2,2023-Q2,South,7001,Other,Interest Expense,Income Statement,128574
+355,2023,2,2023-Q2,South,1001,Asset,Cash & Equivalents,Balance Sheet,5688446
+356,2023,2,2023-Q2,South,1002,Asset,Accounts Receivable,Balance Sheet,5553308
+357,2023,2,2023-Q2,South,1003,Asset,Inventory,Balance Sheet,9179102
+358,2023,2,2023-Q2,South,2001,Liability,Accounts Payable,Balance Sheet,5326630
+359,2023,2,2023-Q2,South,2002,Liability,Long-term Debt,Balance Sheet,13605813
+360,2023,2,2023-Q2,South,3001,Equity,Retained Earnings,Balance Sheet,14202146
+361,2023,3,2023-Q3,West,4001,Revenue,Net Sales,Income Statement,26979545
+362,2023,3,2023-Q3,West,4002,Revenue,Return & Allowances,Income Statement,781452
+363,2023,3,2023-Q3,West,5001,COGS,Cost of Goods Sold,Income Statement,13137788
+364,2023,3,2023-Q3,West,5002,COGS,Shipping & Fulfillment,Income Statement,1701097
+365,2023,3,2023-Q3,West,6001,OpEx,Marketing & Advertising,Income Statement,1687648
+366,2023,3,2023-Q3,West,6002,OpEx,Technology & Infrastructure,Income Statement,814845
+367,2023,3,2023-Q3,West,6003,OpEx,General & Administrative,Income Statement,420938
+368,2023,3,2023-Q3,West,6004,OpEx,Payroll & Benefits,Income Statement,3869215
+369,2023,3,2023-Q3,West,7001,Other,Interest Expense,Income Statement,397044
+370,2023,3,2023-Q3,West,1001,Asset,Cash & Equivalents,Balance Sheet,6004617
+371,2023,3,2023-Q3,West,1002,Asset,Accounts Receivable,Balance Sheet,2041339
+372,2023,3,2023-Q3,West,1003,Asset,Inventory,Balance Sheet,9869519
+373,2023,3,2023-Q3,West,2001,Liability,Accounts Payable,Balance Sheet,5832043
+374,2023,3,2023-Q3,West,2002,Liability,Long-term Debt,Balance Sheet,19300409
+375,2023,3,2023-Q3,West,3001,Equity,Retained Earnings,Balance Sheet,9767885
+376,2023,3,2023-Q3,East,4001,Revenue,Net Sales,Income Statement,25210891
+377,2023,3,2023-Q3,East,4002,Revenue,Return & Allowances,Income Statement,752371
+378,2023,3,2023-Q3,East,5001,COGS,Cost of Goods Sold,Income Statement,14866952
+379,2023,3,2023-Q3,East,5002,COGS,Shipping & Fulfillment,Income Statement,1962291
+380,2023,3,2023-Q3,East,6001,OpEx,Marketing & Advertising,Income Statement,1996670
+381,2023,3,2023-Q3,East,6002,OpEx,Technology & Infrastructure,Income Statement,1388242
+382,2023,3,2023-Q3,East,6003,OpEx,General & Administrative,Income Statement,539846
+383,2023,3,2023-Q3,East,6004,OpEx,Payroll & Benefits,Income Statement,3945845
+384,2023,3,2023-Q3,East,7001,Other,Interest Expense,Income Statement,389729
+385,2023,3,2023-Q3,East,1001,Asset,Cash & Equivalents,Balance Sheet,10931608
+386,2023,3,2023-Q3,East,1002,Asset,Accounts Receivable,Balance Sheet,5526436
+387,2023,3,2023-Q3,East,1003,Asset,Inventory,Balance Sheet,11965501
+388,2023,3,2023-Q3,East,2001,Liability,Accounts Payable,Balance Sheet,4272576
+389,2023,3,2023-Q3,East,2002,Liability,Long-term Debt,Balance Sheet,10770210
+390,2023,3,2023-Q3,East,3001,Equity,Retained Earnings,Balance Sheet,14289716
+391,2023,3,2023-Q3,Central,4001,Revenue,Net Sales,Income Statement,27799907
+392,2023,3,2023-Q3,Central,4002,Revenue,Return & Allowances,Income Statement,832102
+393,2023,3,2023-Q3,Central,5001,COGS,Cost of Goods Sold,Income Statement,14688845
+394,2023,3,2023-Q3,Central,5002,COGS,Shipping & Fulfillment,Income Statement,1860379
+395,2023,3,2023-Q3,Central,6001,OpEx,Marketing & Advertising,Income Statement,1603779
+396,2023,3,2023-Q3,Central,6002,OpEx,Technology & Infrastructure,Income Statement,813008
+397,2023,3,2023-Q3,Central,6003,OpEx,General & Administrative,Income Statement,684012
+398,2023,3,2023-Q3,Central,6004,OpEx,Payroll & Benefits,Income Statement,3292467
+399,2023,3,2023-Q3,Central,7001,Other,Interest Expense,Income Statement,109143
+400,2023,3,2023-Q3,Central,1001,Asset,Cash & Equivalents,Balance Sheet,7690994
+401,2023,3,2023-Q3,Central,1002,Asset,Accounts Receivable,Balance Sheet,2382427
+402,2023,3,2023-Q3,Central,1003,Asset,Inventory,Balance Sheet,17583821
+403,2023,3,2023-Q3,Central,2001,Liability,Accounts Payable,Balance Sheet,5262652
+404,2023,3,2023-Q3,Central,2002,Liability,Long-term Debt,Balance Sheet,26316080
+405,2023,3,2023-Q3,Central,3001,Equity,Retained Earnings,Balance Sheet,7089825
+406,2023,3,2023-Q3,South,4001,Revenue,Net Sales,Income Statement,19605305
+407,2023,3,2023-Q3,South,4002,Revenue,Return & Allowances,Income Statement,758152
+408,2023,3,2023-Q3,South,5001,COGS,Cost of Goods Sold,Income Statement,17818297
+409,2023,3,2023-Q3,South,5002,COGS,Shipping & Fulfillment,Income Statement,1963414
+410,2023,3,2023-Q3,South,6001,OpEx,Marketing & Advertising,Income Statement,1307562
+411,2023,3,2023-Q3,South,6002,OpEx,Technology & Infrastructure,Income Statement,1081827
+412,2023,3,2023-Q3,South,6003,OpEx,General & Administrative,Income Statement,719609
+413,2023,3,2023-Q3,South,6004,OpEx,Payroll & Benefits,Income Statement,2347377
+414,2023,3,2023-Q3,South,7001,Other,Interest Expense,Income Statement,190986
+415,2023,3,2023-Q3,South,1001,Asset,Cash & Equivalents,Balance Sheet,8696718
+416,2023,3,2023-Q3,South,1002,Asset,Accounts Receivable,Balance Sheet,3172185
+417,2023,3,2023-Q3,South,1003,Asset,Inventory,Balance Sheet,9801653
+418,2023,3,2023-Q3,South,2001,Liability,Accounts Payable,Balance Sheet,3026578
+419,2023,3,2023-Q3,South,2002,Liability,Long-term Debt,Balance Sheet,18011816
+420,2023,3,2023-Q3,South,3001,Equity,Retained Earnings,Balance Sheet,10175674
+421,2023,4,2023-Q4,West,4001,Revenue,Net Sales,Income Statement,25301331
+422,2023,4,2023-Q4,West,4002,Revenue,Return & Allowances,Income Statement,1107794
+423,2023,4,2023-Q4,West,5001,COGS,Cost of Goods Sold,Income Statement,17487804
+424,2023,4,2023-Q4,West,5002,COGS,Shipping & Fulfillment,Income Statement,2435676
+425,2023,4,2023-Q4,West,6001,OpEx,Marketing & Advertising,Income Statement,1247506
+426,2023,4,2023-Q4,West,6002,OpEx,Technology & Infrastructure,Income Statement,843459
+427,2023,4,2023-Q4,West,6003,OpEx,General & Administrative,Income Statement,452621
+428,2023,4,2023-Q4,West,6004,OpEx,Payroll & Benefits,Income Statement,3776879
+429,2023,4,2023-Q4,West,7001,Other,Interest Expense,Income Statement,142990
+430,2023,4,2023-Q4,West,1001,Asset,Cash & Equivalents,Balance Sheet,11854073
+431,2023,4,2023-Q4,West,1002,Asset,Accounts Receivable,Balance Sheet,4988127
+432,2023,4,2023-Q4,West,1003,Asset,Inventory,Balance Sheet,15451316
+433,2023,4,2023-Q4,West,2001,Liability,Accounts Payable,Balance Sheet,6712190
+434,2023,4,2023-Q4,West,2002,Liability,Long-term Debt,Balance Sheet,15046101
+435,2023,4,2023-Q4,West,3001,Equity,Retained Earnings,Balance Sheet,11450428
+436,2023,4,2023-Q4,East,4001,Revenue,Net Sales,Income Statement,28318875
+437,2023,4,2023-Q4,East,4002,Revenue,Return & Allowances,Income Statement,1287159
+438,2023,4,2023-Q4,East,5001,COGS,Cost of Goods Sold,Income Statement,17378070
+439,2023,4,2023-Q4,East,5002,COGS,Shipping & Fulfillment,Income Statement,1548290
+440,2023,4,2023-Q4,East,6001,OpEx,Marketing & Advertising,Income Statement,1935114
+441,2023,4,2023-Q4,East,6002,OpEx,Technology & Infrastructure,Income Statement,1402219
+442,2023,4,2023-Q4,East,6003,OpEx,General & Administrative,Income Statement,542461
+443,2023,4,2023-Q4,East,6004,OpEx,Payroll & Benefits,Income Statement,2430186
+444,2023,4,2023-Q4,East,7001,Other,Interest Expense,Income Statement,357697
+445,2023,4,2023-Q4,East,1001,Asset,Cash & Equivalents,Balance Sheet,12325776
+446,2023,4,2023-Q4,East,1002,Asset,Accounts Receivable,Balance Sheet,5311771
+447,2023,4,2023-Q4,East,1003,Asset,Inventory,Balance Sheet,16790177
+448,2023,4,2023-Q4,East,2001,Liability,Accounts Payable,Balance Sheet,5871326
+449,2023,4,2023-Q4,East,2002,Liability,Long-term Debt,Balance Sheet,20807212
+450,2023,4,2023-Q4,East,3001,Equity,Retained Earnings,Balance Sheet,5347553
+451,2023,4,2023-Q4,Central,4001,Revenue,Net Sales,Income Statement,26372370
+452,2023,4,2023-Q4,Central,4002,Revenue,Return & Allowances,Income Statement,1032214
+453,2023,4,2023-Q4,Central,5001,COGS,Cost of Goods Sold,Income Statement,17507893
+454,2023,4,2023-Q4,Central,5002,COGS,Shipping & Fulfillment,Income Statement,2427338
+455,2023,4,2023-Q4,Central,6001,OpEx,Marketing & Advertising,Income Statement,1230900
+456,2023,4,2023-Q4,Central,6002,OpEx,Technology & Infrastructure,Income Statement,991078
+457,2023,4,2023-Q4,Central,6003,OpEx,General & Administrative,Income Statement,475767
+458,2023,4,2023-Q4,Central,6004,OpEx,Payroll & Benefits,Income Statement,3475254
+459,2023,4,2023-Q4,Central,7001,Other,Interest Expense,Income Statement,140557
+460,2023,4,2023-Q4,Central,1001,Asset,Cash & Equivalents,Balance Sheet,11336155
+461,2023,4,2023-Q4,Central,1002,Asset,Accounts Receivable,Balance Sheet,2706243
+462,2023,4,2023-Q4,Central,1003,Asset,Inventory,Balance Sheet,14778101
+463,2023,4,2023-Q4,Central,2001,Liability,Accounts Payable,Balance Sheet,4737540
+464,2023,4,2023-Q4,Central,2002,Liability,Long-term Debt,Balance Sheet,17312462
+465,2023,4,2023-Q4,Central,3001,Equity,Retained Earnings,Balance Sheet,10271598
+466,2023,4,2023-Q4,South,4001,Revenue,Net Sales,Income Statement,23926811
+467,2023,4,2023-Q4,South,4002,Revenue,Return & Allowances,Income Statement,924780
+468,2023,4,2023-Q4,South,5001,COGS,Cost of Goods Sold,Income Statement,15599335
+469,2023,4,2023-Q4,South,5002,COGS,Shipping & Fulfillment,Income Statement,2021699
+470,2023,4,2023-Q4,South,6001,OpEx,Marketing & Advertising,Income Statement,1409597
+471,2023,4,2023-Q4,South,6002,OpEx,Technology & Infrastructure,Income Statement,842111
+472,2023,4,2023-Q4,South,6003,OpEx,General & Administrative,Income Statement,598937
+473,2023,4,2023-Q4,South,6004,OpEx,Payroll & Benefits,Income Statement,3259204
+474,2023,4,2023-Q4,South,7001,Other,Interest Expense,Income Statement,346264
+475,2023,4,2023-Q4,South,1001,Asset,Cash & Equivalents,Balance Sheet,5407283
+476,2023,4,2023-Q4,South,1002,Asset,Accounts Receivable,Balance Sheet,4879356
+477,2023,4,2023-Q4,South,1003,Asset,Inventory,Balance Sheet,17450758
+478,2023,4,2023-Q4,South,2001,Liability,Accounts Payable,Balance Sheet,5047431
+479,2023,4,2023-Q4,South,2002,Liability,Long-term Debt,Balance Sheet,12170802
+480,2023,4,2023-Q4,South,3001,Equity,Retained Earnings,Balance Sheet,12587425
+481,2024,1,2024-Q1,West,4001,Revenue,Net Sales,Income Statement,29963323
+482,2024,1,2024-Q1,West,4002,Revenue,Return & Allowances,Income Statement,1338966
+483,2024,1,2024-Q1,West,5001,COGS,Cost of Goods Sold,Income Statement,11367073
+484,2024,1,2024-Q1,West,5002,COGS,Shipping & Fulfillment,Income Statement,2315519
+485,2024,1,2024-Q1,West,6001,OpEx,Marketing & Advertising,Income Statement,1998850
+486,2024,1,2024-Q1,West,6002,OpEx,Technology & Infrastructure,Income Statement,961951
+487,2024,1,2024-Q1,West,6003,OpEx,General & Administrative,Income Statement,588492
+488,2024,1,2024-Q1,West,6004,OpEx,Payroll & Benefits,Income Statement,2798953
+489,2024,1,2024-Q1,West,7001,Other,Interest Expense,Income Statement,110744
+490,2024,1,2024-Q1,West,1001,Asset,Cash & Equivalents,Balance Sheet,13236899
+491,2024,1,2024-Q1,West,1002,Asset,Accounts Receivable,Balance Sheet,3829940
+492,2024,1,2024-Q1,West,1003,Asset,Inventory,Balance Sheet,15471356
+493,2024,1,2024-Q1,West,2001,Liability,Accounts Payable,Balance Sheet,6557925
+494,2024,1,2024-Q1,West,2002,Liability,Long-term Debt,Balance Sheet,13001809
+495,2024,1,2024-Q1,West,3001,Equity,Retained Earnings,Balance Sheet,12337722
+496,2024,1,2024-Q1,East,4001,Revenue,Net Sales,Income Statement,22276944
+497,2024,1,2024-Q1,East,4002,Revenue,Return & Allowances,Income Statement,865145
+498,2024,1,2024-Q1,East,5001,COGS,Cost of Goods Sold,Income Statement,14834547
+499,2024,1,2024-Q1,East,5002,COGS,Shipping & Fulfillment,Income Statement,2064388
+500,2024,1,2024-Q1,East,6001,OpEx,Marketing & Advertising,Income Statement,1568804
+501,2024,1,2024-Q1,East,6002,OpEx,Technology & Infrastructure,Income Statement,872482
+502,2024,1,2024-Q1,East,6003,OpEx,General & Administrative,Income Statement,650887
+503,2024,1,2024-Q1,East,6004,OpEx,Payroll & Benefits,Income Statement,2331555
+504,2024,1,2024-Q1,East,7001,Other,Interest Expense,Income Statement,188364
+505,2024,1,2024-Q1,East,1001,Asset,Cash & Equivalents,Balance Sheet,8676504
+506,2024,1,2024-Q1,East,1002,Asset,Accounts Receivable,Balance Sheet,5580454
+507,2024,1,2024-Q1,East,1003,Asset,Inventory,Balance Sheet,17822969
+508,2024,1,2024-Q1,East,2001,Liability,Accounts Payable,Balance Sheet,7338334
+509,2024,1,2024-Q1,East,2002,Liability,Long-term Debt,Balance Sheet,27815274
+510,2024,1,2024-Q1,East,3001,Equity,Retained Earnings,Balance Sheet,8283506
+511,2024,1,2024-Q1,Central,4001,Revenue,Net Sales,Income Statement,18608900
+512,2024,1,2024-Q1,Central,4002,Revenue,Return & Allowances,Income Statement,899973
+513,2024,1,2024-Q1,Central,5001,COGS,Cost of Goods Sold,Income Statement,17116500
+514,2024,1,2024-Q1,Central,5002,COGS,Shipping & Fulfillment,Income Statement,1600618
+515,2024,1,2024-Q1,Central,6001,OpEx,Marketing & Advertising,Income Statement,1279367
+516,2024,1,2024-Q1,Central,6002,OpEx,Technology & Infrastructure,Income Statement,694343
+517,2024,1,2024-Q1,Central,6003,OpEx,General & Administrative,Income Statement,770726
+518,2024,1,2024-Q1,Central,6004,OpEx,Payroll & Benefits,Income Statement,3920676
+519,2024,1,2024-Q1,Central,7001,Other,Interest Expense,Income Statement,183232
+520,2024,1,2024-Q1,Central,1001,Asset,Cash & Equivalents,Balance Sheet,6549825
+521,2024,1,2024-Q1,Central,1002,Asset,Accounts Receivable,Balance Sheet,4581384
+522,2024,1,2024-Q1,Central,1003,Asset,Inventory,Balance Sheet,19665412
+523,2024,1,2024-Q1,Central,2001,Liability,Accounts Payable,Balance Sheet,7637424
+524,2024,1,2024-Q1,Central,2002,Liability,Long-term Debt,Balance Sheet,11679905
+525,2024,1,2024-Q1,Central,3001,Equity,Retained Earnings,Balance Sheet,9200865
+526,2024,1,2024-Q1,South,4001,Revenue,Net Sales,Income Statement,19329684
+527,2024,1,2024-Q1,South,4002,Revenue,Return & Allowances,Income Statement,1050768
+528,2024,1,2024-Q1,South,5001,COGS,Cost of Goods Sold,Income Statement,15280628
+529,2024,1,2024-Q1,South,5002,COGS,Shipping & Fulfillment,Income Statement,2450221
+530,2024,1,2024-Q1,South,6001,OpEx,Marketing & Advertising,Income Statement,1112537
+531,2024,1,2024-Q1,South,6002,OpEx,Technology & Infrastructure,Income Statement,907393
+532,2024,1,2024-Q1,South,6003,OpEx,General & Administrative,Income Statement,474257
+533,2024,1,2024-Q1,South,6004,OpEx,Payroll & Benefits,Income Statement,3800405
+534,2024,1,2024-Q1,South,7001,Other,Interest Expense,Income Statement,328533
+535,2024,1,2024-Q1,South,1001,Asset,Cash & Equivalents,Balance Sheet,9672680
+536,2024,1,2024-Q1,South,1002,Asset,Accounts Receivable,Balance Sheet,5653275
+537,2024,1,2024-Q1,South,1003,Asset,Inventory,Balance Sheet,11120898
+538,2024,1,2024-Q1,South,2001,Liability,Accounts Payable,Balance Sheet,4921735
+539,2024,1,2024-Q1,South,2002,Liability,Long-term Debt,Balance Sheet,23739344
+540,2024,1,2024-Q1,South,3001,Equity,Retained Earnings,Balance Sheet,10227752
+541,2024,2,2024-Q2,West,4001,Revenue,Net Sales,Income Statement,20795567
+542,2024,2,2024-Q2,West,4002,Revenue,Return & Allowances,Income Statement,1045792
+543,2024,2,2024-Q2,West,5001,COGS,Cost of Goods Sold,Income Statement,12120364
+544,2024,2,2024-Q2,West,5002,COGS,Shipping & Fulfillment,Income Statement,1986152
+545,2024,2,2024-Q2,West,6001,OpEx,Marketing & Advertising,Income Statement,993506
+546,2024,2,2024-Q2,West,6002,OpEx,Technology & Infrastructure,Income Statement,1251107
+547,2024,2,2024-Q2,West,6003,OpEx,General & Administrative,Income Statement,427339
+548,2024,2,2024-Q2,West,6004,OpEx,Payroll & Benefits,Income Statement,3200848
+549,2024,2,2024-Q2,West,7001,Other,Interest Expense,Income Statement,192245
+550,2024,2,2024-Q2,West,1001,Asset,Cash & Equivalents,Balance Sheet,9835914
+551,2024,2,2024-Q2,West,1002,Asset,Accounts Receivable,Balance Sheet,4298220
+552,2024,2,2024-Q2,West,1003,Asset,Inventory,Balance Sheet,15889458
+553,2024,2,2024-Q2,West,2001,Liability,Accounts Payable,Balance Sheet,6550595
+554,2024,2,2024-Q2,West,2002,Liability,Long-term Debt,Balance Sheet,15634668
+555,2024,2,2024-Q2,West,3001,Equity,Retained Earnings,Balance Sheet,8963537
+556,2024,2,2024-Q2,East,4001,Revenue,Net Sales,Income Statement,18288262
+557,2024,2,2024-Q2,East,4002,Revenue,Return & Allowances,Income Statement,1346964
+558,2024,2,2024-Q2,East,5001,COGS,Cost of Goods Sold,Income Statement,14278016
+559,2024,2,2024-Q2,East,5002,COGS,Shipping & Fulfillment,Income Statement,2763815
+560,2024,2,2024-Q2,East,6001,OpEx,Marketing & Advertising,Income Statement,961580
+561,2024,2,2024-Q2,East,6002,OpEx,Technology & Infrastructure,Income Statement,670655
+562,2024,2,2024-Q2,East,6003,OpEx,General & Administrative,Income Statement,805188
+563,2024,2,2024-Q2,East,6004,OpEx,Payroll & Benefits,Income Statement,2212882
+564,2024,2,2024-Q2,East,7001,Other,Interest Expense,Income Statement,241056
+565,2024,2,2024-Q2,East,1001,Asset,Cash & Equivalents,Balance Sheet,7998601
+566,2024,2,2024-Q2,East,1002,Asset,Accounts Receivable,Balance Sheet,4239562
+567,2024,2,2024-Q2,East,1003,Asset,Inventory,Balance Sheet,10082677
+568,2024,2,2024-Q2,East,2001,Liability,Accounts Payable,Balance Sheet,6880042
+569,2024,2,2024-Q2,East,2002,Liability,Long-term Debt,Balance Sheet,28570319
+570,2024,2,2024-Q2,East,3001,Equity,Retained Earnings,Balance Sheet,11189628
+571,2024,2,2024-Q2,Central,4001,Revenue,Net Sales,Income Statement,30133425
+572,2024,2,2024-Q2,Central,4002,Revenue,Return & Allowances,Income Statement,687615
+573,2024,2,2024-Q2,Central,5001,COGS,Cost of Goods Sold,Income Statement,13562193
+574,2024,2,2024-Q2,Central,5002,COGS,Shipping & Fulfillment,Income Statement,2619160
+575,2024,2,2024-Q2,Central,6001,OpEx,Marketing & Advertising,Income Statement,1191762
+576,2024,2,2024-Q2,Central,6002,OpEx,Technology & Infrastructure,Income Statement,857579
+577,2024,2,2024-Q2,Central,6003,OpEx,General & Administrative,Income Statement,812566
+578,2024,2,2024-Q2,Central,6004,OpEx,Payroll & Benefits,Income Statement,2018342
+579,2024,2,2024-Q2,Central,7001,Other,Interest Expense,Income Statement,270644
+580,2024,2,2024-Q2,Central,1001,Asset,Cash & Equivalents,Balance Sheet,7882234
+581,2024,2,2024-Q2,Central,1002,Asset,Accounts Receivable,Balance Sheet,5214303
+582,2024,2,2024-Q2,Central,1003,Asset,Inventory,Balance Sheet,12569064
+583,2024,2,2024-Q2,Central,2001,Liability,Accounts Payable,Balance Sheet,7305418
+584,2024,2,2024-Q2,Central,2002,Liability,Long-term Debt,Balance Sheet,10695179
+585,2024,2,2024-Q2,Central,3001,Equity,Retained Earnings,Balance Sheet,13403927
+586,2024,2,2024-Q2,South,4001,Revenue,Net Sales,Income Statement,26464268
+587,2024,2,2024-Q2,South,4002,Revenue,Return & Allowances,Income Statement,1438305
+588,2024,2,2024-Q2,South,5001,COGS,Cost of Goods Sold,Income Statement,11953785
+589,2024,2,2024-Q2,South,5002,COGS,Shipping & Fulfillment,Income Statement,2325870
+590,2024,2,2024-Q2,South,6001,OpEx,Marketing & Advertising,Income Statement,1083008
+591,2024,2,2024-Q2,South,6002,OpEx,Technology & Infrastructure,Income Statement,775113
+592,2024,2,2024-Q2,South,6003,OpEx,General & Administrative,Income Statement,425346
+593,2024,2,2024-Q2,South,6004,OpEx,Payroll & Benefits,Income Statement,2983704
+594,2024,2,2024-Q2,South,7001,Other,Interest Expense,Income Statement,181741
+595,2024,2,2024-Q2,South,1001,Asset,Cash & Equivalents,Balance Sheet,7219474
+596,2024,2,2024-Q2,South,1002,Asset,Accounts Receivable,Balance Sheet,3014709
+597,2024,2,2024-Q2,South,1003,Asset,Inventory,Balance Sheet,18216806
+598,2024,2,2024-Q2,South,2001,Liability,Accounts Payable,Balance Sheet,6080220
+599,2024,2,2024-Q2,South,2002,Liability,Long-term Debt,Balance Sheet,29255697
+600,2024,2,2024-Q2,South,3001,Equity,Retained Earnings,Balance Sheet,9685491
+601,2024,3,2024-Q3,West,4001,Revenue,Net Sales,Income Statement,25757872
+602,2024,3,2024-Q3,West,4002,Revenue,Return & Allowances,Income Statement,757728
+603,2024,3,2024-Q3,West,5001,COGS,Cost of Goods Sold,Income Statement,18632696
+604,2024,3,2024-Q3,West,5002,COGS,Shipping & Fulfillment,Income Statement,1867305
+605,2024,3,2024-Q3,West,6001,OpEx,Marketing & Advertising,Income Statement,1030427
+606,2024,3,2024-Q3,West,6002,OpEx,Technology & Infrastructure,Income Statement,1348085
+607,2024,3,2024-Q3,West,6003,OpEx,General & Administrative,Income Statement,530136
+608,2024,3,2024-Q3,West,6004,OpEx,Payroll & Benefits,Income Statement,2339920
+609,2024,3,2024-Q3,West,7001,Other,Interest Expense,Income Statement,122163
+610,2024,3,2024-Q3,West,1001,Asset,Cash & Equivalents,Balance Sheet,6125315
+611,2024,3,2024-Q3,West,1002,Asset,Accounts Receivable,Balance Sheet,3583035
+612,2024,3,2024-Q3,West,1003,Asset,Inventory,Balance Sheet,10280095
+613,2024,3,2024-Q3,West,2001,Liability,Accounts Payable,Balance Sheet,3004809
+614,2024,3,2024-Q3,West,2002,Liability,Long-term Debt,Balance Sheet,19636916
+615,2024,3,2024-Q3,West,3001,Equity,Retained Earnings,Balance Sheet,12730483
+616,2024,3,2024-Q3,East,4001,Revenue,Net Sales,Income Statement,26873352
+617,2024,3,2024-Q3,East,4002,Revenue,Return & Allowances,Income Statement,1337642
+618,2024,3,2024-Q3,East,5001,COGS,Cost of Goods Sold,Income Statement,19220106
+619,2024,3,2024-Q3,East,5002,COGS,Shipping & Fulfillment,Income Statement,2920873
+620,2024,3,2024-Q3,East,6001,OpEx,Marketing & Advertising,Income Statement,1628410
+621,2024,3,2024-Q3,East,6002,OpEx,Technology & Infrastructure,Income Statement,1177047
+622,2024,3,2024-Q3,East,6003,OpEx,General & Administrative,Income Statement,683885
+623,2024,3,2024-Q3,East,6004,OpEx,Payroll & Benefits,Income Statement,3523025
+624,2024,3,2024-Q3,East,7001,Other,Interest Expense,Income Statement,311759
+625,2024,3,2024-Q3,East,1001,Asset,Cash & Equivalents,Balance Sheet,13808890
+626,2024,3,2024-Q3,East,1002,Asset,Accounts Receivable,Balance Sheet,3957147
+627,2024,3,2024-Q3,East,1003,Asset,Inventory,Balance Sheet,18860785
+628,2024,3,2024-Q3,East,2001,Liability,Accounts Payable,Balance Sheet,7359191
+629,2024,3,2024-Q3,East,2002,Liability,Long-term Debt,Balance Sheet,21876104
+630,2024,3,2024-Q3,East,3001,Equity,Retained Earnings,Balance Sheet,14688370
+631,2024,3,2024-Q3,Central,4001,Revenue,Net Sales,Income Statement,30052011
+632,2024,3,2024-Q3,Central,4002,Revenue,Return & Allowances,Income Statement,1378316
+633,2024,3,2024-Q3,Central,5001,COGS,Cost of Goods Sold,Income Statement,17798104
+634,2024,3,2024-Q3,Central,5002,COGS,Shipping & Fulfillment,Income Statement,2027286
+635,2024,3,2024-Q3,Central,6001,OpEx,Marketing & Advertising,Income Statement,1897797
+636,2024,3,2024-Q3,Central,6002,OpEx,Technology & Infrastructure,Income Statement,1027481
+637,2024,3,2024-Q3,Central,6003,OpEx,General & Administrative,Income Statement,487501
+638,2024,3,2024-Q3,Central,6004,OpEx,Payroll & Benefits,Income Statement,3055187
+639,2024,3,2024-Q3,Central,7001,Other,Interest Expense,Income Statement,362000
+640,2024,3,2024-Q3,Central,1001,Asset,Cash & Equivalents,Balance Sheet,7117953
+641,2024,3,2024-Q3,Central,1002,Asset,Accounts Receivable,Balance Sheet,5375738
+642,2024,3,2024-Q3,Central,1003,Asset,Inventory,Balance Sheet,8610970
+643,2024,3,2024-Q3,Central,2001,Liability,Accounts Payable,Balance Sheet,4735544
+644,2024,3,2024-Q3,Central,2002,Liability,Long-term Debt,Balance Sheet,12463468
+645,2024,3,2024-Q3,Central,3001,Equity,Retained Earnings,Balance Sheet,11165648
+646,2024,3,2024-Q3,South,4001,Revenue,Net Sales,Income Statement,23007028
+647,2024,3,2024-Q3,South,4002,Revenue,Return & Allowances,Income Statement,621148
+648,2024,3,2024-Q3,South,5001,COGS,Cost of Goods Sold,Income Statement,17919142
+649,2024,3,2024-Q3,South,5002,COGS,Shipping & Fulfillment,Income Statement,2302312
+650,2024,3,2024-Q3,South,6001,OpEx,Marketing & Advertising,Income Statement,1588412
+651,2024,3,2024-Q3,South,6002,OpEx,Technology & Infrastructure,Income Statement,914067
+652,2024,3,2024-Q3,South,6003,OpEx,General & Administrative,Income Statement,595886
+653,2024,3,2024-Q3,South,6004,OpEx,Payroll & Benefits,Income Statement,2050071
+654,2024,3,2024-Q3,South,7001,Other,Interest Expense,Income Statement,264912
+655,2024,3,2024-Q3,South,1001,Asset,Cash & Equivalents,Balance Sheet,13174221
+656,2024,3,2024-Q3,South,1002,Asset,Accounts Receivable,Balance Sheet,2833420
+657,2024,3,2024-Q3,South,1003,Asset,Inventory,Balance Sheet,8269132
+658,2024,3,2024-Q3,South,2001,Liability,Accounts Payable,Balance Sheet,4808335
+659,2024,3,2024-Q3,South,2002,Liability,Long-term Debt,Balance Sheet,24614214
+660,2024,3,2024-Q3,South,3001,Equity,Retained Earnings,Balance Sheet,7469105
+661,2024,4,2024-Q4,West,4001,Revenue,Net Sales,Income Statement,25548747
+662,2024,4,2024-Q4,West,4002,Revenue,Return & Allowances,Income Statement,1407224
+663,2024,4,2024-Q4,West,5001,COGS,Cost of Goods Sold,Income Statement,13346211
+664,2024,4,2024-Q4,West,5002,COGS,Shipping & Fulfillment,Income Statement,2861201
+665,2024,4,2024-Q4,West,6001,OpEx,Marketing & Advertising,Income Statement,1433281
+666,2024,4,2024-Q4,West,6002,OpEx,Technology & Infrastructure,Income Statement,1015614
+667,2024,4,2024-Q4,West,6003,OpEx,General & Administrative,Income Statement,528184
+668,2024,4,2024-Q4,West,6004,OpEx,Payroll & Benefits,Income Statement,2298456
+669,2024,4,2024-Q4,West,7001,Other,Interest Expense,Income Statement,108586
+670,2024,4,2024-Q4,West,1001,Asset,Cash & Equivalents,Balance Sheet,8809627
+671,2024,4,2024-Q4,West,1002,Asset,Accounts Receivable,Balance Sheet,5790240
+672,2024,4,2024-Q4,West,1003,Asset,Inventory,Balance Sheet,15365634
+673,2024,4,2024-Q4,West,2001,Liability,Accounts Payable,Balance Sheet,5121646
+674,2024,4,2024-Q4,West,2002,Liability,Long-term Debt,Balance Sheet,26333486
+675,2024,4,2024-Q4,West,3001,Equity,Retained Earnings,Balance Sheet,11698122
+676,2024,4,2024-Q4,East,4001,Revenue,Net Sales,Income Statement,25824038
+677,2024,4,2024-Q4,East,4002,Revenue,Return & Allowances,Income Statement,1247519
+678,2024,4,2024-Q4,East,5001,COGS,Cost of Goods Sold,Income Statement,18804839
+679,2024,4,2024-Q4,East,5002,COGS,Shipping & Fulfillment,Income Statement,2279232
+680,2024,4,2024-Q4,East,6001,OpEx,Marketing & Advertising,Income Statement,1229271
+681,2024,4,2024-Q4,East,6002,OpEx,Technology & Infrastructure,Income Statement,1085804
+682,2024,4,2024-Q4,East,6003,OpEx,General & Administrative,Income Statement,468374
+683,2024,4,2024-Q4,East,6004,OpEx,Payroll & Benefits,Income Statement,2871995
+684,2024,4,2024-Q4,East,7001,Other,Interest Expense,Income Statement,126920
+685,2024,4,2024-Q4,East,1001,Asset,Cash & Equivalents,Balance Sheet,9116558
+686,2024,4,2024-Q4,East,1002,Asset,Accounts Receivable,Balance Sheet,5975048
+687,2024,4,2024-Q4,East,1003,Asset,Inventory,Balance Sheet,10441713
+688,2024,4,2024-Q4,East,2001,Liability,Accounts Payable,Balance Sheet,3849638
+689,2024,4,2024-Q4,East,2002,Liability,Long-term Debt,Balance Sheet,19912586
+690,2024,4,2024-Q4,East,3001,Equity,Retained Earnings,Balance Sheet,11275276
+691,2024,4,2024-Q4,Central,4001,Revenue,Net Sales,Income Statement,18891194
+692,2024,4,2024-Q4,Central,4002,Revenue,Return & Allowances,Income Statement,867583
+693,2024,4,2024-Q4,Central,5001,COGS,Cost of Goods Sold,Income Statement,18802905
+694,2024,4,2024-Q4,Central,5002,COGS,Shipping & Fulfillment,Income Statement,2310668
+695,2024,4,2024-Q4,Central,6001,OpEx,Marketing & Advertising,Income Statement,1708868
+696,2024,4,2024-Q4,Central,6002,OpEx,Technology & Infrastructure,Income Statement,681918
+697,2024,4,2024-Q4,Central,6003,OpEx,General & Administrative,Income Statement,713648
+698,2024,4,2024-Q4,Central,6004,OpEx,Payroll & Benefits,Income Statement,2616460
+699,2024,4,2024-Q4,Central,7001,Other,Interest Expense,Income Statement,286003
+700,2024,4,2024-Q4,Central,1001,Asset,Cash & Equivalents,Balance Sheet,13599355
+701,2024,4,2024-Q4,Central,1002,Asset,Accounts Receivable,Balance Sheet,4313606
+702,2024,4,2024-Q4,Central,1003,Asset,Inventory,Balance Sheet,16004545
+703,2024,4,2024-Q4,Central,2001,Liability,Accounts Payable,Balance Sheet,3339943
+704,2024,4,2024-Q4,Central,2002,Liability,Long-term Debt,Balance Sheet,26087958
+705,2024,4,2024-Q4,Central,3001,Equity,Retained Earnings,Balance Sheet,6136751
+706,2024,4,2024-Q4,South,4001,Revenue,Net Sales,Income Statement,23913673
+707,2024,4,2024-Q4,South,4002,Revenue,Return & Allowances,Income Statement,847553
+708,2024,4,2024-Q4,South,5001,COGS,Cost of Goods Sold,Income Statement,14246044
+709,2024,4,2024-Q4,South,5002,COGS,Shipping & Fulfillment,Income Statement,2150833
+710,2024,4,2024-Q4,South,6001,OpEx,Marketing & Advertising,Income Statement,1862663
+711,2024,4,2024-Q4,South,6002,OpEx,Technology & Infrastructure,Income Statement,774006
+712,2024,4,2024-Q4,South,6003,OpEx,General & Administrative,Income Statement,405796
+713,2024,4,2024-Q4,South,6004,OpEx,Payroll & Benefits,Income Statement,2212447
+714,2024,4,2024-Q4,South,7001,Other,Interest Expense,Income Statement,176514
+715,2024,4,2024-Q4,South,1001,Asset,Cash & Equivalents,Balance Sheet,14421918
+716,2024,4,2024-Q4,South,1002,Asset,Accounts Receivable,Balance Sheet,3130820
+717,2024,4,2024-Q4,South,1003,Asset,Inventory,Balance Sheet,9004736
+718,2024,4,2024-Q4,South,2001,Liability,Accounts Payable,Balance Sheet,3207060
+719,2024,4,2024-Q4,South,2002,Liability,Long-term Debt,Balance Sheet,27096208
+720,2024,4,2024-Q4,South,3001,Equity,Retained Earnings,Balance Sheet,8669073

@@ -1,0 +1,81 @@
+product_id,product_name,category,unit_price,unit_cost,gross_margin_pct,supplier_country,is_prime_eligible
+1,iPhone 15 Pro,Electronics,999,514.24,48.5,China,Y
+2,Samsung Galaxy S24,Electronics,849,390.95,54.0,Japan,N
+3,MacBook Air M3,Electronics,1299,721.23,44.5,Japan,Y
+4,iPad Pro 12.9,Electronics,1099,599.23,45.5,Taiwan,Y
+5,Sony WH-1000XM5 Headphones,Electronics,349,188.6,46.0,China,Y
+6,Apple Watch Series 9,Electronics,399,237.58,40.5,Japan,Y
+7,Kindle Paperwhite,Electronics,139,75.28,45.8,USA,Y
+8,Echo Dot 5th Gen,Electronics,49,31.84,35.0,Vietnam,N
+9,Ring Video Doorbell,Electronics,99,58.13,41.3,Vietnam,N
+10,Bose SoundLink Speaker,Electronics,149,69.24,53.5,USA,Y
+11,Dell XPS 15 Laptop,Computers,1399,799.75,42.8,USA,Y
+12,HP Pavilion Desktop,Computers,699,353.0,49.5,Japan,Y
+13,Logitech MX Master Mouse,Computers,99,52.09,47.4,Germany,Y
+14,Mechanical Keyboard,Computers,129,69.76,45.9,Germany,N
+15,27-inch 4K Monitor,Computers,449,210.96,53.0,Japan,Y
+16,USB-C Hub 7-in-1,Computers,49,30.41,37.9,Japan,Y
+17,External SSD 1TB,Computers,89,47.71,46.4,China,N
+18,Webcam 4K,Computers,79,40.91,48.2,Vietnam,N
+19,Gaming Chair,Computers,249,132.77,46.7,USA,Y
+20,Standing Desk,Computers,399,213.61,46.5,Japan,Y
+21,Instant Pot Duo 7-in-1,Home & Kitchen,99,51.96,47.5,China,N
+22,Ninja Air Fryer,Home & Kitchen,129,59.78,53.7,USA,Y
+23,Keurig K-Elite,Home & Kitchen,149,79.92,46.4,Japan,Y
+24,Dyson V15 Vacuum,Home & Kitchen,649,397.42,38.8,Germany,Y
+25,iRobot Roomba j7,Home & Kitchen,499,283.08,43.3,Germany,Y
+26,KitchenAid Stand Mixer,Home & Kitchen,449,262.22,41.6,Vietnam,Y
+27,Nespresso Vertuo,Home & Kitchen,199,124.32,37.5,Vietnam,Y
+28,Le Creuset Dutch Oven,Home & Kitchen,349,224.64,35.6,Germany,Y
+29,Vitamix Blender,Home & Kitchen,449,233.63,48.0,Germany,Y
+30,Cuisinart Food Processor,Home & Kitchen,149,71.66,51.9,Vietnam,Y
+31,Nike Air Max 270,Clothing,150,92.92,38.1,Taiwan,Y
+32,Levi's 501 Jeans,Clothing,69,32.64,52.7,Taiwan,Y
+33,Patagonia Fleece Jacket,Clothing,179,109.45,38.9,Germany,Y
+34,Under Armour Training Shirt,Clothing,35,20.01,42.8,Japan,Y
+35,Columbia Rain Jacket,Clothing,149,67.91,54.4,Taiwan,Y
+36,Adidas Ultraboost Running Shoes,Clothing,180,114.18,36.6,Taiwan,Y
+37,Carhartt Work Pants,Clothing,59,28.69,51.4,China,N
+38,North Face Puffer Vest,Clothing,119,55.21,53.6,Japan,Y
+39,Champion Hoodie,Clothing,45,21.08,53.2,Germany,Y
+40,Hanes Crew Socks 6pk,Clothing,19,9.98,47.5,Vietnam,Y
+41,Peloton Bike Mat,Sports,39,18.78,51.8,Taiwan,Y
+42,Resistance Bands Set,Sports,29,17.56,39.4,Germany,Y
+43,Yoga Mat Premium,Sports,49,30.71,37.3,China,Y
+44,Adjustable Dumbbells 50lb,Sports,299,179.67,39.9,USA,Y
+45,Hydro Flask 32oz,Sports,44,22.19,49.6,Japan,N
+46,Garmin Forerunner 255,Sports,349,190.95,45.3,Vietnam,N
+47,TRX Suspension Trainer,Sports,199,100.42,49.5,Germany,Y
+48,Jump Rope Speed,Sports,19,9.86,48.1,USA,Y
+49,Foam Roller,Sports,29,16.98,41.4,Germany,N
+50,Pull-Up Bar,Sports,39,21.66,44.5,Taiwan,Y
+51,Atomic Habits,Books & Media,18,8.89,50.6,Germany,Y
+52,The Psychology of Money,Books & Media,17,7.68,54.8,Taiwan,Y
+53,Zero to One,Books & Media,16,9.66,39.6,Taiwan,Y
+54,Thinking Fast and Slow,Books & Media,16,8.25,48.4,USA,N
+55,The Lean Startup,Books & Media,19,11.39,40.1,China,Y
+56,Deep Work,Books & Media,17,8.94,47.4,Japan,Y
+57,Rich Dad Poor Dad,Books & Media,14,7.7,45.0,Japan,Y
+58,The Intelligent Investor,Books & Media,22,10.22,53.5,Japan,Y
+59,Sapiens,Books & Media,18,9.67,46.3,Vietnam,Y
+60,4-Hour Workweek,Books & Media,17,10.58,37.8,Germany,N
+61,Dyson Airwrap,Beauty,599,338.24,43.5,Japan,N
+62,La Mer Moisturizer,Beauty,195,99.04,49.2,Vietnam,Y
+63,CeraVe Cleanser,Beauty,15,9.65,35.7,China,N
+64,Neutrogena SPF50 Sunscreen,Beauty,12,7.4,38.3,Taiwan,Y
+65,Olaplex No.3 Treatment,Beauty,30,16.12,46.3,USA,Y
+66,Fenty Beauty Foundation,Beauty,38,20.41,46.3,Vietnam,Y
+67,Urban Decay Palette,Beauty,54,28.57,47.1,Taiwan,Y
+68,The Ordinary Serum,Beauty,10,4.94,50.6,China,Y
+69,Mario Badescu Spray,Beauty,9,4.97,44.8,USA,Y
+70,Tatcha Rice Wash,Beauty,38,23.99,36.9,Taiwan,Y
+71,Whole Bean Coffee 2lb,Grocery,22,13.1,40.5,Japan,Y
+72,Organic Oat Milk 6pk,Grocery,18,8.95,50.3,China,Y
+73,KIND Bars 12pk,Grocery,14,6.85,51.1,Germany,Y
+74,RXBAR Variety 12pk,Grocery,25,15.05,39.8,Japan,Y
+75,Ghirardelli Dark Chocolate,Grocery,12,5.83,51.4,Japan,N
+76,Organic Almonds 3lb,Grocery,19,10.31,45.7,Germany,N
+77,Kirkland Olive Oil,Grocery,19,11.14,41.4,Germany,Y
+78,Celsius Energy 12pk,Grocery,23,14.33,37.7,Japan,Y
+79,Nature Valley Granola Bars,Grocery,9,4.32,52.0,USA,N
+80,Larabar Fruit Bars 16pk,Grocery,18,9.69,46.2,Taiwan,Y
