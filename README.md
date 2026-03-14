@@ -24,12 +24,16 @@ This is a self-study project using fictional data, created for the purpose of le
 - Level 1: SELECT, WHERE, ORDER BY, LIMIT
 - Level 2: GROUP BY, HAVING, Aggregate Functions
 - Level 3: Multi-table JOIN, Table Aliases
+  
+## Excel Skills Demonstrated
+- Pivot Table: Average unit price and gross margin rate analysis by category
+- VLOOKUP: Product lookup by name to retrieve unit price and gross margin
 
 ## Tools Used
 - SQLite / DB Browser for SQLite
-- Microsoft Excel
+- Microsoft Excel (Pivot Table, VLOOKUP)
 
-## Nexus_query_1-3
+## Query 1-3: Product Pricing by Category
 ```sql
 SELECT product_name, category, unit_price, gross_margin_pct
 FROM nexus_products
