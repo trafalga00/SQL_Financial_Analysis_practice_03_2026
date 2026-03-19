@@ -65,7 +65,7 @@ ORDER BY total_revenue DESC;
 
 ## Query 22-31
 **Question:** What is the year-over-year gross profit trend?
--Year-over-year gross profit trend — showing total revenue, gross profit, and GP margin % by fiscal year, excluding cancelled orders.
+- Year-over-year gross profit trend — showing total revenue, gross profit, and GP margin % by fiscal year, excluding cancelled orders.
 
 ```sql
 SELECT 
@@ -82,7 +82,7 @@ ORDER BY fiscal_year;
 
 ## Query 33-41
 **Question:** Which states drive the most sales by category?
--State and category sales breakdown — showing order count and revenue per state/category combo, sorted by state then highest revenue. Joins orders with both customers and products.
+- State and category sales breakdown — showing order count and revenue per state/category combo, sorted by state then highest revenue. Joins orders with both customers and products.
 
 ```sql
 SELECT 
